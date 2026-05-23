@@ -1,0 +1,1182 @@
+{
+  "num_simulations": 1000,
+  "probabilities": [
+    {
+      "team": "Spain",
+      "win_probability": 11.1,
+      "final_probability": 17.1,
+      "semi_probability": 25.0,
+      "quarter_probability": 38.4,
+      "elo": 1648,
+      "fifa_rank": 3
+    },
+    {
+      "team": "Brazil",
+      "win_probability": 6.3,
+      "final_probability": 10.4,
+      "semi_probability": 17.0,
+      "quarter_probability": 29.9,
+      "elo": 1584,
+      "fifa_rank": 6
+    },
+    {
+      "team": "Germany",
+      "win_probability": 5.6,
+      "final_probability": 8.3,
+      "semi_probability": 16.2,
+      "quarter_probability": 27.7,
+      "elo": 1612,
+      "fifa_rank": 9
+    },
+    {
+      "team": "Argentina",
+      "win_probability": 5.5,
+      "final_probability": 10.5,
+      "semi_probability": 18.8,
+      "quarter_probability": 30.5,
+      "elo": 1558,
+      "fifa_rank": 1
+    },
+    {
+      "team": "France",
+      "win_probability": 5.0,
+      "final_probability": 9.4,
+      "semi_probability": 17.1,
+      "quarter_probability": 30.7,
+      "elo": 1526,
+      "fifa_rank": 2
+    },
+    {
+      "team": "Belgium",
+      "win_probability": 4.6,
+      "final_probability": 7.9,
+      "semi_probability": 13.5,
+      "quarter_probability": 25.2,
+      "elo": 1418,
+      "fifa_rank": 5
+    },
+    {
+      "team": "England",
+      "win_probability": 4.1,
+      "final_probability": 8.4,
+      "semi_probability": 16.3,
+      "quarter_probability": 28.1,
+      "elo": 1590,
+      "fifa_rank": 4
+    },
+    {
+      "team": "Italy",
+      "win_probability": 3.3,
+      "final_probability": 6.9,
+      "semi_probability": 13.3,
+      "quarter_probability": 25.7,
+      "elo": 1552,
+      "fifa_rank": 10
+    },
+    {
+      "team": "Portugal",
+      "win_probability": 3.3,
+      "final_probability": 7.8,
+      "semi_probability": 14.6,
+      "quarter_probability": 27.7,
+      "elo": 1684,
+      "fifa_rank": 8
+    },
+    {
+      "team": "Netherlands",
+      "win_probability": 3.3,
+      "final_probability": 7.5,
+      "semi_probability": 14.4,
+      "quarter_probability": 27.1,
+      "elo": 1492,
+      "fifa_rank": 7
+    },
+    {
+      "team": "Colombia",
+      "win_probability": 3.2,
+      "final_probability": 7.3,
+      "semi_probability": 13.2,
+      "quarter_probability": 23.2,
+      "elo": 1605,
+      "fifa_rank": 14
+    },
+    {
+      "team": "Uruguay",
+      "win_probability": 2.7,
+      "final_probability": 4.8,
+      "semi_probability": 8.9,
+      "quarter_probability": 18.1,
+      "elo": 1571,
+      "fifa_rank": 13
+    },
+    {
+      "team": "Morocco",
+      "win_probability": 2.5,
+      "final_probability": 4.6,
+      "semi_probability": 9.0,
+      "quarter_probability": 20.4,
+      "elo": 1550,
+      "fifa_rank": 11
+    },
+    {
+      "team": "USA",
+      "win_probability": 2.3,
+      "final_probability": 5.5,
+      "semi_probability": 10.8,
+      "quarter_probability": 22.7,
+      "elo": 1478,
+      "fifa_rank": 16
+    },
+    {
+      "team": "Japan",
+      "win_probability": 2.2,
+      "final_probability": 3.8,
+      "semi_probability": 7.3,
+      "quarter_probability": 14.7,
+      "elo": 1375,
+      "fifa_rank": 22
+    },
+    {
+      "team": "Denmark",
+      "win_probability": 2.1,
+      "final_probability": 3.6,
+      "semi_probability": 7.7,
+      "quarter_probability": 15.6,
+      "elo": 1577,
+      "fifa_rank": 21
+    },
+    {
+      "team": "Croatia",
+      "win_probability": 1.9,
+      "final_probability": 5.3,
+      "semi_probability": 10.5,
+      "quarter_probability": 23.3,
+      "elo": 1419,
+      "fifa_rank": 12
+    },
+    {
+      "team": "Ukraine",
+      "win_probability": 1.9,
+      "final_probability": 4.6,
+      "semi_probability": 9.3,
+      "quarter_probability": 18.0,
+      "elo": 1625,
+      "fifa_rank": 19
+    },
+    {
+      "team": "Ecuador",
+      "win_probability": 1.7,
+      "final_probability": 3.2,
+      "semi_probability": 7.9,
+      "quarter_probability": 17.0,
+      "elo": 1476,
+      "fifa_rank": 26
+    },
+    {
+      "team": "Switzerland",
+      "win_probability": 1.7,
+      "final_probability": 4.6,
+      "semi_probability": 9.6,
+      "quarter_probability": 20.0,
+      "elo": 1543,
+      "fifa_rank": 24
+    },
+    {
+      "team": "Senegal",
+      "win_probability": 1.7,
+      "final_probability": 4.0,
+      "semi_probability": 9.2,
+      "quarter_probability": 17.0,
+      "elo": 1444,
+      "fifa_rank": 17
+    },
+    {
+      "team": "Austria",
+      "win_probability": 1.7,
+      "final_probability": 3.6,
+      "semi_probability": 8.8,
+      "quarter_probability": 16.6,
+      "elo": 1349,
+      "fifa_rank": 27
+    },
+    {
+      "team": "Iran",
+      "win_probability": 1.7,
+      "final_probability": 3.8,
+      "semi_probability": 6.9,
+      "quarter_probability": 14.8,
+      "elo": 1415,
+      "fifa_rank": 18
+    },
+    {
+      "team": "Mexico",
+      "win_probability": 1.5,
+      "final_probability": 3.3,
+      "semi_probability": 8.5,
+      "quarter_probability": 19.4,
+      "elo": 1476,
+      "fifa_rank": 15
+    },
+    {
+      "team": "Ghana",
+      "win_probability": 1.4,
+      "final_probability": 2.8,
+      "semi_probability": 5.4,
+      "quarter_probability": 11.4,
+      "elo": 1436,
+      "fifa_rank": 47
+    },
+    {
+      "team": "Poland",
+      "win_probability": 1.3,
+      "final_probability": 2.4,
+      "semi_probability": 5.7,
+      "quarter_probability": 12.3,
+      "elo": 1320,
+      "fifa_rank": 30
+    },
+    {
+      "team": "South Korea",
+      "win_probability": 1.3,
+      "final_probability": 2.4,
+      "semi_probability": 4.8,
+      "quarter_probability": 12.2,
+      "elo": 1446,
+      "fifa_rank": 23
+    },
+    {
+      "team": "Sweden",
+      "win_probability": 1.2,
+      "final_probability": 2.5,
+      "semi_probability": 5.6,
+      "quarter_probability": 12.8,
+      "elo": 1471,
+      "fifa_rank": 31
+    },
+    {
+      "team": "Australia",
+      "win_probability": 1.1,
+      "final_probability": 1.5,
+      "semi_probability": 4.2,
+      "quarter_probability": 9.4,
+      "elo": 1472,
+      "fifa_rank": 20
+    },
+    {
+      "team": "Egypt",
+      "win_probability": 1.1,
+      "final_probability": 2.2,
+      "semi_probability": 6.1,
+      "quarter_probability": 13.2,
+      "elo": 1474,
+      "fifa_rank": 29
+    },
+    {
+      "team": "Chile",
+      "win_probability": 1.1,
+      "final_probability": 2.5,
+      "semi_probability": 5.5,
+      "quarter_probability": 11.4,
+      "elo": 1502,
+      "fifa_rank": 41
+    },
+    {
+      "team": "Canada",
+      "win_probability": 1.0,
+      "final_probability": 3.0,
+      "semi_probability": 5.7,
+      "quarter_probability": 13.7,
+      "elo": 1478,
+      "fifa_rank": 32
+    },
+    {
+      "team": "Cameroon",
+      "win_probability": 0.9,
+      "final_probability": 2.0,
+      "semi_probability": 5.2,
+      "quarter_probability": 10.9,
+      "elo": 1490,
+      "fifa_rank": 44
+    },
+    {
+      "team": "Peru",
+      "win_probability": 0.9,
+      "final_probability": 1.9,
+      "semi_probability": 4.5,
+      "quarter_probability": 9.9,
+      "elo": 1499,
+      "fifa_rank": 37
+    },
+    {
+      "team": "Nigeria",
+      "win_probability": 0.9,
+      "final_probability": 2.6,
+      "semi_probability": 6.0,
+      "quarter_probability": 13.2,
+      "elo": 1468,
+      "fifa_rank": 34
+    },
+    {
+      "team": "Panama",
+      "win_probability": 0.8,
+      "final_probability": 2.5,
+      "semi_probability": 7.0,
+      "quarter_probability": 13.8,
+      "elo": 1534,
+      "fifa_rank": 33
+    },
+    {
+      "team": "Turkey",
+      "win_probability": 0.8,
+      "final_probability": 2.2,
+      "semi_probability": 5.6,
+      "quarter_probability": 11.7,
+      "elo": 1571,
+      "fifa_rank": 25
+    },
+    {
+      "team": "Iraq",
+      "win_probability": 0.8,
+      "final_probability": 1.4,
+      "semi_probability": 3.4,
+      "quarter_probability": 7.8,
+      "elo": 1415,
+      "fifa_rank": 46
+    },
+    {
+      "team": "Qatar",
+      "win_probability": 0.6,
+      "final_probability": 1.0,
+      "semi_probability": 2.2,
+      "quarter_probability": 7.5,
+      "elo": 1475,
+      "fifa_rank": 36
+    },
+    {
+      "team": "Algeria",
+      "win_probability": 0.6,
+      "final_probability": 1.2,
+      "semi_probability": 2.5,
+      "quarter_probability": 8.9,
+      "elo": 1584,
+      "fifa_rank": 35
+    },
+    {
+      "team": "Jamaica",
+      "win_probability": 0.6,
+      "final_probability": 1.2,
+      "semi_probability": 3.3,
+      "quarter_probability": 7.6,
+      "elo": 1404,
+      "fifa_rank": 40
+    },
+    {
+      "team": "Tunisia",
+      "win_probability": 0.6,
+      "final_probability": 1.3,
+      "semi_probability": 3.2,
+      "quarter_probability": 9.7,
+      "elo": 1414,
+      "fifa_rank": 39
+    },
+    {
+      "team": "Saudi Arabia",
+      "win_probability": 0.5,
+      "final_probability": 1.0,
+      "semi_probability": 2.6,
+      "quarter_probability": 7.6,
+      "elo": 1504,
+      "fifa_rank": 38
+    },
+    {
+      "team": "Uzbekistan",
+      "win_probability": 0.5,
+      "final_probability": 0.9,
+      "semi_probability": 3.4,
+      "quarter_probability": 9.2,
+      "elo": 1378,
+      "fifa_rank": 43
+    },
+    {
+      "team": "Wales",
+      "win_probability": 0.4,
+      "final_probability": 2.6,
+      "semi_probability": 6.2,
+      "quarter_probability": 14.3,
+      "elo": 1596,
+      "fifa_rank": 28
+    },
+    {
+      "team": "Costa Rica",
+      "win_probability": 0.4,
+      "final_probability": 1.6,
+      "semi_probability": 4.7,
+      "quarter_probability": 10.2,
+      "elo": 1568,
+      "fifa_rank": 42
+    },
+    {
+      "team": "South Africa",
+      "win_probability": 0.3,
+      "final_probability": 0.8,
+      "semi_probability": 2.2,
+      "quarter_probability": 6.2,
+      "elo": 1566,
+      "fifa_rank": 45
+    },
+    {
+      "team": "New Zealand",
+      "win_probability": 0.0,
+      "final_probability": 0.3,
+      "semi_probability": 1.2,
+      "quarter_probability": 3.3,
+      "elo": 1346,
+      "fifa_rank": 48
+    }
+  ],
+  "sample_tournament_path": {
+    "winner": "Spain",
+    "final": {
+      "home": "Spain",
+      "away": "Brazil",
+      "home_goals": 2,
+      "away_goals": 1,
+      "winner": "Spain",
+      "probs": {
+        "home": 0.5022965669631958,
+        "draw": 0.20487083494663239,
+        "away": 0.2928325831890106
+      }
+    },
+    "semis": [
+      {
+        "home": "Portugal",
+        "away": "Spain",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Spain",
+        "probs": {
+          "home": 0.3501441776752472,
+          "draw": 0.18778659403324127,
+          "away": 0.46206921339035034
+        }
+      },
+      {
+        "home": "Ecuador",
+        "away": "Brazil",
+        "home_goals": 0,
+        "away_goals": 0,
+        "winner": "Brazil",
+        "probs": {
+          "home": 0.3138621747493744,
+          "draw": 0.3317466080188751,
+          "away": 0.3543912172317505
+        }
+      }
+    ],
+    "quarters": [
+      {
+        "home": "Portugal",
+        "away": "Sweden",
+        "home_goals": 3,
+        "away_goals": 0,
+        "winner": "Portugal",
+        "probs": {
+          "home": 0.5794224739074707,
+          "draw": 0.27443039417266846,
+          "away": 0.14614713191986084
+        }
+      },
+      {
+        "home": "Algeria",
+        "away": "Spain",
+        "home_goals": 1,
+        "away_goals": 2,
+        "winner": "Spain",
+        "probs": {
+          "home": 0.2237890660762787,
+          "draw": 0.2946608066558838,
+          "away": 0.48155006766319275
+        }
+      },
+      {
+        "home": "Ecuador",
+        "away": "Germany",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Ecuador",
+        "probs": {
+          "home": 0.32705873250961304,
+          "draw": 0.2943381369113922,
+          "away": 0.37860310077667236
+        }
+      },
+      {
+        "home": "Brazil",
+        "away": "Costa Rica",
+        "home_goals": 3,
+        "away_goals": 1,
+        "winner": "Brazil",
+        "probs": {
+          "home": 0.5439162254333496,
+          "draw": 0.23339606821537018,
+          "away": 0.2226877361536026
+        }
+      }
+    ],
+    "r16": [
+      {
+        "home": "France",
+        "away": "Portugal",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "Portugal",
+        "probs": {
+          "home": 0.2734033763408661,
+          "draw": 0.17910459637641907,
+          "away": 0.5474920272827148
+        }
+      },
+      {
+        "home": "Peru",
+        "away": "Sweden",
+        "home_goals": 0,
+        "away_goals": 0,
+        "winner": "Sweden",
+        "probs": {
+          "home": 0.33235764503479004,
+          "draw": 0.28943580389022827,
+          "away": 0.3782065212726593
+        }
+      },
+      {
+        "home": "Chile",
+        "away": "Algeria",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Algeria",
+        "probs": {
+          "home": 0.39954426884651184,
+          "draw": 0.2140524536371231,
+          "away": 0.38640323281288147
+        }
+      },
+      {
+        "home": "Spain",
+        "away": "Belgium",
+        "home_goals": 2,
+        "away_goals": 0,
+        "winner": "Spain",
+        "probs": {
+          "home": 0.45621392130851746,
+          "draw": 0.3214556872844696,
+          "away": 0.22233039140701294
+        }
+      },
+      {
+        "home": "Ecuador",
+        "away": "New Zealand",
+        "home_goals": 2,
+        "away_goals": 2,
+        "winner": "Ecuador",
+        "probs": {
+          "home": 0.5305327773094177,
+          "draw": 0.3011288344860077,
+          "away": 0.16833841800689697
+        }
+      },
+      {
+        "home": "Germany",
+        "away": "Uruguay",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Germany",
+        "probs": {
+          "home": 0.5057740211486816,
+          "draw": 0.24452641606330872,
+          "away": 0.24969956278800964
+        }
+      },
+      {
+        "home": "Netherlands",
+        "away": "Brazil",
+        "home_goals": 0,
+        "away_goals": 1,
+        "winner": "Brazil",
+        "probs": {
+          "home": 0.37799903750419617,
+          "draw": 0.23284244537353516,
+          "away": 0.38915854692459106
+        }
+      },
+      {
+        "home": "Costa Rica",
+        "away": "Croatia",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Costa Rica",
+        "probs": {
+          "home": 0.3229825794696808,
+          "draw": 0.31922411918640137,
+          "away": 0.35779333114624023
+        }
+      }
+    ],
+    "r32": [
+      {
+        "home": "Mexico",
+        "away": "France",
+        "home_goals": 0,
+        "away_goals": 1,
+        "winner": "France",
+        "probs": {
+          "home": 0.2799212634563446,
+          "draw": 0.39134883880615234,
+          "away": 0.3287298381328583
+        }
+      },
+      {
+        "home": "Portugal",
+        "away": "Iraq",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Portugal",
+        "probs": {
+          "home": 0.4859471321105957,
+          "draw": 0.3327435255050659,
+          "away": 0.18130938708782196
+        }
+      },
+      {
+        "home": "Peru",
+        "away": "Senegal",
+        "home_goals": 2,
+        "away_goals": 1,
+        "winner": "Peru",
+        "probs": {
+          "home": 0.2753825783729553,
+          "draw": 0.3432057797908783,
+          "away": 0.3814116418361664
+        }
+      },
+      {
+        "home": "Sweden",
+        "away": "South Korea",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "Sweden",
+        "probs": {
+          "home": 0.3276437520980835,
+          "draw": 0.33746734261512756,
+          "away": 0.33488890528678894
+        }
+      },
+      {
+        "home": "Chile",
+        "away": "Switzerland",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "Chile",
+        "probs": {
+          "home": 0.3714372515678406,
+          "draw": 0.22818593680858612,
+          "away": 0.4003768563270569
+        }
+      },
+      {
+        "home": "Algeria",
+        "away": "Qatar",
+        "home_goals": 4,
+        "away_goals": 2,
+        "winner": "Algeria",
+        "probs": {
+          "home": 0.4087602198123932,
+          "draw": 0.35232260823249817,
+          "away": 0.23891717195510864
+        }
+      },
+      {
+        "home": "Italy",
+        "away": "Spain",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Spain",
+        "probs": {
+          "home": 0.3258114755153656,
+          "draw": 0.2352006435394287,
+          "away": 0.43898794054985046
+        }
+      },
+      {
+        "home": "Ukraine",
+        "away": "Belgium",
+        "home_goals": 0,
+        "away_goals": 1,
+        "winner": "Belgium",
+        "probs": {
+          "home": 0.36041533946990967,
+          "draw": 0.3291527032852173,
+          "away": 0.31043195724487305
+        }
+      },
+      {
+        "home": "Ecuador",
+        "away": "England",
+        "home_goals": 3,
+        "away_goals": 1,
+        "winner": "Ecuador",
+        "probs": {
+          "home": 0.3951653838157654,
+          "draw": 0.2440873384475708,
+          "away": 0.3607472777366638
+        }
+      },
+      {
+        "home": "New Zealand",
+        "away": "Denmark",
+        "home_goals": 1,
+        "away_goals": 0,
+        "winner": "New Zealand",
+        "probs": {
+          "home": 0.22165852785110474,
+          "draw": 0.1884411871433258,
+          "away": 0.5899003148078918
+        }
+      },
+      {
+        "home": "Germany",
+        "away": "Ghana",
+        "home_goals": 1,
+        "away_goals": 1,
+        "winner": "Germany",
+        "probs": {
+          "home": 0.5057646632194519,
+          "draw": 0.286455363035202,
+          "away": 0.20777998864650726
+        }
+      },
+      {
+        "home": "Uruguay",
+        "away": "Wales",
+        "home_goals": 4,
+        "away_goals": 2,
+        "winner": "Uruguay",
+        "probs": {
+          "home": 0.45875978469848633,
+          "draw": 0.311561644077301,
+          "away": 0.22967857122421265
+        }
+      },
+      {
+        "home": "Argentina",
+        "away": "Netherlands",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Netherlands",
+        "probs": {
+          "home": 0.35043126344680786,
+          "draw": 0.34459811449050903,
+          "away": 0.3049705922603607
+        }
+      },
+      {
+        "home": "Brazil",
+        "away": "Cameroon",
+        "home_goals": 2,
+        "away_goals": 0,
+        "winner": "Brazil",
+        "probs": {
+          "home": 0.45575207471847534,
+          "draw": 0.34864214062690735,
+          "away": 0.1956058144569397
+        }
+      },
+      {
+        "home": "Egypt",
+        "away": "Costa Rica",
+        "home_goals": 1,
+        "away_goals": 3,
+        "winner": "Costa Rica",
+        "probs": {
+          "home": 0.47277000546455383,
+          "draw": 0.2720761299133301,
+          "away": 0.2551538646221161
+        }
+      },
+      {
+        "home": "Austria",
+        "away": "Croatia",
+        "home_goals": 1,
+        "away_goals": 2,
+        "winner": "Croatia",
+        "probs": {
+          "home": 0.31581875681877136,
+          "draw": 0.34035608172416687,
+          "away": 0.34382516145706177
+        }
+      }
+    ],
+    "group_standings": {
+      "Group A": [
+        {
+          "points": 7,
+          "goals_for": 6,
+          "goals_against": 2,
+          "goals_diff": 4,
+          "name": "Mexico"
+        },
+        {
+          "points": 5,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goals_diff": 2,
+          "name": "New Zealand"
+        },
+        {
+          "points": 2,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goals_diff": -1,
+          "name": "Canada"
+        },
+        {
+          "points": 1,
+          "goals_for": 1,
+          "goals_against": 6,
+          "goals_diff": -5,
+          "name": "USA"
+        }
+      ],
+      "Group B": [
+        {
+          "points": 5,
+          "goals_for": 6,
+          "goals_against": 4,
+          "goals_diff": 2,
+          "name": "Uruguay"
+        },
+        {
+          "points": 3,
+          "goals_for": 4,
+          "goals_against": 4,
+          "goals_diff": 0,
+          "name": "Egypt"
+        },
+        {
+          "points": 3,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goals_diff": 0,
+          "name": "Argentina"
+        },
+        {
+          "points": 2,
+          "goals_for": 7,
+          "goals_against": 9,
+          "goals_diff": -2,
+          "name": "Iran"
+        }
+      ],
+      "Group C": [
+        {
+          "points": 5,
+          "goals_for": 3,
+          "goals_against": 1,
+          "goals_diff": 2,
+          "name": "Senegal"
+        },
+        {
+          "points": 3,
+          "goals_for": 2,
+          "goals_against": 2,
+          "goals_diff": 0,
+          "name": "Denmark"
+        },
+        {
+          "points": 3,
+          "goals_for": 1,
+          "goals_against": 1,
+          "goals_diff": 0,
+          "name": "France"
+        },
+        {
+          "points": 2,
+          "goals_for": 2,
+          "goals_against": 4,
+          "goals_diff": -2,
+          "name": "Saudi Arabia"
+        }
+      ],
+      "Group D": [
+        {
+          "points": 6,
+          "goals_for": 5,
+          "goals_against": 2,
+          "goals_diff": 3,
+          "name": "Brazil"
+        },
+        {
+          "points": 5,
+          "goals_for": 1,
+          "goals_against": 0,
+          "goals_diff": 1,
+          "name": "Iraq"
+        },
+        {
+          "points": 4,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goals_diff": -1,
+          "name": "Switzerland"
+        },
+        {
+          "points": 1,
+          "goals_for": 1,
+          "goals_against": 4,
+          "goals_diff": -3,
+          "name": "Morocco"
+        }
+      ],
+      "Group E": [
+        {
+          "points": 9,
+          "goals_for": 6,
+          "goals_against": 3,
+          "goals_diff": 3,
+          "name": "England"
+        },
+        {
+          "points": 4,
+          "goals_for": 3,
+          "goals_against": 3,
+          "goals_diff": 0,
+          "name": "Ukraine"
+        },
+        {
+          "points": 2,
+          "goals_for": 5,
+          "goals_against": 6,
+          "goals_diff": -1,
+          "name": "Tunisia"
+        },
+        {
+          "points": 1,
+          "goals_for": 2,
+          "goals_against": 4,
+          "goals_diff": -2,
+          "name": "Japan"
+        }
+      ],
+      "Group F": [
+        {
+          "points": 7,
+          "goals_for": 7,
+          "goals_against": 3,
+          "goals_diff": 4,
+          "name": "Spain"
+        },
+        {
+          "points": 6,
+          "goals_for": 6,
+          "goals_against": 5,
+          "goals_diff": 1,
+          "name": "South Korea"
+        },
+        {
+          "points": 4,
+          "goals_for": 5,
+          "goals_against": 4,
+          "goals_diff": 1,
+          "name": "Austria"
+        },
+        {
+          "points": 0,
+          "goals_for": 1,
+          "goals_against": 7,
+          "goals_diff": -6,
+          "name": "Poland"
+        }
+      ],
+      "Group G": [
+        {
+          "points": 6,
+          "goals_for": 8,
+          "goals_against": 7,
+          "goals_diff": 1,
+          "name": "Croatia"
+        },
+        {
+          "points": 6,
+          "goals_for": 5,
+          "goals_against": 8,
+          "goals_diff": -3,
+          "name": "Chile"
+        },
+        {
+          "points": 3,
+          "goals_for": 8,
+          "goals_against": 4,
+          "goals_diff": 4,
+          "name": "Portugal"
+        },
+        {
+          "points": 3,
+          "goals_for": 8,
+          "goals_against": 10,
+          "goals_diff": -2,
+          "name": "South Africa"
+        }
+      ],
+      "Group H": [
+        {
+          "points": 7,
+          "goals_for": 2,
+          "goals_against": 0,
+          "goals_diff": 2,
+          "name": "Belgium"
+        },
+        {
+          "points": 4,
+          "goals_for": 4,
+          "goals_against": 3,
+          "goals_diff": 1,
+          "name": "Algeria"
+        },
+        {
+          "points": 2,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goals_diff": -1,
+          "name": "Australia"
+        },
+        {
+          "points": 2,
+          "goals_for": 4,
+          "goals_against": 6,
+          "goals_diff": -2,
+          "name": "Colombia"
+        }
+      ],
+      "Group I": [
+        {
+          "points": 9,
+          "goals_for": 8,
+          "goals_against": 4,
+          "goals_diff": 4,
+          "name": "Netherlands"
+        },
+        {
+          "points": 4,
+          "goals_for": 4,
+          "goals_against": 4,
+          "goals_diff": 0,
+          "name": "Peru"
+        },
+        {
+          "points": 2,
+          "goals_for": 2,
+          "goals_against": 3,
+          "goals_diff": -1,
+          "name": "Turkey"
+        },
+        {
+          "points": 1,
+          "goals_for": 1,
+          "goals_against": 4,
+          "goals_diff": -3,
+          "name": "Uzbekistan"
+        }
+      ],
+      "Group J": [
+        {
+          "points": 7,
+          "goals_for": 6,
+          "goals_against": 2,
+          "goals_diff": 4,
+          "name": "Qatar"
+        },
+        {
+          "points": 4,
+          "goals_for": 2,
+          "goals_against": 2,
+          "goals_diff": 0,
+          "name": "Italy"
+        },
+        {
+          "points": 3,
+          "goals_for": 4,
+          "goals_against": 7,
+          "goals_diff": -3,
+          "name": "Sweden"
+        },
+        {
+          "points": 2,
+          "goals_for": 1,
+          "goals_against": 2,
+          "goals_diff": -1,
+          "name": "Nigeria"
+        }
+      ],
+      "Group K": [
+        {
+          "points": 5,
+          "goals_for": 4,
+          "goals_against": 2,
+          "goals_diff": 2,
+          "name": "Cameroon"
+        },
+        {
+          "points": 5,
+          "goals_for": 3,
+          "goals_against": 2,
+          "goals_diff": 1,
+          "name": "Germany"
+        },
+        {
+          "points": 3,
+          "goals_for": 1,
+          "goals_against": 1,
+          "goals_diff": 0,
+          "name": "Ecuador"
+        },
+        {
+          "points": 1,
+          "goals_for": 3,
+          "goals_against": 6,
+          "goals_diff": -3,
+          "name": "Jamaica"
+        }
+      ],
+      "Group L": [
+        {
+          "points": 5,
+          "goals_for": 7,
+          "goals_against": 5,
+          "goals_diff": 2,
+          "name": "Wales"
+        },
+        {
+          "points": 5,
+          "goals_for": 6,
+          "goals_against": 5,
+          "goals_diff": 1,
+          "name": "Costa Rica"
+        },
+        {
+          "points": 3,
+          "goals_for": 4,
+          "goals_against": 4,
+          "goals_diff": 0,
+          "name": "Ghana"
+        },
+        {
+          "points": 1,
+          "goals_for": 4,
+          "goals_against": 7,
+          "goals_diff": -3,
+          "name": "Panama"
+        }
+      ]
+    }
+  }
+}

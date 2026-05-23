@@ -1,0 +1,3071 @@
+date,home_team,away_team,home_score,away_score,tournament,neutral
+2018-01-01,Morocco,France,0,2,AFC Asian Cup,1
+2018-01-01,Brazil,Panama,3,0,UEFA Euro,0
+2018-01-01,Poland,Italy,0,3,UEFA Euro,1
+2018-01-01,Germany,Egypt,2,4,AFC Asian Cup,1
+2018-01-01,Morocco,Brazil,0,0,Africa Cup of Nations,1
+2018-01-01,Argentina,Egypt,1,2,Nations League,1
+2018-01-01,Senegal,Australia,1,0,Friendly,0
+2018-01-01,Switzerland,Croatia,0,0,Friendly,0
+2018-01-01,Wales,Switzerland,0,1,Nations League,1
+2018-01-01,Italy,Austria,1,2,Nations League,0
+2018-01-01,Ecuador,South Africa,0,0,Africa Cup of Nations,1
+2018-01-26,Colombia,Ukraine,0,0,World Cup Qualification,0
+2018-01-26,Germany,Argentina,4,2,Friendly,1
+2018-01-26,Netherlands,Nigeria,1,0,Friendly,1
+2018-01-26,Iraq,Ghana,3,0,Africa Cup of Nations,1
+2018-01-26,Portugal,Peru,4,3,Africa Cup of Nations,1
+2018-01-26,Chile,Algeria,1,1,AFC Asian Cup,0
+2018-01-26,Turkey,Morocco,1,0,Nations League,1
+2018-01-26,Netherlands,Cameroon,2,2,Copa America,1
+2018-01-26,Canada,Panama,0,0,Friendly,0
+2018-01-26,New Zealand,England,0,0,Africa Cup of Nations,0
+2018-01-26,Colombia,Italy,1,0,Africa Cup of Nations,1
+2018-01-26,Australia,Iran,0,0,Nations League,1
+2018-01-26,Mexico,Saudi Arabia,2,1,AFC Asian Cup,1
+2018-01-26,Ecuador,Spain,0,0,Friendly,1
+2018-01-26,Turkey,Canada,2,2,Nations League,1
+2018-01-26,New Zealand,Portugal,4,1,Africa Cup of Nations,1
+2018-01-26,England,South Korea,0,2,Copa America,0
+2018-01-26,Qatar,Iran,2,0,Africa Cup of Nations,0
+2018-01-26,Germany,Poland,1,0,Friendly,0
+2018-02-11,South Korea,Netherlands,0,0,AFC Asian Cup,0
+2018-02-11,Egypt,France,2,1,UEFA Euro,0
+2018-02-11,England,Ghana,4,0,World Cup Qualification,1
+2018-02-11,Austria,Cameroon,2,0,Africa Cup of Nations,0
+2018-02-11,Portugal,New Zealand,2,1,Friendly,1
+2018-02-11,Ghana,Saudi Arabia,2,0,Friendly,0
+2018-02-11,Belgium,Ukraine,0,0,World Cup Qualification,0
+2018-02-11,Algeria,Qatar,3,0,Copa America,0
+2018-02-11,Brazil,Canada,1,1,World Cup Qualification,1
+2018-02-11,Uzbekistan,South Korea,0,1,Nations League,0
+2018-02-11,Austria,Italy,2,1,AFC Asian Cup,0
+2018-02-11,Chile,Argentina,3,0,Nations League,0
+2018-02-11,Ghana,Senegal,1,0,Africa Cup of Nations,0
+2018-02-11,Canada,Austria,0,3,Nations League,0
+2018-02-11,Algeria,Spain,0,3,UEFA Euro,0
+2018-02-11,Egypt,Senegal,1,3,AFC Asian Cup,0
+2018-02-11,Cameroon,Peru,3,2,UEFA Euro,0
+2018-02-11,Jamaica,Costa Rica,2,0,UEFA Euro,1
+2018-02-11,Mexico,Germany,2,2,AFC Asian Cup,1
+2018-02-22,Italy,France,0,1,World Cup Qualification,1
+2018-02-22,Senegal,Italy,1,0,Copa America,1
+2018-02-22,Portugal,Denmark,3,0,Nations League,1
+2018-02-22,Belgium,Japan,0,0,Nations League,0
+2018-02-22,Tunisia,Croatia,1,0,AFC Asian Cup,0
+2018-02-22,Iraq,Mexico,1,0,AFC Asian Cup,0
+2018-02-22,Panama,Portugal,0,4,UEFA Euro,1
+2018-02-22,Switzerland,Algeria,0,2,World Cup Qualification,1
+2018-02-22,New Zealand,Belgium,1,1,Nations League,0
+2018-02-22,Spain,Croatia,1,0,Nations League,0
+2018-02-22,Peru,Wales,1,4,Africa Cup of Nations,1
+2018-02-22,England,Portugal,0,0,Copa America,0
+2018-02-22,South Korea,South Africa,2,0,UEFA Euro,1
+2018-02-22,Iran,Australia,1,0,Friendly,0
+2018-02-22,Peru,Canada,0,0,AFC Asian Cup,1
+2018-02-22,Spain,Senegal,0,0,Friendly,0
+2018-02-22,Ghana,Jamaica,0,2,World Cup Qualification,0
+2018-02-22,France,Spain,3,0,World Cup Qualification,1
+2018-02-22,New Zealand,Costa Rica,0,4,World Cup Qualification,1
+2018-02-22,Spain,Wales,3,0,AFC Asian Cup,0
+2018-02-22,Wales,Chile,0,0,Friendly,1
+2018-03-16,Italy,Ghana,1,0,AFC Asian Cup,0
+2018-03-16,Iran,Japan,1,4,Nations League,1
+2018-03-16,Costa Rica,Colombia,0,0,Nations League,0
+2018-03-16,Austria,Belgium,0,0,Africa Cup of Nations,1
+2018-03-16,Jamaica,Ecuador,3,1,Copa America,1
+2018-03-16,Senegal,Denmark,0,0,UEFA Euro,1
+2018-03-16,Nigeria,Netherlands,1,2,UEFA Euro,1
+2018-03-16,Brazil,Australia,3,0,World Cup Qualification,1
+2018-03-16,Denmark,Cameroon,1,0,World Cup Qualification,0
+2018-03-16,Belgium,Ghana,1,3,UEFA Euro,1
+2018-03-16,Nigeria,Cameroon,0,2,UEFA Euro,0
+2018-03-16,Costa Rica,Chile,3,2,Africa Cup of Nations,1
+2018-03-16,Tunisia,Costa Rica,2,0,Nations League,0
+2018-03-16,England,Croatia,3,0,Friendly,0
+2018-03-16,Belgium,Germany,4,3,World Cup Qualification,0
+2018-03-16,Argentina,Sweden,0,0,AFC Asian Cup,1
+2018-03-16,Sweden,Belgium,0,0,Copa America,1
+2018-03-16,Saudi Arabia,Iraq,1,0,Copa America,0
+2018-03-26,Colombia,Nigeria,0,1,UEFA Euro,1
+2018-03-26,South Korea,Mexico,0,0,AFC Asian Cup,0
+2018-03-26,Colombia,Australia,1,0,Friendly,1
+2018-03-26,Iraq,Sweden,1,0,Friendly,0
+2018-03-26,Morocco,Qatar,2,0,AFC Asian Cup,1
+2018-03-26,Uzbekistan,Spain,0,1,UEFA Euro,0
+2018-03-26,Peru,Senegal,1,2,Nations League,1
+2018-03-26,Saudi Arabia,South Korea,2,0,Africa Cup of Nations,1
+2018-03-26,Portugal,Ecuador,2,1,AFC Asian Cup,1
+2018-03-26,Netherlands,Uzbekistan,0,0,Africa Cup of Nations,1
+2018-03-26,Iraq,Netherlands,0,3,Friendly,0
+2018-03-26,Denmark,Argentina,0,0,AFC Asian Cup,1
+2018-03-26,New Zealand,Argentina,0,1,Nations League,1
+2018-03-26,Germany,Morocco,0,0,World Cup Qualification,1
+2018-03-26,Nigeria,Canada,1,0,AFC Asian Cup,1
+2018-03-26,Netherlands,Italy,3,0,AFC Asian Cup,0
+2018-03-26,Brazil,Ukraine,2,0,UEFA Euro,0
+2018-03-26,Australia,Italy,2,1,Friendly,1
+2018-03-26,Switzerland,Brazil,2,0,Africa Cup of Nations,0
+2018-03-26,Egypt,Saudi Arabia,2,0,UEFA Euro,1
+2018-04-12,Egypt,Iraq,3,5,Friendly,0
+2018-04-12,Qatar,Egypt,2,0,Copa America,1
+2018-04-12,Germany,Panama,2,0,Friendly,0
+2018-04-12,Algeria,New Zealand,1,0,UEFA Euro,1
+2018-04-12,Ecuador,Mexico,1,0,Copa America,0
+2018-04-12,Brazil,Uruguay,2,0,Nations League,0
+2018-04-12,Senegal,Italy,0,3,Nations League,1
+2018-04-12,France,South Korea,1,1,World Cup Qualification,0
+2018-04-12,Peru,Algeria,2,4,World Cup Qualification,0
+2018-04-12,Algeria,Tunisia,2,1,AFC Asian Cup,0
+2018-04-12,Senegal,Ukraine,0,0,Africa Cup of Nations,0
+2018-04-12,Costa Rica,Uruguay,0,1,Copa America,1
+2018-04-12,Turkey,Belgium,4,0,UEFA Euro,1
+2018-04-12,Algeria,Qatar,0,0,AFC Asian Cup,0
+2018-04-12,Italy,Iran,1,0,Nations League,0
+2018-04-12,Tunisia,Canada,1,0,UEFA Euro,0
+2018-04-12,Ecuador,Sweden,1,1,Nations League,1
+2018-04-12,Switzerland,Senegal,0,0,Africa Cup of Nations,1
+2018-04-12,Germany,Ghana,1,0,Friendly,1
+2018-04-12,Portugal,Italy,0,0,AFC Asian Cup,1
+2018-04-12,Germany,Sweden,2,0,Nations League,0
+2018-04-12,Jamaica,Poland,0,3,Nations League,1
+2018-04-12,Germany,Brazil,2,3,Copa America,1
+2018-04-12,USA,Belgium,2,4,Africa Cup of Nations,0
+2018-04-12,Iraq,South Korea,0,2,UEFA Euro,1
+2018-04-23,Austria,Japan,2,0,Nations League,0
+2018-04-23,Senegal,New Zealand,1,0,World Cup Qualification,1
+2018-04-23,Morocco,Italy,0,0,UEFA Euro,0
+2018-04-23,Brazil,Japan,1,0,World Cup Qualification,0
+2018-04-23,Uruguay,Senegal,3,2,UEFA Euro,1
+2018-04-23,Nigeria,Wales,0,0,AFC Asian Cup,1
+2018-04-23,USA,Turkey,1,1,Africa Cup of Nations,1
+2018-04-23,Jamaica,South Africa,0,1,Copa America,1
+2018-04-23,Portugal,Costa Rica,3,0,Friendly,1
+2018-04-23,Uzbekistan,Mexico,0,0,UEFA Euro,1
+2018-04-23,Algeria,Uzbekistan,1,0,Copa America,1
+2018-04-23,Colombia,Germany,0,0,Nations League,1
+2018-04-23,Nigeria,Jamaica,4,2,World Cup Qualification,0
+2018-04-23,Belgium,Cameroon,4,0,Friendly,0
+2018-04-23,Morocco,Turkey,4,4,Africa Cup of Nations,0
+2018-04-23,Switzerland,Ghana,0,1,Africa Cup of Nations,1
+2018-04-23,Netherlands,Iran,1,0,World Cup Qualification,1
+2018-04-23,Australia,Japan,2,3,World Cup Qualification,0
+2018-04-23,Jamaica,Spain,2,0,UEFA Euro,0
+2018-04-23,Egypt,Peru,0,1,Copa America,1
+2018-04-23,Tunisia,New Zealand,0,0,Friendly,1
+2018-05-06,Chile,Switzerland,0,1,Africa Cup of Nations,0
+2018-05-06,Cameroon,Senegal,1,1,World Cup Qualification,1
+2018-05-06,Australia,England,1,0,Africa Cup of Nations,0
+2018-05-06,Mexico,Uruguay,2,1,Nations League,1
+2018-05-06,Nigeria,Uzbekistan,0,0,World Cup Qualification,1
+2018-05-06,Canada,Jamaica,0,4,AFC Asian Cup,1
+2018-05-06,Canada,Sweden,0,0,Copa America,0
+2018-05-06,Croatia,Nigeria,2,0,AFC Asian Cup,0
+2018-05-06,England,Portugal,2,0,Friendly,1
+2018-05-06,Peru,Ecuador,0,2,UEFA Euro,1
+2018-05-06,Cameroon,Jamaica,3,0,Nations League,1
+2018-05-06,Belgium,Canada,2,0,Nations League,0
+2018-05-06,France,Chile,0,0,AFC Asian Cup,0
+2018-05-06,Wales,Chile,3,3,Friendly,0
+2018-05-06,Mexico,Colombia,2,0,Nations League,0
+2018-05-06,Uzbekistan,Turkey,0,0,Friendly,0
+2018-05-06,Iraq,Ukraine,0,2,UEFA Euro,1
+2018-05-06,South Africa,Spain,2,1,Nations League,1
+2018-05-06,South Korea,USA,1,2,Friendly,0
+2018-05-06,Ukraine,France,0,0,Africa Cup of Nations,0
+2018-05-06,France,Cameroon,2,2,World Cup Qualification,0
+2018-05-17,Portugal,Saudi Arabia,2,2,Friendly,1
+2018-05-17,Poland,Ghana,4,0,Copa America,0
+2018-05-17,Japan,Peru,2,3,Copa America,1
+2018-05-17,Iran,Croatia,3,3,Nations League,1
+2018-05-17,Wales,Uzbekistan,2,2,UEFA Euro,0
+2018-05-17,Panama,Ukraine,0,0,AFC Asian Cup,1
+2018-05-17,Australia,Colombia,0,4,Copa America,1
+2018-05-17,Ukraine,Australia,2,0,Nations League,0
+2018-05-17,Peru,USA,4,0,Nations League,0
+2018-05-17,Brazil,Ghana,0,0,Nations League,1
+2018-05-17,New Zealand,Switzerland,0,0,Friendly,0
+2018-05-17,Canada,Nigeria,2,0,Friendly,1
+2018-05-17,Australia,Belgium,3,2,UEFA Euro,1
+2018-05-17,South Africa,Algeria,0,3,Friendly,1
+2018-05-17,Canada,South Africa,1,0,Copa America,0
+2018-05-17,Sweden,Japan,0,0,Africa Cup of Nations,1
+2018-05-17,Chile,Iraq,0,0,UEFA Euro,0
+2018-05-17,Spain,Qatar,0,0,Friendly,1
+2018-05-17,Tunisia,Poland,1,0,UEFA Euro,0
+2018-05-17,Sweden,Jamaica,0,0,UEFA Euro,0
+2018-05-17,France,South Africa,0,0,AFC Asian Cup,0
+2018-05-17,New Zealand,Ukraine,2,0,UEFA Euro,1
+2018-06-09,Uruguay,Ghana,3,2,Africa Cup of Nations,1
+2018-06-09,Cameroon,Peru,0,0,World Cup Qualification,0
+2018-06-09,Uzbekistan,Nigeria,2,1,World Cup Qualification,0
+2018-06-09,Ecuador,South Korea,1,0,Friendly,0
+2018-06-09,Belgium,Iraq,2,3,Nations League,0
+2018-06-09,Mexico,New Zealand,3,3,UEFA Euro,0
+2018-06-09,Poland,Sweden,1,3,UEFA Euro,0
+2018-06-09,Austria,Switzerland,0,1,Friendly,1
+2018-06-09,Switzerland,Saudi Arabia,0,0,World Cup Qualification,1
+2018-06-09,Jamaica,Cameroon,2,0,UEFA Euro,1
+2018-06-09,Chile,Denmark,2,0,Copa America,1
+2018-06-09,Peru,Germany,0,0,Africa Cup of Nations,1
+2018-06-09,Algeria,Poland,3,1,Africa Cup of Nations,0
+2018-06-09,Algeria,Switzerland,0,0,AFC Asian Cup,1
+2018-06-09,Japan,Argentina,1,4,AFC Asian Cup,0
+2018-06-09,Poland,Italy,0,2,Copa America,1
+2018-06-09,Egypt,Saudi Arabia,1,3,Africa Cup of Nations,1
+2018-06-09,France,Iraq,2,0,Copa America,1
+2018-06-09,Mexico,Saudi Arabia,0,0,UEFA Euro,1
+2018-06-09,Brazil,Iraq,1,0,World Cup Qualification,1
+2018-06-09,Argentina,New Zealand,2,3,UEFA Euro,0
+2018-06-21,Panama,Tunisia,3,0,Friendly,1
+2018-06-21,Jamaica,Colombia,0,0,World Cup Qualification,1
+2018-06-21,Saudi Arabia,New Zealand,0,0,Friendly,0
+2018-06-21,Mexico,Australia,0,2,Nations League,0
+2018-06-21,Poland,USA,1,1,Africa Cup of Nations,1
+2018-06-21,Turkey,Colombia,0,0,Africa Cup of Nations,1
+2018-06-21,Costa Rica,Jamaica,2,1,Nations League,1
+2018-06-21,Argentina,Ecuador,1,0,UEFA Euro,1
+2018-06-21,Tunisia,Argentina,0,3,Copa America,0
+2018-06-21,South Africa,Senegal,1,1,Africa Cup of Nations,1
+2018-06-21,Tunisia,England,0,0,AFC Asian Cup,1
+2018-06-21,Colombia,Morocco,2,2,AFC Asian Cup,0
+2018-06-21,Saudi Arabia,Ghana,0,0,AFC Asian Cup,1
+2018-07-16,Ukraine,Chile,1,2,Nations League,1
+2018-07-16,Croatia,Australia,1,0,UEFA Euro,1
+2018-07-16,Sweden,Nigeria,2,0,UEFA Euro,0
+2018-07-16,Chile,Italy,3,0,Friendly,0
+2018-07-16,Austria,Algeria,2,0,AFC Asian Cup,1
+2018-07-16,South Africa,Algeria,0,3,AFC Asian Cup,1
+2018-07-16,Spain,Australia,0,0,Nations League,1
+2018-07-16,Qatar,Netherlands,0,2,Friendly,0
+2018-07-16,Ghana,Australia,0,0,Copa America,1
+2018-07-16,Ecuador,France,3,1,World Cup Qualification,0
+2018-07-16,Switzerland,Iran,0,0,Nations League,1
+2018-07-16,Netherlands,Spain,0,1,World Cup Qualification,1
+2018-07-16,Switzerland,Algeria,0,1,UEFA Euro,1
+2018-07-16,France,Canada,0,0,Nations League,0
+2018-07-16,England,Japan,0,0,Nations League,1
+2018-07-16,Wales,Egypt,3,0,Friendly,0
+2018-07-16,Cameroon,South Africa,0,0,Africa Cup of Nations,1
+2018-07-16,Panama,Spain,3,2,AFC Asian Cup,1
+2018-07-16,Italy,Senegal,2,0,UEFA Euro,1
+2018-08-01,Croatia,Spain,0,3,AFC Asian Cup,0
+2018-08-01,Japan,Senegal,1,0,AFC Asian Cup,1
+2018-08-01,Colombia,Spain,0,1,Friendly,1
+2018-08-01,Colombia,Ukraine,0,3,Copa America,1
+2018-08-01,Turkey,Egypt,0,0,Nations League,0
+2018-08-01,Portugal,Canada,5,0,Nations League,0
+2018-08-01,Croatia,Morocco,0,0,UEFA Euro,0
+2018-08-01,Uruguay,Panama,1,0,Copa America,0
+2018-08-01,England,Costa Rica,1,3,Friendly,1
+2018-08-01,Ghana,Croatia,0,1,AFC Asian Cup,1
+2018-08-01,Denmark,Colombia,3,2,UEFA Euro,1
+2018-08-01,Nigeria,England,1,2,Friendly,1
+2018-08-01,Germany,Nigeria,3,0,Africa Cup of Nations,1
+2018-08-01,Tunisia,Senegal,0,0,World Cup Qualification,1
+2018-08-01,Spain,Australia,2,0,Nations League,0
+2018-08-01,Japan,Peru,0,0,Copa America,1
+2018-08-01,USA,Saudi Arabia,0,0,Nations League,1
+2018-08-01,Australia,South Korea,0,0,World Cup Qualification,1
+2018-08-01,Portugal,Chile,3,0,Nations League,0
+2018-08-24,Uzbekistan,Iraq,1,0,UEFA Euro,0
+2018-08-24,Costa Rica,Portugal,3,0,World Cup Qualification,1
+2018-08-24,Australia,Senegal,0,0,AFC Asian Cup,1
+2018-08-24,Argentina,England,0,1,Friendly,1
+2018-08-24,Panama,Uzbekistan,2,0,Copa America,0
+2018-08-24,Chile,Peru,1,3,World Cup Qualification,0
+2018-08-24,Cameroon,Ghana,0,0,AFC Asian Cup,1
+2018-08-24,Switzerland,Wales,0,0,Nations League,0
+2018-08-24,Nigeria,Ukraine,3,0,UEFA Euro,1
+2018-08-24,Nigeria,Italy,4,0,Africa Cup of Nations,1
+2018-08-24,Ghana,Poland,2,3,UEFA Euro,1
+2018-09-03,Croatia,USA,0,1,Copa America,1
+2018-09-03,Spain,Saudi Arabia,0,1,Copa America,0
+2018-09-03,Chile,Nigeria,1,2,Copa America,1
+2018-09-03,Qatar,France,1,2,Copa America,0
+2018-09-03,Tunisia,Switzerland,3,1,Nations League,0
+2018-09-03,Nigeria,Portugal,2,2,UEFA Euro,1
+2018-09-03,Cameroon,Germany,2,0,AFC Asian Cup,1
+2018-09-03,Canada,Brazil,0,3,Nations League,1
+2018-09-03,Egypt,Ecuador,4,0,Copa America,0
+2018-09-03,Algeria,South Africa,0,2,Friendly,0
+2018-09-03,Germany,USA,0,4,Friendly,1
+2018-09-03,Nigeria,USA,1,3,World Cup Qualification,0
+2018-09-03,Germany,Jamaica,2,0,UEFA Euro,1
+2018-09-03,Qatar,Ukraine,0,0,Friendly,0
+2018-09-03,France,Canada,1,2,AFC Asian Cup,0
+2018-09-03,Colombia,Turkey,0,0,Friendly,0
+2018-09-03,Algeria,Iraq,2,3,Africa Cup of Nations,0
+2018-09-23,Panama,Spain,1,3,Nations League,1
+2018-09-23,Saudi Arabia,Costa Rica,1,1,Nations League,0
+2018-09-23,Tunisia,Iraq,0,1,Nations League,1
+2018-09-23,Germany,Belgium,2,0,AFC Asian Cup,0
+2018-09-23,Tunisia,Costa Rica,2,0,Friendly,1
+2018-09-23,Cameroon,Italy,2,3,World Cup Qualification,0
+2018-09-23,Nigeria,Jamaica,0,0,Nations League,1
+2018-09-23,Tunisia,England,0,0,Nations League,0
+2018-09-23,Spain,Egypt,2,0,World Cup Qualification,0
+2018-09-23,Ghana,Tunisia,1,0,Africa Cup of Nations,0
+2018-09-23,Peru,Italy,0,3,Friendly,0
+2018-09-23,Poland,Croatia,2,2,Africa Cup of Nations,1
+2018-09-23,Sweden,Egypt,2,0,Nations League,1
+2018-09-23,USA,Saudi Arabia,2,0,UEFA Euro,0
+2018-09-23,Portugal,Argentina,0,2,Africa Cup of Nations,1
+2018-09-23,Portugal,Egypt,2,0,Nations League,0
+2018-09-23,England,Chile,2,3,Africa Cup of Nations,0
+2018-09-23,New Zealand,Iran,2,0,World Cup Qualification,0
+2018-09-23,Sweden,Netherlands,0,0,Friendly,0
+2018-10-16,Qatar,Switzerland,2,4,Nations League,1
+2018-10-16,Poland,Iraq,0,0,UEFA Euro,0
+2018-10-16,Senegal,Turkey,2,0,Friendly,0
+2018-10-16,Jamaica,Tunisia,0,0,Friendly,0
+2018-10-16,Tunisia,Iraq,1,2,AFC Asian Cup,1
+2018-10-16,Belgium,Denmark,1,3,Friendly,1
+2018-10-16,Portugal,South Africa,0,2,World Cup Qualification,1
+2018-10-16,Switzerland,Poland,1,0,Copa America,1
+2018-10-16,Ecuador,Panama,1,0,Copa America,0
+2018-10-16,Ghana,Uruguay,0,2,Africa Cup of Nations,1
+2018-10-16,Chile,New Zealand,0,2,AFC Asian Cup,1
+2018-10-16,Switzerland,Algeria,0,1,Africa Cup of Nations,0
+2018-10-16,Ecuador,Germany,0,0,AFC Asian Cup,1
+2018-10-16,Peru,Egypt,0,0,Friendly,0
+2018-10-16,Chile,Senegal,0,0,AFC Asian Cup,1
+2018-10-16,South Korea,Ukraine,2,5,Nations League,0
+2018-10-16,Chile,Austria,2,0,UEFA Euro,0
+2018-10-16,France,Iraq,3,0,Friendly,0
+2018-10-16,Saudi Arabia,Turkey,2,2,Friendly,0
+2018-10-16,Ecuador,Brazil,0,0,UEFA Euro,1
+2018-11-05,Jamaica,Costa Rica,0,0,AFC Asian Cup,0
+2018-11-05,Peru,Spain,1,1,Nations League,1
+2018-11-05,Spain,South Africa,0,0,World Cup Qualification,0
+2018-11-05,USA,Panama,1,0,Copa America,1
+2018-11-05,Saudi Arabia,Algeria,2,2,UEFA Euro,1
+2018-11-05,Uzbekistan,Costa Rica,1,1,World Cup Qualification,1
+2018-11-05,Ukraine,Iran,1,0,Copa America,1
+2018-11-05,Canada,Denmark,0,0,UEFA Euro,1
+2018-11-05,Colombia,Senegal,2,0,World Cup Qualification,1
+2018-11-05,Colombia,Argentina,1,0,Nations League,0
+2018-11-16,Ghana,Iraq,2,0,World Cup Qualification,0
+2018-11-16,Austria,Sweden,0,0,Africa Cup of Nations,1
+2018-11-16,Senegal,Qatar,0,1,Nations League,1
+2018-11-16,Panama,Japan,0,2,World Cup Qualification,0
+2018-11-16,Morocco,South Africa,0,3,AFC Asian Cup,1
+2018-11-16,Ecuador,Saudi Arabia,0,1,Nations League,0
+2018-11-16,Iraq,France,0,2,Africa Cup of Nations,0
+2018-11-16,Cameroon,Nigeria,0,2,Friendly,1
+2018-11-16,Wales,Italy,0,1,Africa Cup of Nations,1
+2018-11-16,Chile,Cameroon,3,0,AFC Asian Cup,1
+2018-11-16,Ukraine,Poland,0,0,Friendly,1
+2018-11-16,New Zealand,Australia,1,0,Africa Cup of Nations,1
+2018-11-16,Chile,Wales,2,1,World Cup Qualification,0
+2018-11-16,Ukraine,Sweden,2,0,Nations League,1
+2018-11-16,Qatar,Morocco,0,3,Africa Cup of Nations,0
+2018-11-16,Algeria,Belgium,0,0,Copa America,0
+2018-11-16,Denmark,Algeria,3,0,UEFA Euro,1
+2018-11-16,South Africa,Italy,0,0,AFC Asian Cup,1
+2018-11-16,Ecuador,Saudi Arabia,0,0,Africa Cup of Nations,1
+2018-11-16,Ukraine,Ghana,0,0,UEFA Euro,0
+2018-11-16,Egypt,Nigeria,0,4,Copa America,1
+2018-11-16,Germany,Costa Rica,1,0,UEFA Euro,1
+2018-12-03,Uruguay,Costa Rica,0,0,Nations League,0
+2018-12-03,Cameroon,Qatar,0,0,UEFA Euro,1
+2018-12-03,Mexico,Colombia,2,0,World Cup Qualification,1
+2018-12-03,Denmark,Wales,0,1,Friendly,0
+2018-12-03,Chile,Peru,1,0,AFC Asian Cup,1
+2018-12-03,France,USA,2,2,AFC Asian Cup,0
+2018-12-03,Mexico,Denmark,2,0,Africa Cup of Nations,1
+2018-12-03,New Zealand,Belgium,0,1,AFC Asian Cup,1
+2018-12-03,Netherlands,Qatar,0,0,Friendly,0
+2018-12-03,South Korea,Wales,2,0,AFC Asian Cup,0
+2018-12-03,Mexico,Brazil,0,2,AFC Asian Cup,1
+2018-12-03,Nigeria,Tunisia,1,0,Africa Cup of Nations,1
+2018-12-03,Australia,Spain,0,2,World Cup Qualification,0
+2018-12-03,Iraq,Wales,2,2,UEFA Euro,0
+2018-12-03,Sweden,Netherlands,0,0,Africa Cup of Nations,1
+2018-12-03,Cameroon,Ghana,0,0,World Cup Qualification,1
+2018-12-03,Chile,Sweden,2,1,Friendly,1
+2018-12-24,Turkey,Uruguay,0,0,Copa America,1
+2018-12-24,Poland,Croatia,1,2,AFC Asian Cup,1
+2018-12-24,Cameroon,Canada,4,3,Africa Cup of Nations,0
+2018-12-24,Peru,Tunisia,0,1,Nations League,1
+2018-12-24,Turkey,Iran,2,0,Copa America,0
+2018-12-24,Senegal,Austria,1,0,Friendly,0
+2018-12-24,France,Spain,1,0,World Cup Qualification,1
+2018-12-24,Argentina,Belgium,2,0,Nations League,1
+2018-12-24,Morocco,Egypt,3,0,Africa Cup of Nations,0
+2018-12-24,Tunisia,Uruguay,0,1,Africa Cup of Nations,1
+2018-12-24,Sweden,Mexico,2,1,Nations League,0
+2018-12-24,Saudi Arabia,USA,0,0,World Cup Qualification,1
+2018-12-24,Saudi Arabia,Sweden,0,0,Copa America,0
+2018-12-24,Sweden,Algeria,2,1,World Cup Qualification,0
+2018-12-24,Colombia,Italy,2,0,UEFA Euro,0
+2018-12-24,Netherlands,Denmark,1,0,UEFA Euro,0
+2018-12-24,Jamaica,USA,0,2,Friendly,0
+2018-12-24,Argentina,Germany,2,0,World Cup Qualification,1
+2018-12-24,Ecuador,Algeria,3,1,Copa America,0
+2019-01-15,Ukraine,Senegal,0,4,Africa Cup of Nations,0
+2019-01-15,New Zealand,Netherlands,1,0,AFC Asian Cup,0
+2019-01-15,England,Switzerland,3,0,Friendly,0
+2019-01-15,Canada,Chile,0,1,AFC Asian Cup,0
+2019-01-15,Senegal,Croatia,0,0,AFC Asian Cup,1
+2019-01-15,Italy,Qatar,2,0,Copa America,1
+2019-01-15,Portugal,Nigeria,0,0,AFC Asian Cup,0
+2019-01-15,Ghana,Canada,0,0,Africa Cup of Nations,0
+2019-01-15,Algeria,Portugal,3,1,UEFA Euro,0
+2019-01-15,Spain,Portugal,3,2,Friendly,1
+2019-01-15,Uruguay,Italy,0,3,Africa Cup of Nations,0
+2019-01-15,Ghana,Iraq,3,0,Nations League,1
+2019-01-15,Colombia,Cameroon,0,0,Friendly,0
+2019-01-15,Peru,Tunisia,1,0,AFC Asian Cup,1
+2019-01-15,Netherlands,Belgium,0,1,Africa Cup of Nations,1
+2019-02-06,Jamaica,Uzbekistan,1,3,UEFA Euro,0
+2019-02-06,France,Chile,1,0,World Cup Qualification,0
+2019-02-06,England,USA,1,0,Africa Cup of Nations,1
+2019-02-06,France,Chile,1,0,AFC Asian Cup,0
+2019-02-06,Cameroon,Saudi Arabia,3,1,Copa America,1
+2019-02-06,Spain,Nigeria,1,0,Copa America,0
+2019-02-06,Portugal,Algeria,2,0,Nations League,1
+2019-02-06,France,Brazil,2,1,Friendly,0
+2019-02-06,Chile,Turkey,2,0,World Cup Qualification,0
+2019-02-06,Japan,USA,3,1,UEFA Euro,1
+2019-02-06,Wales,Canada,0,0,Friendly,0
+2019-02-06,Ecuador,England,0,1,UEFA Euro,1
+2019-02-06,Chile,Panama,0,1,UEFA Euro,0
+2019-02-06,Poland,Qatar,3,3,World Cup Qualification,1
+2019-02-06,Saudi Arabia,Japan,1,3,World Cup Qualification,0
+2019-02-26,Chile,Sweden,0,0,Africa Cup of Nations,1
+2019-02-26,Switzerland,Cameroon,0,0,World Cup Qualification,0
+2019-02-26,Germany,Mexico,1,0,Copa America,0
+2019-02-26,Austria,Netherlands,0,2,Africa Cup of Nations,1
+2019-02-26,Costa Rica,Egypt,1,0,UEFA Euro,0
+2019-02-26,Japan,South Africa,0,1,Copa America,0
+2019-02-26,Switzerland,Nigeria,0,3,Africa Cup of Nations,0
+2019-02-26,New Zealand,Turkey,1,0,AFC Asian Cup,1
+2019-02-26,Croatia,Senegal,0,0,Nations League,1
+2019-02-26,Iran,Australia,2,1,Africa Cup of Nations,0
+2019-02-26,Ghana,Saudi Arabia,4,0,Friendly,1
+2019-02-26,USA,Italy,0,3,UEFA Euro,1
+2019-02-26,Portugal,Turkey,3,0,AFC Asian Cup,0
+2019-02-26,Switzerland,Jamaica,3,0,Africa Cup of Nations,0
+2019-02-26,Canada,Qatar,2,0,AFC Asian Cup,0
+2019-02-26,Canada,South Korea,3,0,Friendly,0
+2019-02-26,Uzbekistan,Netherlands,2,2,Africa Cup of Nations,1
+2019-02-26,Switzerland,Tunisia,1,0,World Cup Qualification,0
+2019-02-26,USA,Australia,3,0,World Cup Qualification,0
+2019-02-26,Croatia,Iran,3,0,AFC Asian Cup,0
+2019-03-22,Senegal,Ukraine,0,0,Africa Cup of Nations,1
+2019-03-22,Cameroon,Chile,1,0,Copa America,1
+2019-03-22,England,Denmark,1,0,AFC Asian Cup,1
+2019-03-22,Germany,South Korea,2,4,UEFA Euro,0
+2019-03-22,Portugal,Belgium,2,0,World Cup Qualification,1
+2019-03-22,Uzbekistan,Peru,0,0,Copa America,1
+2019-03-22,Italy,Egypt,1,1,UEFA Euro,1
+2019-03-22,USA,Ghana,3,0,Nations League,0
+2019-03-22,Netherlands,Austria,4,0,Nations League,0
+2019-03-22,Canada,Australia,0,2,Nations League,1
+2019-03-22,Costa Rica,Ecuador,1,4,Friendly,1
+2019-03-22,Chile,Ukraine,0,0,World Cup Qualification,1
+2019-03-22,Switzerland,Argentina,0,0,AFC Asian Cup,0
+2019-04-02,Denmark,Chile,0,2,AFC Asian Cup,1
+2019-04-02,Costa Rica,Saudi Arabia,0,2,World Cup Qualification,1
+2019-04-02,Tunisia,Nigeria,5,0,AFC Asian Cup,0
+2019-04-02,Brazil,Denmark,3,0,Copa America,1
+2019-04-02,Jamaica,Morocco,1,2,AFC Asian Cup,1
+2019-04-02,Croatia,Poland,3,2,World Cup Qualification,0
+2019-04-02,Germany,Spain,0,0,UEFA Euro,0
+2019-04-02,Iran,Saudi Arabia,3,2,UEFA Euro,1
+2019-04-02,Jamaica,Qatar,2,0,AFC Asian Cup,1
+2019-04-02,Nigeria,Australia,0,0,Africa Cup of Nations,0
+2019-04-02,England,France,0,1,World Cup Qualification,1
+2019-04-02,Japan,Uruguay,2,0,World Cup Qualification,1
+2019-04-02,England,Morocco,0,0,Nations League,1
+2019-04-02,Peru,Uzbekistan,0,1,Nations League,1
+2019-04-02,Spain,Panama,2,0,Copa America,1
+2019-04-02,Turkey,Japan,1,4,Copa America,0
+2019-04-02,Morocco,Nigeria,1,0,Copa America,1
+2019-04-02,Uruguay,Uzbekistan,1,0,Copa America,1
+2019-04-02,Morocco,Brazil,3,5,UEFA Euro,0
+2019-04-02,Chile,USA,0,0,UEFA Euro,1
+2019-04-20,Uzbekistan,Germany,0,4,AFC Asian Cup,1
+2019-04-20,Algeria,Costa Rica,0,0,AFC Asian Cup,0
+2019-04-20,Canada,Senegal,0,0,AFC Asian Cup,1
+2019-04-20,Mexico,Germany,1,1,Africa Cup of Nations,1
+2019-04-20,Cameroon,Wales,0,0,Africa Cup of Nations,1
+2019-04-20,Sweden,Netherlands,1,3,Nations League,0
+2019-04-20,Jamaica,Japan,2,2,World Cup Qualification,1
+2019-04-20,Chile,Spain,0,1,AFC Asian Cup,1
+2019-04-20,Iraq,Ghana,1,1,Nations League,0
+2019-04-20,Australia,Turkey,0,3,World Cup Qualification,0
+2019-04-20,Costa Rica,France,0,0,Copa America,1
+2019-04-20,Panama,Iraq,0,0,World Cup Qualification,0
+2019-04-20,South Africa,Japan,3,3,Nations League,0
+2019-05-12,South Korea,Cameroon,3,1,AFC Asian Cup,1
+2019-05-12,Colombia,Mexico,0,4,Friendly,0
+2019-05-12,Chile,Netherlands,0,0,World Cup Qualification,1
+2019-05-12,Chile,France,0,1,Copa America,1
+2019-05-12,Wales,Ecuador,1,0,AFC Asian Cup,1
+2019-05-12,Turkey,Wales,2,2,Friendly,1
+2019-05-12,Sweden,Morocco,0,0,Africa Cup of Nations,1
+2019-05-12,Ecuador,Chile,3,1,AFC Asian Cup,0
+2019-05-12,Australia,Poland,0,0,UEFA Euro,1
+2019-05-12,Algeria,Poland,0,1,Friendly,1
+2019-05-12,Wales,Qatar,3,0,World Cup Qualification,0
+2019-05-12,Germany,France,0,1,World Cup Qualification,0
+2019-05-12,Croatia,Japan,2,5,Friendly,0
+2019-05-12,Cameroon,Mexico,3,0,Copa America,0
+2019-05-12,Iraq,Algeria,0,0,AFC Asian Cup,0
+2019-05-12,Spain,Ukraine,2,2,Nations League,1
+2019-05-12,Austria,Iraq,0,0,World Cup Qualification,1
+2019-05-12,Belgium,Ecuador,3,2,Copa America,0
+2019-05-12,Italy,Netherlands,1,0,Copa America,1
+2019-05-12,Iraq,Mexico,0,1,AFC Asian Cup,0
+2019-06-05,Ecuador,Jamaica,1,0,Copa America,0
+2019-06-05,France,Iran,1,0,Copa America,0
+2019-06-05,Argentina,Croatia,0,4,World Cup Qualification,0
+2019-06-05,Denmark,Ghana,2,1,Africa Cup of Nations,1
+2019-06-05,Argentina,France,0,4,AFC Asian Cup,1
+2019-06-05,Saudi Arabia,Germany,1,3,Africa Cup of Nations,0
+2019-06-05,Saudi Arabia,England,0,2,Friendly,1
+2019-06-05,Jamaica,Sweden,0,1,AFC Asian Cup,1
+2019-06-05,Poland,Austria,1,2,Friendly,1
+2019-06-05,Croatia,Algeria,1,2,Copa America,1
+2019-06-05,Belgium,Morocco,1,0,UEFA Euro,0
+2019-06-05,Spain,Cameroon,3,0,World Cup Qualification,1
+2019-06-05,Germany,Egypt,0,1,Africa Cup of Nations,0
+2019-06-05,Ecuador,Costa Rica,2,2,UEFA Euro,1
+2019-06-05,Switzerland,Saudi Arabia,0,2,World Cup Qualification,0
+2019-06-05,Uzbekistan,Spain,2,1,Copa America,0
+2019-06-05,Senegal,Turkey,0,1,World Cup Qualification,1
+2019-06-05,Costa Rica,Spain,0,3,UEFA Euro,0
+2019-06-05,Saudi Arabia,Algeria,3,0,Friendly,1
+2019-06-05,Netherlands,Colombia,0,0,World Cup Qualification,1
+2019-06-05,South Korea,Colombia,0,0,Friendly,1
+2019-06-05,Australia,Sweden,4,4,Copa America,0
+2019-06-28,Iraq,Brazil,0,0,Friendly,0
+2019-06-28,Peru,Algeria,1,1,Africa Cup of Nations,0
+2019-06-28,Peru,Sweden,1,0,AFC Asian Cup,0
+2019-06-28,South Korea,Jamaica,1,0,Africa Cup of Nations,1
+2019-06-28,Nigeria,Tunisia,1,0,Copa America,1
+2019-06-28,Wales,Chile,1,2,World Cup Qualification,0
+2019-06-28,Denmark,Poland,4,0,World Cup Qualification,1
+2019-06-28,Denmark,Chile,0,0,World Cup Qualification,0
+2019-06-28,Switzerland,Peru,1,0,Africa Cup of Nations,0
+2019-06-28,Italy,Ecuador,0,0,Copa America,1
+2019-06-28,Panama,Ecuador,2,2,World Cup Qualification,1
+2019-06-28,Poland,Iraq,2,0,Copa America,1
+2019-06-28,Portugal,Ghana,1,3,Africa Cup of Nations,1
+2019-06-28,Senegal,Spain,0,0,AFC Asian Cup,1
+2019-06-28,Ukraine,Uruguay,0,1,Africa Cup of Nations,0
+2019-06-28,France,Nigeria,1,4,World Cup Qualification,0
+2019-06-28,Croatia,Australia,2,0,Copa America,1
+2019-06-28,Italy,Wales,4,4,Copa America,1
+2019-06-28,Brazil,USA,1,2,Africa Cup of Nations,0
+2019-06-28,Netherlands,England,3,2,World Cup Qualification,1
+2019-06-28,Colombia,USA,0,0,AFC Asian Cup,0
+2019-07-14,Tunisia,Ecuador,2,5,UEFA Euro,0
+2019-07-14,Panama,Jamaica,2,0,World Cup Qualification,1
+2019-07-14,Mexico,Egypt,2,2,AFC Asian Cup,0
+2019-07-14,Japan,USA,1,2,World Cup Qualification,0
+2019-07-14,England,Iran,0,0,Nations League,0
+2019-07-14,Egypt,France,0,1,Friendly,0
+2019-07-14,Netherlands,USA,0,0,UEFA Euro,0
+2019-07-14,Poland,Portugal,0,0,Copa America,1
+2019-07-14,Turkey,South Korea,1,0,UEFA Euro,0
+2019-07-14,Morocco,Saudi Arabia,0,0,UEFA Euro,0
+2019-07-14,Uruguay,Saudi Arabia,3,0,UEFA Euro,0
+2019-07-14,New Zealand,Nigeria,0,0,AFC Asian Cup,0
+2019-07-14,Croatia,Senegal,0,4,Friendly,1
+2019-07-14,Algeria,New Zealand,1,0,Friendly,1
+2019-07-14,Netherlands,Wales,0,0,Copa America,0
+2019-07-14,Senegal,Cameroon,1,0,AFC Asian Cup,1
+2019-07-14,Netherlands,Belgium,0,1,AFC Asian Cup,1
+2019-07-14,Croatia,Austria,1,1,Africa Cup of Nations,1
+2019-07-14,Senegal,Brazil,1,1,Copa America,0
+2019-07-14,Germany,Canada,0,0,Friendly,1
+2019-07-14,Ecuador,South Korea,0,1,Africa Cup of Nations,0
+2019-07-14,Uzbekistan,Tunisia,2,0,Africa Cup of Nations,1
+2019-07-14,Iraq,Switzerland,1,0,World Cup Qualification,0
+2019-08-01,Tunisia,Belgium,4,0,UEFA Euro,1
+2019-08-01,Croatia,Germany,1,1,UEFA Euro,1
+2019-08-01,Ghana,Iran,0,1,UEFA Euro,1
+2019-08-01,Iran,Senegal,0,2,Friendly,0
+2019-08-01,Egypt,Croatia,0,0,UEFA Euro,0
+2019-08-01,Peru,Senegal,0,0,Copa America,1
+2019-08-01,Tunisia,France,0,2,UEFA Euro,1
+2019-08-01,Ghana,Japan,4,0,Copa America,0
+2019-08-01,Senegal,Uzbekistan,1,0,Copa America,0
+2019-08-01,USA,Italy,0,2,UEFA Euro,1
+2019-08-17,Colombia,Spain,0,0,Copa America,0
+2019-08-17,Austria,USA,2,0,Copa America,0
+2019-08-17,Belgium,Ukraine,3,0,Friendly,0
+2019-08-17,Croatia,France,0,0,Copa America,0
+2019-08-17,Switzerland,Austria,1,2,AFC Asian Cup,1
+2019-08-17,Brazil,Jamaica,0,1,Africa Cup of Nations,1
+2019-08-17,France,Mexico,2,4,AFC Asian Cup,0
+2019-08-17,Wales,Denmark,0,3,Copa America,0
+2019-08-17,Ghana,Croatia,2,0,World Cup Qualification,1
+2019-08-17,Wales,Algeria,3,3,Copa America,1
+2019-08-17,Australia,Uzbekistan,0,0,AFC Asian Cup,1
+2019-08-17,Jamaica,Algeria,0,2,Africa Cup of Nations,0
+2019-08-17,Netherlands,Argentina,0,0,AFC Asian Cup,0
+2019-08-17,Senegal,Belgium,1,2,Nations League,0
+2019-08-17,Argentina,Jamaica,1,1,UEFA Euro,1
+2019-08-17,Ukraine,Spain,0,0,UEFA Euro,1
+2019-08-17,Croatia,Denmark,2,0,Africa Cup of Nations,0
+2019-08-17,Iraq,Argentina,2,1,Nations League,1
+2019-08-17,Wales,Mexico,2,3,Africa Cup of Nations,0
+2019-08-17,Australia,France,1,0,Friendly,0
+2019-08-17,Morocco,England,1,0,AFC Asian Cup,1
+2019-08-17,Egypt,Cameroon,2,1,Friendly,1
+2019-08-17,Ecuador,Colombia,1,3,Nations League,1
+2019-08-17,Jamaica,Uzbekistan,1,1,Nations League,1
+2019-08-17,South Korea,England,2,2,Nations League,1
+2019-09-11,Germany,Austria,2,3,World Cup Qualification,1
+2019-09-11,Denmark,Austria,2,0,UEFA Euro,0
+2019-09-11,Ecuador,Sweden,0,0,Friendly,0
+2019-09-11,Argentina,Uzbekistan,1,0,AFC Asian Cup,0
+2019-09-11,Canada,Costa Rica,0,3,AFC Asian Cup,1
+2019-09-11,Jamaica,Panama,2,0,Nations League,1
+2019-09-11,Denmark,Nigeria,0,0,World Cup Qualification,0
+2019-09-11,Jamaica,Sweden,0,2,Africa Cup of Nations,1
+2019-09-11,Uruguay,Poland,0,0,Copa America,0
+2019-09-11,Morocco,Japan,0,2,World Cup Qualification,1
+2019-09-11,Ukraine,Belgium,1,0,Friendly,1
+2019-09-11,South Africa,Tunisia,2,1,Nations League,0
+2019-09-11,Poland,Argentina,0,1,Friendly,0
+2019-09-11,Argentina,Nigeria,1,0,Africa Cup of Nations,0
+2019-09-11,Brazil,Ukraine,2,2,Nations League,0
+2019-09-11,Poland,Saudi Arabia,2,0,Friendly,0
+2019-09-22,Chile,Costa Rica,2,0,World Cup Qualification,1
+2019-09-22,Belgium,Ukraine,2,0,Copa America,0
+2019-09-22,Ecuador,Portugal,0,0,World Cup Qualification,0
+2019-09-22,Ghana,Poland,1,2,UEFA Euro,0
+2019-09-22,South Korea,Uruguay,0,0,Africa Cup of Nations,1
+2019-09-22,South Africa,England,0,3,Africa Cup of Nations,1
+2019-09-22,Ukraine,Chile,1,0,Africa Cup of Nations,1
+2019-09-22,Morocco,Poland,2,0,Friendly,1
+2019-09-22,Australia,Ukraine,0,2,Friendly,1
+2019-09-22,Qatar,Croatia,0,3,Africa Cup of Nations,0
+2019-09-22,Austria,Portugal,0,1,World Cup Qualification,0
+2019-09-22,Austria,Canada,2,0,UEFA Euro,0
+2019-09-22,Ukraine,Argentina,0,1,Africa Cup of Nations,0
+2019-09-22,Belgium,Senegal,0,0,World Cup Qualification,1
+2019-10-02,Cameroon,Morocco,0,0,AFC Asian Cup,0
+2019-10-02,Denmark,Netherlands,0,1,Nations League,0
+2019-10-02,Sweden,Turkey,0,0,UEFA Euro,0
+2019-10-02,Sweden,Uruguay,0,3,AFC Asian Cup,0
+2019-10-02,Peru,Italy,0,0,World Cup Qualification,1
+2019-10-02,Sweden,Costa Rica,2,0,AFC Asian Cup,0
+2019-10-02,Netherlands,Panama,0,0,Copa America,1
+2019-10-02,Qatar,Turkey,0,0,World Cup Qualification,1
+2019-10-02,South Korea,Cameroon,3,0,World Cup Qualification,0
+2019-10-02,Qatar,Costa Rica,0,0,World Cup Qualification,0
+2019-10-02,Denmark,Panama,0,3,World Cup Qualification,1
+2019-10-02,New Zealand,Senegal,1,0,Nations League,0
+2019-10-02,Jamaica,Denmark,2,0,Africa Cup of Nations,1
+2019-10-02,Spain,South Korea,1,0,Friendly,1
+2019-10-02,Chile,Turkey,2,0,Copa America,0
+2019-10-02,Ecuador,Australia,2,2,UEFA Euro,0
+2019-10-02,Tunisia,Sweden,0,0,Copa America,0
+2019-10-02,Tunisia,Chile,2,0,Copa America,1
+2019-10-02,Cameroon,Uzbekistan,0,3,Copa America,1
+2019-10-02,Ghana,Senegal,0,1,World Cup Qualification,0
+2019-10-02,Cameroon,Ukraine,1,0,Nations League,1
+2019-10-02,Argentina,Colombia,0,0,Africa Cup of Nations,0
+2019-10-02,Germany,Peru,1,0,AFC Asian Cup,0
+2019-10-22,Peru,Uruguay,0,2,Copa America,0
+2019-10-22,Germany,Qatar,3,1,Friendly,1
+2019-10-22,Austria,Spain,0,1,Friendly,0
+2019-10-22,Jamaica,Morocco,2,4,UEFA Euro,1
+2019-10-22,Saudi Arabia,Denmark,0,0,Africa Cup of Nations,0
+2019-10-22,Argentina,Egypt,2,0,Copa America,0
+2019-10-22,Canada,Denmark,0,0,Copa America,0
+2019-10-22,Nigeria,Algeria,0,0,AFC Asian Cup,0
+2019-10-22,Sweden,New Zealand,0,0,Africa Cup of Nations,0
+2019-10-22,Costa Rica,South Africa,3,0,Copa America,0
+2019-10-22,Netherlands,Ghana,1,1,UEFA Euro,1
+2019-10-22,Australia,Qatar,2,0,Nations League,1
+2019-10-22,Switzerland,Saudi Arabia,1,3,Friendly,0
+2019-10-22,Spain,Uzbekistan,2,0,Copa America,0
+2019-10-22,Mexico,Sweden,0,0,Nations League,0
+2019-10-22,Japan,Mexico,0,0,UEFA Euro,1
+2019-10-22,Denmark,Costa Rica,1,0,Copa America,0
+2019-10-22,Senegal,Poland,3,3,World Cup Qualification,1
+2019-10-22,Chile,South Korea,3,0,Africa Cup of Nations,1
+2019-10-22,Costa Rica,Senegal,1,3,Africa Cup of Nations,1
+2019-10-22,Ghana,Nigeria,2,1,AFC Asian Cup,0
+2019-10-22,USA,Iran,3,0,Friendly,0
+2019-10-22,Cameroon,Morocco,0,1,Africa Cup of Nations,0
+2019-10-22,Ukraine,Colombia,0,3,Friendly,1
+2019-10-22,Qatar,Sweden,0,0,AFC Asian Cup,1
+2019-11-15,Austria,Chile,3,0,World Cup Qualification,0
+2019-11-15,Turkey,Sweden,0,0,AFC Asian Cup,1
+2019-11-15,Sweden,Cameroon,5,0,Africa Cup of Nations,0
+2019-11-15,Canada,Ecuador,3,2,Friendly,0
+2019-11-15,Peru,Chile,0,1,World Cup Qualification,1
+2019-11-15,Italy,Japan,2,0,Nations League,0
+2019-11-15,Qatar,Ukraine,0,2,World Cup Qualification,0
+2019-11-15,Cameroon,Turkey,4,0,Africa Cup of Nations,1
+2019-11-15,Panama,Colombia,2,0,AFC Asian Cup,1
+2019-11-15,Canada,Algeria,0,2,Africa Cup of Nations,0
+2019-11-15,Canada,Iraq,3,0,Africa Cup of Nations,1
+2019-11-15,Colombia,Austria,1,0,World Cup Qualification,0
+2019-11-15,Senegal,Poland,2,0,AFC Asian Cup,1
+2019-11-15,Italy,Japan,1,1,Copa America,0
+2019-11-15,Cameroon,Canada,0,2,Nations League,0
+2019-11-15,Croatia,Portugal,0,2,Friendly,0
+2019-11-15,Japan,Germany,2,1,World Cup Qualification,1
+2019-11-15,Ecuador,Iraq,2,4,World Cup Qualification,0
+2019-11-15,Qatar,Jamaica,0,3,UEFA Euro,1
+2019-11-15,Panama,Iraq,1,0,Africa Cup of Nations,0
+2019-11-15,Iran,Egypt,0,2,Africa Cup of Nations,1
+2019-11-25,Switzerland,Tunisia,2,0,Africa Cup of Nations,0
+2019-11-25,Netherlands,Tunisia,3,0,AFC Asian Cup,1
+2019-11-25,Panama,Cameroon,1,0,AFC Asian Cup,0
+2019-11-25,Ecuador,Spain,2,2,Africa Cup of Nations,1
+2019-11-25,Mexico,Colombia,0,0,UEFA Euro,1
+2019-11-25,Morocco,England,1,0,Africa Cup of Nations,1
+2019-11-25,Morocco,Uzbekistan,3,0,Africa Cup of Nations,0
+2019-11-25,Nigeria,Germany,0,0,UEFA Euro,1
+2019-11-25,Ghana,Croatia,0,4,Nations League,1
+2019-11-25,Egypt,South Korea,0,4,World Cup Qualification,0
+2019-11-25,Brazil,Poland,1,0,AFC Asian Cup,1
+2019-11-25,Poland,Belgium,1,1,World Cup Qualification,1
+2019-12-17,Switzerland,Mexico,0,1,World Cup Qualification,1
+2019-12-17,Peru,New Zealand,1,0,Africa Cup of Nations,0
+2019-12-17,Iraq,Turkey,1,1,UEFA Euro,0
+2019-12-17,France,Canada,2,1,AFC Asian Cup,1
+2019-12-17,Iraq,Argentina,2,2,Copa America,1
+2019-12-17,Canada,Mexico,1,2,Africa Cup of Nations,0
+2019-12-17,Qatar,New Zealand,0,1,Copa America,1
+2019-12-17,Algeria,Costa Rica,0,1,Copa America,1
+2019-12-17,Australia,Uzbekistan,1,0,World Cup Qualification,0
+2019-12-17,Croatia,Italy,0,2,AFC Asian Cup,1
+2019-12-17,Netherlands,Japan,3,0,Copa America,0
+2019-12-17,South Africa,Qatar,0,0,Copa America,1
+2019-12-17,Nigeria,Poland,0,0,AFC Asian Cup,1
+2019-12-17,Poland,Belgium,0,2,World Cup Qualification,0
+2019-12-17,USA,Canada,1,2,Friendly,1
+2020-01-02,Chile,Jamaica,1,0,UEFA Euro,0
+2020-01-02,South Korea,Jamaica,0,0,AFC Asian Cup,0
+2020-01-02,Wales,USA,1,3,AFC Asian Cup,1
+2020-01-02,Panama,Ghana,1,0,Copa America,0
+2020-01-02,Spain,Belgium,3,0,Friendly,1
+2020-01-02,Ukraine,Cameroon,0,0,Friendly,1
+2020-01-02,Uruguay,Senegal,0,0,UEFA Euro,1
+2020-01-02,Portugal,New Zealand,0,0,World Cup Qualification,0
+2020-01-02,Austria,Ghana,1,0,UEFA Euro,1
+2020-01-02,Iran,Australia,2,0,Africa Cup of Nations,0
+2020-01-02,Uzbekistan,Australia,1,2,Copa America,1
+2020-01-02,Ecuador,Argentina,2,1,AFC Asian Cup,1
+2020-01-02,Iraq,Argentina,0,2,Nations League,0
+2020-01-02,Saudi Arabia,Iraq,0,0,Copa America,1
+2020-01-02,Australia,Canada,2,2,Nations League,1
+2020-01-02,Cameroon,Canada,0,4,Copa America,1
+2020-01-02,Iraq,Brazil,0,1,UEFA Euro,1
+2020-01-19,Ecuador,Morocco,0,2,UEFA Euro,0
+2020-01-19,Peru,Saudi Arabia,2,0,Copa America,1
+2020-01-19,Spain,Panama,2,0,Copa America,0
+2020-01-19,Tunisia,Saudi Arabia,0,0,Friendly,1
+2020-01-19,Costa Rica,Egypt,0,0,Friendly,1
+2020-01-19,Iraq,Tunisia,2,1,Friendly,0
+2020-01-19,Germany,Panama,1,0,AFC Asian Cup,0
+2020-01-19,Netherlands,Spain,0,1,Friendly,1
+2020-01-19,Saudi Arabia,Japan,1,3,Friendly,0
+2020-01-19,Ghana,Brazil,2,3,Friendly,0
+2020-01-19,Canada,Nigeria,1,2,World Cup Qualification,0
+2020-01-19,Italy,Cameroon,2,1,UEFA Euro,0
+2020-01-19,Nigeria,France,0,0,World Cup Qualification,1
+2020-01-19,Wales,Brazil,0,0,UEFA Euro,0
+2020-01-19,Japan,Belgium,0,0,UEFA Euro,1
+2020-01-19,Wales,Ghana,0,0,World Cup Qualification,0
+2020-01-19,Argentina,Belgium,2,3,World Cup Qualification,1
+2020-01-19,Italy,Denmark,0,0,UEFA Euro,1
+2020-01-19,Sweden,South Africa,1,3,Nations League,0
+2020-01-19,Uzbekistan,Nigeria,0,0,World Cup Qualification,0
+2020-02-12,Mexico,Uzbekistan,1,1,Friendly,1
+2020-02-12,Belgium,Saudi Arabia,0,3,Nations League,1
+2020-02-12,Germany,Qatar,0,0,Africa Cup of Nations,1
+2020-02-12,Nigeria,England,0,0,Africa Cup of Nations,1
+2020-02-12,Uzbekistan,Austria,0,1,Friendly,0
+2020-02-12,Ecuador,Egypt,0,3,Nations League,0
+2020-02-12,Austria,Morocco,0,0,AFC Asian Cup,1
+2020-02-12,Wales,Ecuador,3,1,AFC Asian Cup,0
+2020-02-12,Qatar,Colombia,0,0,AFC Asian Cup,1
+2020-02-12,Algeria,Australia,3,0,UEFA Euro,1
+2020-02-12,Morocco,Switzerland,0,0,AFC Asian Cup,1
+2020-03-03,Netherlands,Uruguay,1,0,Copa America,1
+2020-03-03,Jamaica,Australia,3,1,Friendly,0
+2020-03-03,Jamaica,Brazil,0,1,Nations League,1
+2020-03-03,Uzbekistan,Iran,4,1,World Cup Qualification,1
+2020-03-03,Italy,Canada,2,2,Nations League,0
+2020-03-03,Chile,New Zealand,2,0,Copa America,1
+2020-03-03,Cameroon,England,0,2,Friendly,1
+2020-03-03,Ukraine,Colombia,1,2,Africa Cup of Nations,0
+2020-03-03,Portugal,England,0,0,Nations League,1
+2020-03-03,Egypt,South Korea,0,0,Nations League,1
+2020-03-03,Denmark,Wales,0,0,Africa Cup of Nations,1
+2020-03-03,Uruguay,Ukraine,1,4,Africa Cup of Nations,0
+2020-03-03,Chile,Saudi Arabia,1,0,Friendly,0
+2020-03-03,England,Japan,2,2,Friendly,0
+2020-03-22,USA,Ukraine,5,2,AFC Asian Cup,0
+2020-03-22,Morocco,Costa Rica,3,0,Copa America,0
+2020-03-22,Tunisia,Wales,1,1,AFC Asian Cup,0
+2020-03-22,Sweden,Wales,0,1,UEFA Euro,1
+2020-03-22,Qatar,Saudi Arabia,3,2,World Cup Qualification,0
+2020-03-22,Italy,Mexico,1,0,Africa Cup of Nations,0
+2020-03-22,Australia,Colombia,0,1,Africa Cup of Nations,0
+2020-03-22,Peru,Switzerland,3,4,AFC Asian Cup,0
+2020-03-22,Jamaica,South Africa,0,1,World Cup Qualification,1
+2020-03-22,South Korea,Croatia,0,2,World Cup Qualification,0
+2020-03-22,Peru,Croatia,0,0,Friendly,0
+2020-03-22,England,Uruguay,0,0,World Cup Qualification,0
+2020-03-22,Wales,Uruguay,3,0,World Cup Qualification,0
+2020-03-22,Ecuador,Argentina,0,0,Africa Cup of Nations,1
+2020-03-22,Wales,Ecuador,1,2,Friendly,1
+2020-03-22,Jamaica,France,0,2,Friendly,0
+2020-03-22,Belgium,Peru,2,0,World Cup Qualification,0
+2020-03-22,South Korea,Peru,2,0,Nations League,0
+2020-03-22,Chile,Sweden,1,0,Friendly,1
+2020-03-22,USA,England,1,0,Friendly,0
+2020-03-22,Saudi Arabia,Peru,0,3,AFC Asian Cup,1
+2020-03-22,Argentina,South Africa,1,0,World Cup Qualification,1
+2020-03-22,Ghana,Nigeria,2,1,Copa America,1
+2020-03-22,Poland,Austria,2,0,World Cup Qualification,0
+2020-04-02,Peru,Uzbekistan,0,4,Africa Cup of Nations,1
+2020-04-02,Switzerland,Japan,1,0,UEFA Euro,1
+2020-04-02,Egypt,Iran,0,2,Copa America,1
+2020-04-02,Ghana,Wales,1,0,World Cup Qualification,0
+2020-04-02,Wales,Uruguay,0,2,Friendly,1
+2020-04-02,Netherlands,France,0,1,UEFA Euro,1
+2020-04-02,Argentina,Austria,2,2,Africa Cup of Nations,0
+2020-04-02,Switzerland,Belgium,1,0,World Cup Qualification,0
+2020-04-02,Colombia,Jamaica,0,0,AFC Asian Cup,1
+2020-04-02,Belgium,South Korea,0,0,AFC Asian Cup,1
+2020-04-02,Nigeria,Germany,0,2,UEFA Euro,1
+2020-04-20,Netherlands,Colombia,3,0,AFC Asian Cup,0
+2020-04-20,Qatar,Canada,2,0,UEFA Euro,0
+2020-04-20,Ukraine,New Zealand,2,0,Africa Cup of Nations,1
+2020-04-20,Japan,France,3,1,Nations League,0
+2020-04-20,USA,Ukraine,1,5,World Cup Qualification,0
+2020-04-20,Chile,Uzbekistan,2,2,Africa Cup of Nations,0
+2020-04-20,Ecuador,France,0,0,AFC Asian Cup,0
+2020-04-20,Morocco,Jamaica,0,0,Copa America,0
+2020-04-20,Brazil,Netherlands,0,1,Nations League,0
+2020-04-20,South Africa,Turkey,4,1,AFC Asian Cup,0
+2020-04-20,Australia,Belgium,0,2,Nations League,1
+2020-04-20,Austria,Belgium,3,2,Africa Cup of Nations,1
+2020-04-20,Austria,Algeria,1,0,Friendly,0
+2020-04-20,Peru,South Korea,0,3,Friendly,1
+2020-04-20,Denmark,New Zealand,2,0,Nations League,1
+2020-05-08,Morocco,Iraq,3,0,Copa America,0
+2020-05-08,Turkey,Ghana,4,0,Copa America,0
+2020-05-08,Costa Rica,Algeria,1,0,UEFA Euro,1
+2020-05-08,Netherlands,South Korea,1,0,AFC Asian Cup,1
+2020-05-08,England,Ghana,3,0,Africa Cup of Nations,1
+2020-05-08,Colombia,Croatia,1,0,Africa Cup of Nations,0
+2020-05-08,Colombia,Mexico,0,1,UEFA Euro,1
+2020-05-08,Denmark,Uruguay,0,0,Nations League,1
+2020-05-08,Qatar,Colombia,0,0,UEFA Euro,0
+2020-05-08,Croatia,Egypt,3,0,Africa Cup of Nations,1
+2020-05-08,Argentina,New Zealand,2,0,Nations League,0
+2020-05-08,Uzbekistan,Senegal,3,0,Copa America,0
+2020-05-08,Denmark,Peru,4,0,Friendly,1
+2020-05-08,England,Croatia,2,1,AFC Asian Cup,1
+2020-05-08,Iraq,Italy,0,0,AFC Asian Cup,0
+2020-05-08,Spain,Nigeria,2,0,Nations League,0
+2020-05-08,Nigeria,Canada,0,0,Copa America,1
+2020-05-08,France,Brazil,1,0,Copa America,0
+2020-05-08,England,Wales,0,0,Africa Cup of Nations,1
+2020-05-08,Uruguay,France,2,0,UEFA Euro,0
+2020-05-27,Nigeria,Germany,2,3,Africa Cup of Nations,0
+2020-05-27,Switzerland,Croatia,2,0,UEFA Euro,1
+2020-05-27,Chile,Austria,0,1,Friendly,0
+2020-05-27,Colombia,Wales,3,1,Copa America,1
+2020-05-27,Tunisia,England,0,4,World Cup Qualification,1
+2020-05-27,Senegal,USA,2,0,Copa America,1
+2020-05-27,Ghana,Canada,0,2,World Cup Qualification,0
+2020-05-27,Turkey,Brazil,0,0,Copa America,1
+2020-05-27,Brazil,Switzerland,1,0,Copa America,1
+2020-05-27,Canada,Iraq,0,2,Africa Cup of Nations,1
+2020-05-27,Croatia,Panama,2,4,World Cup Qualification,1
+2020-05-27,Uzbekistan,Ukraine,3,2,Africa Cup of Nations,0
+2020-05-27,England,Sweden,1,0,UEFA Euro,1
+2020-05-27,Morocco,Peru,2,0,World Cup Qualification,0
+2020-05-27,Jamaica,England,0,0,Friendly,0
+2020-05-27,Sweden,USA,0,0,Nations League,1
+2020-05-27,Peru,England,0,3,Nations League,0
+2020-05-27,Iran,Nigeria,0,2,Nations League,1
+2020-05-27,South Africa,Egypt,3,1,Nations League,1
+2020-05-27,Jamaica,Turkey,2,2,Friendly,1
+2020-05-27,Nigeria,Qatar,2,0,Africa Cup of Nations,0
+2020-05-27,Qatar,Argentina,0,1,UEFA Euro,1
+2020-05-27,Croatia,Argentina,0,0,AFC Asian Cup,0
+2020-05-27,Brazil,Panama,2,0,World Cup Qualification,0
+2020-06-07,Ukraine,Australia,0,1,Friendly,1
+2020-06-07,Tunisia,South Korea,0,0,Friendly,1
+2020-06-07,Mexico,Canada,1,1,World Cup Qualification,0
+2020-06-07,Colombia,France,0,3,Nations League,1
+2020-06-07,Poland,USA,1,2,Copa America,1
+2020-06-07,England,Italy,0,4,UEFA Euro,0
+2020-06-07,Germany,Uruguay,0,0,Copa America,1
+2020-06-07,Brazil,New Zealand,2,2,Copa America,0
+2020-06-07,Uzbekistan,South Africa,1,1,AFC Asian Cup,0
+2020-06-07,Belgium,Senegal,2,2,Copa America,0
+2020-06-07,Qatar,Tunisia,0,1,AFC Asian Cup,1
+2020-06-07,Switzerland,Spain,1,0,Africa Cup of Nations,1
+2020-06-07,Tunisia,Costa Rica,1,0,Nations League,1
+2020-06-07,Switzerland,Uruguay,0,1,UEFA Euro,0
+2020-07-02,Ghana,Portugal,1,3,Friendly,1
+2020-07-02,Colombia,Chile,2,0,AFC Asian Cup,1
+2020-07-02,Qatar,Brazil,0,1,World Cup Qualification,0
+2020-07-02,Ukraine,Morocco,2,0,Nations League,1
+2020-07-02,Japan,Italy,2,0,Nations League,1
+2020-07-02,Turkey,Ghana,4,3,AFC Asian Cup,1
+2020-07-02,Belgium,Nigeria,1,0,Africa Cup of Nations,0
+2020-07-02,Tunisia,Ecuador,0,1,Friendly,1
+2020-07-02,Denmark,Costa Rica,1,0,AFC Asian Cup,1
+2020-07-02,Wales,Ghana,3,2,Copa America,1
+2020-07-02,Costa Rica,Spain,0,1,Africa Cup of Nations,0
+2020-07-02,Ecuador,Wales,2,0,Africa Cup of Nations,0
+2020-07-02,Chile,Ukraine,1,0,Copa America,0
+2020-07-02,Iraq,Jamaica,1,0,UEFA Euro,0
+2020-07-18,Ghana,France,0,3,Copa America,1
+2020-07-18,Nigeria,Uruguay,1,1,Africa Cup of Nations,0
+2020-07-18,Germany,USA,0,0,Copa America,1
+2020-07-18,Qatar,Uzbekistan,0,2,Nations League,1
+2020-07-18,Chile,Brazil,0,2,World Cup Qualification,1
+2020-07-18,Australia,Denmark,2,0,Friendly,0
+2020-07-18,Wales,Morocco,3,0,Friendly,1
+2020-07-18,Chile,Saudi Arabia,3,0,Copa America,1
+2020-07-18,Croatia,Switzerland,1,1,World Cup Qualification,1
+2020-07-18,Cameroon,Canada,0,0,Africa Cup of Nations,1
+2020-07-18,Nigeria,South Africa,3,0,UEFA Euro,0
+2020-07-18,South Africa,Cameroon,0,0,UEFA Euro,1
+2020-07-18,New Zealand,Costa Rica,0,0,Copa America,1
+2020-07-18,Australia,Belgium,1,0,Copa America,1
+2020-07-18,Brazil,Italy,1,0,Africa Cup of Nations,1
+2020-07-18,Italy,Jamaica,1,0,Friendly,1
+2020-07-18,Algeria,Switzerland,1,2,AFC Asian Cup,0
+2020-07-18,Croatia,Qatar,0,0,Nations League,0
+2020-07-18,Poland,USA,0,2,AFC Asian Cup,1
+2020-07-18,Tunisia,Peru,4,0,Copa America,1
+2020-07-18,South Africa,Netherlands,0,0,Africa Cup of Nations,0
+2020-07-18,Germany,Egypt,2,2,Copa America,0
+2020-08-05,Switzerland,Iraq,3,4,AFC Asian Cup,0
+2020-08-05,Egypt,South Korea,0,0,AFC Asian Cup,1
+2020-08-05,Chile,Cameroon,1,1,World Cup Qualification,1
+2020-08-05,Sweden,Australia,1,0,Nations League,1
+2020-08-05,Cameroon,Argentina,0,2,AFC Asian Cup,1
+2020-08-05,Poland,Brazil,1,3,UEFA Euro,0
+2020-08-05,Jamaica,Morocco,4,0,Nations League,1
+2020-08-05,Cameroon,Italy,0,2,UEFA Euro,1
+2020-08-05,Mexico,Ukraine,0,3,UEFA Euro,1
+2020-08-05,Belgium,Austria,2,0,Nations League,0
+2020-08-05,Switzerland,Ukraine,2,3,Copa America,0
+2020-08-05,Senegal,South Africa,1,0,AFC Asian Cup,1
+2020-08-05,Costa Rica,Uruguay,1,3,UEFA Euro,1
+2020-08-05,Australia,South Africa,0,0,Copa America,1
+2020-08-05,Italy,Nigeria,0,0,AFC Asian Cup,0
+2020-08-05,Jamaica,Tunisia,1,0,Friendly,1
+2020-08-05,Qatar,Australia,0,0,World Cup Qualification,0
+2020-08-05,Canada,Croatia,0,3,Nations League,1
+2020-08-05,Italy,Iran,0,3,Copa America,0
+2020-08-05,England,Spain,0,0,AFC Asian Cup,0
+2020-08-05,South Africa,Senegal,0,2,AFC Asian Cup,1
+2020-08-05,South Korea,Egypt,2,0,World Cup Qualification,0
+2020-08-05,Nigeria,Morocco,3,2,Africa Cup of Nations,1
+2020-08-05,Qatar,France,1,0,Copa America,1
+2020-08-05,Turkey,Tunisia,0,0,AFC Asian Cup,1
+2020-08-20,Jamaica,Canada,0,2,Copa America,1
+2020-08-20,Jamaica,South Africa,0,0,Friendly,1
+2020-08-20,Nigeria,Ukraine,3,1,AFC Asian Cup,0
+2020-08-20,Senegal,Belgium,2,1,Copa America,0
+2020-08-20,Egypt,Uzbekistan,3,2,Africa Cup of Nations,0
+2020-08-20,Costa Rica,Italy,0,1,UEFA Euro,1
+2020-08-20,Chile,Peru,0,1,UEFA Euro,1
+2020-08-20,Uruguay,Poland,0,0,Copa America,0
+2020-08-20,New Zealand,Iraq,2,3,Copa America,1
+2020-08-20,England,Austria,3,0,AFC Asian Cup,0
+2020-08-20,Ukraine,Belgium,2,0,Africa Cup of Nations,0
+2020-08-20,Brazil,Algeria,3,0,Nations League,0
+2020-08-20,USA,Netherlands,3,0,Copa America,0
+2020-08-20,Sweden,Germany,0,2,Africa Cup of Nations,0
+2020-08-20,Egypt,Nigeria,1,0,Nations League,0
+2020-08-20,Costa Rica,Japan,2,0,AFC Asian Cup,0
+2020-08-20,Iraq,Australia,2,3,Africa Cup of Nations,0
+2020-09-12,Tunisia,Saudi Arabia,5,1,AFC Asian Cup,1
+2020-09-12,Algeria,Ecuador,3,0,World Cup Qualification,0
+2020-09-12,Belgium,Iraq,1,1,Africa Cup of Nations,0
+2020-09-12,Ecuador,Netherlands,0,2,Africa Cup of Nations,1
+2020-09-12,New Zealand,Denmark,0,0,Friendly,0
+2020-09-12,Colombia,Chile,3,0,Copa America,1
+2020-09-12,Denmark,Turkey,0,3,Copa America,0
+2020-09-12,Tunisia,Croatia,2,0,Nations League,1
+2020-09-12,Belgium,France,2,0,AFC Asian Cup,0
+2020-09-12,USA,Mexico,0,0,Nations League,1
+2020-09-12,Costa Rica,Germany,1,2,World Cup Qualification,0
+2020-09-12,Germany,Denmark,2,0,Copa America,0
+2020-09-12,Iran,New Zealand,1,0,Africa Cup of Nations,0
+2020-09-12,New Zealand,Nigeria,2,0,Friendly,1
+2020-09-12,Cameroon,USA,1,1,Nations League,0
+2020-09-12,France,Wales,1,0,Friendly,0
+2020-09-12,Wales,Qatar,2,1,Friendly,0
+2020-09-12,Saudi Arabia,Italy,1,0,Nations League,0
+2020-09-12,South Korea,Ukraine,0,0,Africa Cup of Nations,1
+2020-09-12,Panama,Iran,0,3,Africa Cup of Nations,1
+2020-10-02,Uruguay,Cameroon,2,0,World Cup Qualification,0
+2020-10-02,Spain,Brazil,1,0,World Cup Qualification,1
+2020-10-02,Nigeria,Germany,0,0,UEFA Euro,0
+2020-10-02,Netherlands,Senegal,1,0,World Cup Qualification,1
+2020-10-02,Tunisia,Denmark,2,0,Friendly,1
+2020-10-02,Denmark,Belgium,0,0,AFC Asian Cup,1
+2020-10-02,New Zealand,Ecuador,2,2,World Cup Qualification,1
+2020-10-02,Egypt,Belgium,1,0,Friendly,1
+2020-10-02,South Africa,France,2,1,Copa America,1
+2020-10-02,Belgium,USA,0,2,UEFA Euro,0
+2020-10-02,Argentina,Peru,1,1,AFC Asian Cup,0
+2020-10-02,New Zealand,Argentina,0,2,Copa America,1
+2020-10-02,Poland,Belgium,0,1,World Cup Qualification,1
+2020-10-02,Japan,Costa Rica,3,1,Friendly,0
+2020-10-02,Algeria,Egypt,1,1,Africa Cup of Nations,0
+2020-10-02,Senegal,Panama,1,0,World Cup Qualification,1
+2020-10-02,Wales,Argentina,0,3,UEFA Euro,1
+2020-10-02,USA,Algeria,2,0,Friendly,1
+2020-10-02,Spain,Belgium,2,2,Africa Cup of Nations,1
+2020-10-02,France,Saudi Arabia,2,0,World Cup Qualification,0
+2020-10-02,Tunisia,Nigeria,2,2,UEFA Euro,0
+2020-10-02,Senegal,Portugal,0,1,AFC Asian Cup,0
+2020-10-24,Ecuador,Cameroon,3,2,AFC Asian Cup,0
+2020-10-24,Jamaica,Mexico,2,0,Friendly,0
+2020-10-24,Qatar,Belgium,3,0,AFC Asian Cup,0
+2020-10-24,Japan,Saudi Arabia,1,0,Copa America,1
+2020-10-24,Canada,Austria,1,2,AFC Asian Cup,1
+2020-10-24,Poland,Ecuador,3,3,Nations League,1
+2020-10-24,Germany,Tunisia,2,2,UEFA Euro,0
+2020-10-24,Poland,New Zealand,0,1,Friendly,1
+2020-10-24,Australia,Saudi Arabia,3,1,World Cup Qualification,1
+2020-10-24,Saudi Arabia,South Africa,1,0,World Cup Qualification,0
+2020-10-24,Ukraine,Algeria,0,3,Copa America,0
+2020-10-24,Turkey,Morocco,1,1,Nations League,0
+2020-10-24,Egypt,Uruguay,0,0,Africa Cup of Nations,0
+2020-10-24,Australia,Colombia,2,0,UEFA Euro,0
+2020-10-24,Cameroon,Iraq,2,2,Nations League,1
+2020-10-24,Argentina,Japan,4,0,Copa America,0
+2020-10-24,Denmark,Peru,0,1,Friendly,0
+2020-11-17,Jamaica,Iraq,1,2,World Cup Qualification,0
+2020-11-17,Saudi Arabia,Belgium,0,1,World Cup Qualification,1
+2020-11-17,Mexico,Saudi Arabia,0,0,World Cup Qualification,0
+2020-11-17,Iraq,Ghana,4,0,Nations League,1
+2020-11-17,Poland,Iran,0,0,AFC Asian Cup,0
+2020-11-17,Tunisia,South Africa,2,0,AFC Asian Cup,1
+2020-11-17,Denmark,Japan,2,3,Nations League,1
+2020-11-17,Egypt,Spain,0,0,AFC Asian Cup,0
+2020-11-17,Jamaica,Algeria,0,1,Nations League,1
+2020-11-17,Switzerland,Iraq,0,1,AFC Asian Cup,0
+2020-11-17,Germany,South Korea,2,1,Friendly,0
+2020-11-17,USA,Uruguay,2,1,UEFA Euro,1
+2020-11-17,Nigeria,Costa Rica,1,0,UEFA Euro,1
+2020-11-17,Uruguay,Saudi Arabia,1,0,Copa America,1
+2020-11-17,Iran,Saudi Arabia,0,0,World Cup Qualification,1
+2020-11-17,Netherlands,Brazil,1,0,AFC Asian Cup,1
+2020-11-17,Sweden,USA,0,4,Friendly,0
+2020-11-17,Turkey,South Korea,1,2,Copa America,0
+2020-11-17,Germany,Belgium,0,0,Friendly,0
+2020-11-17,Panama,Egypt,0,0,UEFA Euro,1
+2020-11-17,Iran,Jamaica,1,0,Nations League,0
+2020-11-17,Uzbekistan,Ghana,0,3,Friendly,1
+2020-11-17,Poland,Argentina,2,2,Africa Cup of Nations,0
+2020-12-09,South Korea,Italy,0,3,AFC Asian Cup,0
+2020-12-09,Turkey,Sweden,1,1,AFC Asian Cup,1
+2020-12-09,Australia,Argentina,0,0,Friendly,1
+2020-12-09,Uruguay,Jamaica,0,0,Friendly,0
+2020-12-09,Portugal,Costa Rica,0,0,Africa Cup of Nations,0
+2020-12-09,Ukraine,Germany,1,1,Copa America,0
+2020-12-09,Germany,Iraq,1,3,AFC Asian Cup,1
+2020-12-09,Cameroon,Australia,0,1,Copa America,1
+2020-12-09,Brazil,Saudi Arabia,1,1,Africa Cup of Nations,1
+2020-12-09,Costa Rica,Peru,2,3,Friendly,1
+2020-12-09,Ecuador,Germany,2,0,Friendly,0
+2020-12-09,Costa Rica,Panama,0,3,World Cup Qualification,1
+2020-12-09,Nigeria,Wales,0,0,Nations League,1
+2020-12-09,Mexico,Senegal,0,0,Africa Cup of Nations,0
+2020-12-09,Croatia,Wales,0,0,Africa Cup of Nations,1
+2020-12-09,Netherlands,Ghana,0,0,Copa America,0
+2020-12-09,New Zealand,Mexico,0,0,Copa America,1
+2020-12-09,Brazil,Egypt,3,0,World Cup Qualification,1
+2020-12-09,Netherlands,Qatar,0,1,UEFA Euro,1
+2020-12-09,Canada,Croatia,1,1,UEFA Euro,0
+2020-12-09,Denmark,Portugal,2,2,Copa America,0
+2020-12-09,Austria,Poland,1,0,UEFA Euro,0
+2020-12-09,Uzbekistan,USA,0,2,Friendly,0
+2020-12-24,Germany,Senegal,3,2,Copa America,0
+2020-12-24,Ecuador,Costa Rica,3,2,Nations League,0
+2020-12-24,Croatia,Argentina,1,1,UEFA Euro,0
+2020-12-24,France,Brazil,2,0,Friendly,0
+2020-12-24,Portugal,Ecuador,3,0,Friendly,0
+2020-12-24,Wales,Uruguay,0,0,UEFA Euro,0
+2020-12-24,Jamaica,Australia,0,0,World Cup Qualification,1
+2020-12-24,Switzerland,Portugal,1,2,Africa Cup of Nations,0
+2020-12-24,Jamaica,Germany,2,1,Africa Cup of Nations,1
+2020-12-24,Egypt,South Africa,3,2,World Cup Qualification,0
+2020-12-24,USA,Italy,2,0,Friendly,1
+2020-12-24,Iraq,Tunisia,0,0,Copa America,1
+2021-01-17,Argentina,Canada,3,0,UEFA Euro,1
+2021-01-17,Italy,Tunisia,2,1,Copa America,1
+2021-01-17,Tunisia,Ecuador,1,0,World Cup Qualification,1
+2021-01-17,USA,Japan,2,0,UEFA Euro,0
+2021-01-17,Ghana,Saudi Arabia,0,3,Africa Cup of Nations,0
+2021-01-17,Poland,Australia,3,0,Copa America,1
+2021-01-17,Morocco,Germany,0,0,AFC Asian Cup,1
+2021-01-17,Saudi Arabia,Croatia,2,1,Nations League,0
+2021-01-17,Brazil,Japan,1,0,Friendly,0
+2021-01-17,Colombia,Egypt,0,0,Copa America,1
+2021-01-17,New Zealand,Algeria,0,1,Nations League,0
+2021-01-17,Costa Rica,Qatar,1,4,UEFA Euro,1
+2021-01-17,Turkey,Chile,0,0,Copa America,1
+2021-01-17,Wales,Germany,1,0,Africa Cup of Nations,1
+2021-01-17,Canada,Jamaica,1,0,Friendly,1
+2021-01-17,Turkey,Poland,0,0,World Cup Qualification,1
+2021-01-17,Mexico,Uruguay,0,2,Copa America,1
+2021-01-17,Netherlands,Colombia,0,0,AFC Asian Cup,0
+2021-01-17,Peru,Jamaica,0,0,World Cup Qualification,1
+2021-01-17,Jamaica,Portugal,0,2,Copa America,0
+2021-02-08,Morocco,Senegal,3,0,Copa America,1
+2021-02-08,Australia,Austria,0,0,UEFA Euro,1
+2021-02-08,Brazil,Algeria,0,0,Nations League,0
+2021-02-08,Mexico,Peru,3,0,UEFA Euro,0
+2021-02-08,Egypt,Chile,0,0,UEFA Euro,0
+2021-02-08,Portugal,Ghana,0,2,UEFA Euro,1
+2021-02-08,Ukraine,Italy,1,0,Copa America,0
+2021-02-08,Turkey,Iraq,1,1,Copa America,1
+2021-02-08,New Zealand,Netherlands,0,0,UEFA Euro,0
+2021-02-08,Austria,Nigeria,3,0,Nations League,1
+2021-02-08,Algeria,Sweden,3,0,Copa America,0
+2021-02-08,Italy,Canada,1,2,AFC Asian Cup,1
+2021-02-08,USA,Sweden,0,0,Nations League,0
+2021-03-03,Turkey,Panama,0,0,UEFA Euro,0
+2021-03-03,England,Morocco,2,2,Copa America,1
+2021-03-03,Saudi Arabia,Denmark,2,0,UEFA Euro,1
+2021-03-03,Germany,Egypt,2,1,Africa Cup of Nations,1
+2021-03-03,Spain,Peru,1,1,Nations League,1
+2021-03-03,Japan,Panama,2,0,Africa Cup of Nations,1
+2021-03-03,France,USA,0,2,AFC Asian Cup,1
+2021-03-03,Canada,South Africa,0,0,Africa Cup of Nations,1
+2021-03-03,Iraq,Croatia,1,1,Friendly,1
+2021-03-03,Uzbekistan,Wales,1,1,Friendly,0
+2021-03-03,USA,Argentina,0,2,AFC Asian Cup,1
+2021-03-15,Portugal,South Africa,0,2,UEFA Euro,1
+2021-03-15,Ghana,Qatar,2,0,Africa Cup of Nations,1
+2021-03-15,Sweden,Uruguay,0,0,AFC Asian Cup,0
+2021-03-15,Mexico,Portugal,0,3,Copa America,0
+2021-03-15,Mexico,Iran,3,0,UEFA Euro,1
+2021-03-15,Australia,Austria,0,1,AFC Asian Cup,1
+2021-03-15,Cameroon,Argentina,0,1,Friendly,1
+2021-03-15,Ukraine,Nigeria,0,1,Copa America,0
+2021-03-15,Mexico,Peru,2,2,World Cup Qualification,1
+2021-03-15,Uruguay,Croatia,2,0,Nations League,0
+2021-03-15,Germany,Iran,2,0,World Cup Qualification,1
+2021-04-09,South Korea,Belgium,1,1,World Cup Qualification,1
+2021-04-09,Jamaica,Nigeria,3,0,UEFA Euro,0
+2021-04-09,Egypt,Qatar,0,0,Africa Cup of Nations,0
+2021-04-09,Algeria,USA,0,0,Copa America,1
+2021-04-09,Italy,Wales,3,1,UEFA Euro,0
+2021-04-09,Costa Rica,Portugal,3,1,World Cup Qualification,1
+2021-04-09,Denmark,Ecuador,4,2,World Cup Qualification,0
+2021-04-09,Germany,Australia,2,1,Nations League,0
+2021-04-09,Iran,Tunisia,3,0,Copa America,1
+2021-04-09,Algeria,Argentina,1,0,AFC Asian Cup,0
+2021-04-19,Nigeria,Ecuador,0,0,World Cup Qualification,1
+2021-04-19,Croatia,Wales,0,0,Friendly,0
+2021-04-19,USA,Belgium,2,2,Africa Cup of Nations,0
+2021-04-19,Egypt,Uzbekistan,1,1,Copa America,1
+2021-04-19,Tunisia,USA,0,2,Friendly,1
+2021-04-19,Algeria,Canada,1,0,Nations League,1
+2021-04-19,Uruguay,Morocco,0,3,Friendly,0
+2021-04-19,Sweden,Tunisia,0,1,Copa America,0
+2021-04-19,Australia,New Zealand,1,0,Copa America,1
+2021-04-19,Canada,South Korea,0,0,Africa Cup of Nations,0
+2021-04-19,Iraq,Morocco,0,3,Friendly,0
+2021-05-04,England,Morocco,1,0,UEFA Euro,1
+2021-05-04,Brazil,Portugal,0,0,Nations League,0
+2021-05-04,USA,Australia,0,0,AFC Asian Cup,1
+2021-05-04,Canada,Costa Rica,0,1,Friendly,1
+2021-05-04,Uruguay,Germany,2,2,Africa Cup of Nations,0
+2021-05-04,Australia,Panama,3,5,World Cup Qualification,1
+2021-05-04,Egypt,South Africa,2,1,Nations League,0
+2021-05-04,Poland,Senegal,0,1,AFC Asian Cup,1
+2021-05-04,Mexico,Egypt,2,0,Copa America,1
+2021-05-04,Iraq,Germany,0,3,World Cup Qualification,1
+2021-05-04,Canada,Croatia,3,2,World Cup Qualification,0
+2021-05-04,South Korea,Ghana,2,0,Copa America,0
+2021-05-04,Austria,Algeria,1,0,Nations League,0
+2021-05-04,Jamaica,Brazil,0,2,Nations League,0
+2021-05-04,Ecuador,Egypt,1,0,World Cup Qualification,1
+2021-05-04,New Zealand,Switzerland,2,2,UEFA Euro,0
+2021-05-04,Tunisia,Uruguay,0,1,Nations League,0
+2021-05-04,Ghana,USA,0,0,World Cup Qualification,0
+2021-05-04,Chile,Colombia,3,0,Copa America,0
+2021-05-04,Netherlands,Qatar,2,0,UEFA Euro,1
+2021-05-04,Colombia,Japan,0,2,World Cup Qualification,1
+2021-05-04,Ukraine,Chile,2,0,Friendly,1
+2021-05-04,Jamaica,Ecuador,2,3,AFC Asian Cup,0
+2021-05-04,Peru,USA,0,3,AFC Asian Cup,0
+2021-05-04,Sweden,South Korea,3,2,Copa America,0
+2021-05-29,Qatar,Algeria,1,0,UEFA Euro,0
+2021-05-29,Germany,Italy,2,0,AFC Asian Cup,0
+2021-05-29,Germany,Ghana,1,0,AFC Asian Cup,0
+2021-05-29,Turkey,Croatia,0,3,Friendly,0
+2021-05-29,New Zealand,Peru,0,1,Africa Cup of Nations,0
+2021-05-29,Costa Rica,South Africa,0,0,AFC Asian Cup,1
+2021-05-29,England,Panama,2,0,Africa Cup of Nations,0
+2021-05-29,Algeria,Italy,2,3,Friendly,0
+2021-05-29,Morocco,France,0,3,Friendly,0
+2021-05-29,USA,South Africa,1,0,Copa America,1
+2021-05-29,Wales,Ghana,0,0,AFC Asian Cup,0
+2021-05-29,Portugal,Morocco,2,0,World Cup Qualification,1
+2021-05-29,Panama,Netherlands,0,0,UEFA Euro,0
+2021-05-29,Algeria,Senegal,0,0,Nations League,0
+2021-06-16,Colombia,Cameroon,0,2,World Cup Qualification,1
+2021-06-16,Colombia,Argentina,1,3,Africa Cup of Nations,0
+2021-06-16,Poland,Chile,2,4,Copa America,1
+2021-06-16,Morocco,Egypt,1,1,UEFA Euro,1
+2021-06-16,Peru,USA,2,3,Africa Cup of Nations,0
+2021-06-16,Switzerland,Qatar,3,0,Africa Cup of Nations,1
+2021-06-16,Peru,Panama,2,3,Africa Cup of Nations,1
+2021-06-16,Uruguay,Turkey,2,0,UEFA Euro,1
+2021-06-16,South Korea,Uruguay,1,3,AFC Asian Cup,0
+2021-06-16,South Korea,Sweden,3,0,Nations League,0
+2021-07-05,Denmark,New Zealand,1,0,Copa America,0
+2021-07-05,Sweden,Wales,0,0,World Cup Qualification,1
+2021-07-05,Algeria,France,2,2,Africa Cup of Nations,0
+2021-07-05,Portugal,Belgium,0,0,World Cup Qualification,0
+2021-07-05,Netherlands,Argentina,1,5,UEFA Euro,0
+2021-07-05,Brazil,Colombia,3,0,AFC Asian Cup,0
+2021-07-05,Costa Rica,USA,3,2,Nations League,1
+2021-07-05,Wales,Iraq,1,0,World Cup Qualification,0
+2021-07-05,New Zealand,Chile,0,1,Friendly,1
+2021-07-05,Sweden,Croatia,0,3,World Cup Qualification,1
+2021-07-05,Ukraine,Qatar,0,0,AFC Asian Cup,0
+2021-07-05,Saudi Arabia,Japan,1,2,Copa America,1
+2021-07-05,Croatia,Belgium,3,3,World Cup Qualification,0
+2021-07-05,Portugal,Mexico,0,0,World Cup Qualification,0
+2021-07-05,Switzerland,Egypt,0,0,UEFA Euro,0
+2021-07-05,Ecuador,Peru,4,0,Friendly,0
+2021-07-05,Saudi Arabia,Iran,0,0,UEFA Euro,0
+2021-07-05,Panama,Mexico,3,2,Copa America,1
+2021-07-05,Portugal,Iraq,2,2,Africa Cup of Nations,1
+2021-07-05,Egypt,Uzbekistan,2,2,Africa Cup of Nations,1
+2021-07-20,Denmark,South Africa,2,0,Friendly,1
+2021-07-20,Algeria,Mexico,0,0,AFC Asian Cup,0
+2021-07-20,Italy,Portugal,3,1,Nations League,0
+2021-07-20,Saudi Arabia,Ghana,0,1,Africa Cup of Nations,1
+2021-07-20,Morocco,Iran,2,1,UEFA Euro,1
+2021-07-20,Canada,Saudi Arabia,1,0,AFC Asian Cup,1
+2021-07-20,South Africa,Iran,2,2,Friendly,0
+2021-07-20,Colombia,Brazil,1,1,Africa Cup of Nations,0
+2021-07-20,Iraq,England,0,1,AFC Asian Cup,0
+2021-07-20,Cameroon,Turkey,3,0,Nations League,0
+2021-07-20,Austria,Chile,0,2,Nations League,1
+2021-07-20,Ghana,New Zealand,2,0,Africa Cup of Nations,0
+2021-07-20,Cameroon,Costa Rica,3,0,Copa America,1
+2021-07-20,Spain,Australia,0,0,Copa America,1
+2021-07-20,Italy,Brazil,0,2,World Cup Qualification,0
+2021-07-20,Saudi Arabia,Netherlands,0,0,World Cup Qualification,0
+2021-07-20,Costa Rica,Senegal,3,2,Friendly,0
+2021-07-20,Egypt,Germany,0,1,Nations League,0
+2021-07-30,New Zealand,Croatia,0,0,World Cup Qualification,1
+2021-07-30,Iran,Turkey,0,3,Nations League,1
+2021-07-30,Iran,Germany,0,1,AFC Asian Cup,0
+2021-07-30,South Korea,Belgium,1,0,Friendly,1
+2021-07-30,Algeria,Chile,1,1,Nations League,1
+2021-07-30,Austria,Saudi Arabia,2,0,Friendly,0
+2021-07-30,USA,Qatar,0,0,Africa Cup of Nations,1
+2021-07-30,USA,France,4,0,World Cup Qualification,1
+2021-07-30,Uzbekistan,Italy,0,2,UEFA Euro,0
+2021-07-30,Switzerland,Panama,1,0,Africa Cup of Nations,0
+2021-07-30,Austria,Costa Rica,3,3,UEFA Euro,0
+2021-07-30,Belgium,Portugal,0,0,Friendly,1
+2021-07-30,Ghana,Argentina,4,1,UEFA Euro,1
+2021-07-30,Italy,France,2,0,Nations League,1
+2021-07-30,South Korea,USA,0,1,Africa Cup of Nations,0
+2021-07-30,Iraq,South Korea,1,1,UEFA Euro,0
+2021-07-30,Algeria,Belgium,2,0,UEFA Euro,1
+2021-07-30,Switzerland,South Korea,2,0,AFC Asian Cup,1
+2021-07-30,Algeria,Uruguay,2,0,World Cup Qualification,0
+2021-07-30,Ecuador,Italy,2,0,Africa Cup of Nations,0
+2021-07-30,Brazil,USA,0,0,AFC Asian Cup,1
+2021-08-15,Portugal,Saudi Arabia,0,0,Africa Cup of Nations,1
+2021-08-15,South Africa,Peru,1,1,UEFA Euro,0
+2021-08-15,Ukraine,Peru,0,0,Nations League,1
+2021-08-15,Turkey,Saudi Arabia,1,0,World Cup Qualification,1
+2021-08-15,Wales,Cameroon,0,2,UEFA Euro,1
+2021-08-15,Turkey,Denmark,1,0,AFC Asian Cup,1
+2021-08-15,Brazil,Ecuador,2,5,Copa America,0
+2021-08-15,England,Portugal,0,0,Copa America,0
+2021-08-15,Jamaica,South Korea,0,0,AFC Asian Cup,0
+2021-08-15,Denmark,Tunisia,0,1,Nations League,1
+2021-08-15,France,Egypt,2,0,Africa Cup of Nations,0
+2021-08-15,Saudi Arabia,Jamaica,1,1,Africa Cup of Nations,1
+2021-08-15,Poland,South Africa,1,4,Nations League,1
+2021-08-15,Japan,Australia,0,2,AFC Asian Cup,1
+2021-08-15,Iraq,Mexico,0,2,Africa Cup of Nations,0
+2021-08-15,Algeria,Portugal,0,5,Copa America,1
+2021-08-15,Ecuador,Morocco,0,0,Friendly,0
+2021-08-15,Mexico,South Africa,1,0,AFC Asian Cup,0
+2021-08-15,South Africa,Portugal,0,0,Copa America,1
+2021-08-15,England,Belgium,0,2,Nations League,1
+2021-08-15,Australia,Germany,0,0,Nations League,1
+2021-08-29,South Africa,USA,1,0,World Cup Qualification,1
+2021-08-29,Argentina,Uzbekistan,3,0,AFC Asian Cup,0
+2021-08-29,France,South Korea,0,1,Africa Cup of Nations,1
+2021-08-29,Senegal,Austria,0,0,UEFA Euro,0
+2021-08-29,Mexico,Australia,0,0,Friendly,1
+2021-08-29,Germany,Japan,3,0,Africa Cup of Nations,1
+2021-08-29,Ecuador,Sweden,1,0,Friendly,1
+2021-08-29,Panama,Sweden,0,1,AFC Asian Cup,1
+2021-08-29,Poland,Ukraine,1,0,Nations League,0
+2021-08-29,France,Ghana,3,0,Copa America,0
+2021-08-29,Portugal,Uzbekistan,1,1,Copa America,0
+2021-08-29,Ecuador,Netherlands,2,1,Copa America,1
+2021-08-29,Switzerland,Croatia,1,2,Friendly,0
+2021-08-29,Uruguay,Spain,2,2,Friendly,0
+2021-08-29,Australia,Canada,2,1,Nations League,0
+2021-08-29,Sweden,Iran,0,0,Friendly,1
+2021-08-29,Argentina,France,2,0,UEFA Euro,0
+2021-08-29,Egypt,South Korea,0,0,World Cup Qualification,0
+2021-08-29,Panama,Iraq,1,3,World Cup Qualification,1
+2021-08-29,Colombia,Italy,0,0,UEFA Euro,1
+2021-08-29,Algeria,Australia,1,2,Copa America,1
+2021-08-29,Iran,Belgium,0,1,Africa Cup of Nations,1
+2021-09-20,Wales,Saudi Arabia,0,0,Friendly,0
+2021-09-20,Nigeria,Jamaica,3,0,UEFA Euro,1
+2021-09-20,Iran,New Zealand,1,0,UEFA Euro,0
+2021-09-20,Uzbekistan,France,0,1,Copa America,1
+2021-09-20,Germany,Wales,3,2,Nations League,0
+2021-09-20,Morocco,Iran,0,0,World Cup Qualification,1
+2021-09-20,Turkey,Colombia,0,1,Nations League,0
+2021-09-20,Panama,Saudi Arabia,2,0,UEFA Euro,1
+2021-09-20,Peru,Cameroon,2,0,Africa Cup of Nations,1
+2021-09-20,Nigeria,Spain,0,0,Copa America,1
+2021-09-20,Jamaica,Ghana,0,0,AFC Asian Cup,0
+2021-09-20,Austria,Qatar,0,0,Nations League,0
+2021-09-20,Senegal,England,1,4,Copa America,0
+2021-09-20,Morocco,Iran,0,4,World Cup Qualification,0
+2021-10-10,Cameroon,Uzbekistan,0,0,Nations League,1
+2021-10-10,Sweden,Egypt,1,0,Africa Cup of Nations,1
+2021-10-10,Austria,Belgium,2,0,AFC Asian Cup,1
+2021-10-10,Sweden,Colombia,2,0,Nations League,0
+2021-10-10,Iraq,Colombia,4,3,Copa America,1
+2021-10-10,Ukraine,Morocco,1,0,Nations League,0
+2021-10-10,Switzerland,Cameroon,0,0,AFC Asian Cup,0
+2021-10-10,Poland,Ukraine,2,0,AFC Asian Cup,0
+2021-10-10,Wales,Iran,0,0,Africa Cup of Nations,0
+2021-10-10,Italy,Spain,4,0,Copa America,1
+2021-10-10,Uruguay,Austria,3,5,World Cup Qualification,1
+2021-10-10,Australia,Belgium,0,0,UEFA Euro,0
+2021-10-10,Sweden,Senegal,1,3,World Cup Qualification,1
+2021-10-10,Spain,Canada,3,1,AFC Asian Cup,1
+2021-10-28,Ghana,England,2,0,UEFA Euro,0
+2021-10-28,England,Jamaica,1,0,Friendly,1
+2021-10-28,Australia,France,2,1,Copa America,1
+2021-10-28,Tunisia,Ghana,1,0,Nations League,0
+2021-10-28,Ukraine,Brazil,0,0,Friendly,1
+2021-10-28,Australia,Wales,0,1,UEFA Euro,1
+2021-10-28,Denmark,Egypt,1,2,AFC Asian Cup,1
+2021-10-28,Chile,Mexico,2,0,Africa Cup of Nations,0
+2021-10-28,South Korea,Peru,0,0,AFC Asian Cup,1
+2021-10-28,Netherlands,Senegal,0,0,Copa America,1
+2021-10-28,Sweden,Nigeria,0,0,AFC Asian Cup,1
+2021-10-28,Austria,Germany,0,0,Copa America,0
+2021-10-28,Ukraine,Uzbekistan,2,1,World Cup Qualification,0
+2021-10-28,Jamaica,New Zealand,0,1,Copa America,1
+2021-10-28,Croatia,Austria,0,0,Africa Cup of Nations,0
+2021-10-28,Denmark,Croatia,0,0,Nations League,1
+2021-10-28,South Africa,New Zealand,1,0,Friendly,1
+2021-10-28,Uzbekistan,Iraq,0,2,AFC Asian Cup,0
+2021-10-28,Switzerland,Wales,1,2,AFC Asian Cup,1
+2021-10-28,Turkey,Senegal,2,2,Nations League,1
+2021-10-28,Japan,Sweden,0,0,AFC Asian Cup,0
+2021-10-28,Ghana,Tunisia,0,1,Nations League,1
+2021-11-13,Australia,Iran,1,2,Nations League,1
+2021-11-13,Peru,Cameroon,1,1,Friendly,0
+2021-11-13,Sweden,France,0,1,World Cup Qualification,1
+2021-11-13,Tunisia,South Africa,2,0,Nations League,0
+2021-11-13,Costa Rica,Senegal,4,0,Nations League,1
+2021-11-13,USA,Nigeria,0,0,AFC Asian Cup,0
+2021-11-13,Netherlands,England,0,3,Friendly,1
+2021-11-13,Wales,Switzerland,2,2,AFC Asian Cup,1
+2021-11-13,Colombia,Italy,0,1,Copa America,1
+2021-11-13,Senegal,Poland,0,1,Africa Cup of Nations,1
+2021-11-13,Poland,Germany,1,2,Nations League,1
+2021-11-13,South Korea,Senegal,1,0,World Cup Qualification,0
+2021-11-13,Ghana,Algeria,0,0,World Cup Qualification,0
+2021-11-13,Croatia,Cameroon,1,3,World Cup Qualification,0
+2021-11-13,Italy,Australia,0,0,Africa Cup of Nations,1
+2021-11-13,South Korea,Uzbekistan,1,3,UEFA Euro,0
+2021-11-13,Croatia,Italy,2,0,AFC Asian Cup,0
+2021-11-13,Belgium,Germany,3,0,World Cup Qualification,0
+2021-11-13,Argentina,Mexico,0,0,UEFA Euro,1
+2021-11-13,Austria,Netherlands,2,0,Nations League,1
+2021-12-06,Spain,Cameroon,3,0,World Cup Qualification,1
+2021-12-06,Costa Rica,USA,0,1,Friendly,1
+2021-12-06,Portugal,Belgium,0,1,UEFA Euro,0
+2021-12-06,USA,Portugal,1,1,AFC Asian Cup,0
+2021-12-06,USA,Cameroon,1,1,Copa America,0
+2021-12-06,Colombia,Italy,5,2,UEFA Euro,1
+2021-12-06,USA,Portugal,3,1,Nations League,1
+2021-12-06,Costa Rica,Jamaica,2,2,Africa Cup of Nations,1
+2021-12-06,South Korea,South Africa,2,1,World Cup Qualification,0
+2021-12-06,Chile,Nigeria,3,0,Copa America,0
+2021-12-06,Ukraine,Wales,2,0,UEFA Euro,1
+2021-12-06,Austria,Portugal,0,0,Nations League,1
+2021-12-06,Belgium,Senegal,3,0,World Cup Qualification,0
+2021-12-06,Costa Rica,Uzbekistan,3,0,Nations League,0
+2021-12-06,Canada,Poland,1,3,Friendly,0
+2021-12-06,South Africa,Peru,0,1,Africa Cup of Nations,1
+2021-12-29,Croatia,Colombia,0,0,Copa America,0
+2021-12-29,Saudi Arabia,England,0,3,Africa Cup of Nations,0
+2021-12-29,Brazil,Cameroon,2,0,Friendly,1
+2021-12-29,Qatar,Ghana,2,3,Nations League,1
+2021-12-29,Morocco,Germany,1,0,Nations League,0
+2021-12-29,Belgium,Qatar,2,0,Friendly,1
+2021-12-29,Iran,Qatar,0,0,Friendly,0
+2021-12-29,Portugal,Panama,3,0,Friendly,0
+2021-12-29,England,Senegal,2,3,Nations League,1
+2021-12-29,Denmark,South Africa,2,0,World Cup Qualification,1
+2021-12-29,Italy,Brazil,1,3,Africa Cup of Nations,0
+2021-12-29,Chile,Iraq,3,0,Africa Cup of Nations,1
+2021-12-29,Saudi Arabia,Switzerland,1,0,Nations League,1
+2021-12-29,Brazil,Chile,1,1,Copa America,0
+2021-12-29,Brazil,Australia,2,0,Copa America,1
+2022-01-12,Iran,France,0,0,AFC Asian Cup,1
+2022-01-12,Jamaica,Wales,2,1,World Cup Qualification,1
+2022-01-12,Jamaica,Colombia,0,0,Friendly,0
+2022-01-12,Algeria,Netherlands,3,1,UEFA Euro,1
+2022-01-12,Ukraine,Turkey,2,2,Copa America,0
+2022-01-12,Morocco,Uruguay,1,0,Nations League,0
+2022-01-12,Colombia,Argentina,2,4,UEFA Euro,1
+2022-01-12,Senegal,Belgium,2,0,World Cup Qualification,0
+2022-01-12,Sweden,Switzerland,3,0,World Cup Qualification,0
+2022-01-12,Egypt,Spain,0,0,Nations League,0
+2022-01-12,Netherlands,Germany,0,0,Friendly,0
+2022-01-12,Jamaica,Germany,0,3,Copa America,0
+2022-01-12,Qatar,Ukraine,1,3,AFC Asian Cup,1
+2022-01-12,Austria,Australia,2,0,Nations League,0
+2022-01-12,Turkey,Portugal,0,0,Friendly,1
+2022-01-12,Cameroon,Saudi Arabia,0,2,AFC Asian Cup,0
+2022-01-12,Italy,Costa Rica,0,4,World Cup Qualification,1
+2022-01-12,Croatia,Senegal,0,0,UEFA Euro,0
+2022-01-12,Saudi Arabia,Wales,2,0,Friendly,0
+2022-01-12,Peru,England,0,0,World Cup Qualification,1
+2022-02-06,USA,Cameroon,1,2,Friendly,0
+2022-02-06,France,Iraq,1,0,UEFA Euro,1
+2022-02-06,Croatia,France,0,1,Africa Cup of Nations,0
+2022-02-06,Denmark,Ecuador,2,2,UEFA Euro,1
+2022-02-06,Ecuador,Spain,1,2,Nations League,1
+2022-02-06,Algeria,Egypt,0,0,Africa Cup of Nations,0
+2022-02-06,Italy,New Zealand,2,0,Africa Cup of Nations,1
+2022-02-06,Australia,Chile,0,0,World Cup Qualification,1
+2022-02-06,Iran,Morocco,0,2,Africa Cup of Nations,0
+2022-02-06,Costa Rica,Australia,1,0,AFC Asian Cup,1
+2022-02-06,Iraq,South Africa,2,0,World Cup Qualification,0
+2022-02-06,Ghana,Egypt,0,1,UEFA Euro,1
+2022-02-06,South Africa,Wales,0,4,Friendly,1
+2022-02-06,Iraq,Portugal,0,0,Friendly,1
+2022-02-06,Denmark,Argentina,2,0,Copa America,0
+2022-02-06,Uruguay,Mexico,0,0,UEFA Euro,0
+2022-02-06,Netherlands,Germany,0,1,Copa America,1
+2022-02-06,Mexico,Canada,0,0,Copa America,1
+2022-02-06,Turkey,Brazil,1,2,World Cup Qualification,0
+2022-02-06,Iraq,Chile,3,3,UEFA Euro,1
+2022-02-06,Germany,France,2,2,UEFA Euro,0
+2022-02-06,Portugal,Argentina,1,2,Africa Cup of Nations,0
+2022-02-06,Brazil,Algeria,3,4,World Cup Qualification,0
+2022-02-23,Croatia,Costa Rica,1,2,UEFA Euro,0
+2022-02-23,Jamaica,Spain,2,0,AFC Asian Cup,0
+2022-02-23,Belgium,France,2,1,World Cup Qualification,1
+2022-02-23,Spain,England,3,2,Nations League,1
+2022-02-23,Canada,Cameroon,0,0,Copa America,1
+2022-02-23,Egypt,Canada,0,0,Copa America,0
+2022-02-23,France,Panama,0,0,UEFA Euro,1
+2022-02-23,Sweden,Germany,0,1,AFC Asian Cup,1
+2022-02-23,Netherlands,Egypt,0,0,Copa America,1
+2022-02-23,Jamaica,Mexico,0,0,Nations League,1
+2022-02-23,Ghana,Australia,1,5,UEFA Euro,0
+2022-02-23,Wales,Uruguay,2,2,Nations League,1
+2022-02-23,South Africa,Chile,3,1,Friendly,1
+2022-02-23,Colombia,Japan,0,0,UEFA Euro,1
+2022-02-23,Brazil,Morocco,2,0,Africa Cup of Nations,0
+2022-02-23,Japan,USA,2,5,Copa America,1
+2022-02-23,USA,Panama,1,0,UEFA Euro,1
+2022-02-23,Switzerland,Panama,3,2,Nations League,0
+2022-02-23,Ukraine,Qatar,0,3,Copa America,1
+2022-03-18,Sweden,Argentina,0,3,Nations League,0
+2022-03-18,Portugal,Ecuador,2,0,Copa America,1
+2022-03-18,Netherlands,Canada,0,0,UEFA Euro,0
+2022-03-18,USA,Wales,0,0,Copa America,1
+2022-03-18,Ecuador,Iraq,2,0,UEFA Euro,1
+2022-03-18,New Zealand,Japan,0,0,UEFA Euro,0
+2022-03-18,Sweden,USA,2,0,AFC Asian Cup,1
+2022-03-18,Senegal,Iraq,4,0,Nations League,1
+2022-03-18,Sweden,France,0,3,Friendly,1
+2022-03-18,Cameroon,USA,2,2,AFC Asian Cup,0
+2022-03-18,Uruguay,Sweden,0,0,Friendly,0
+2022-03-18,Colombia,Turkey,3,1,Copa America,1
+2022-03-18,Wales,Panama,2,0,AFC Asian Cup,0
+2022-03-18,Chile,England,2,2,Nations League,0
+2022-03-30,USA,Belgium,0,2,UEFA Euro,1
+2022-03-30,Qatar,USA,1,0,AFC Asian Cup,1
+2022-03-30,Brazil,Germany,1,0,Nations League,1
+2022-03-30,Canada,Tunisia,0,0,World Cup Qualification,1
+2022-03-30,Netherlands,Cameroon,0,1,World Cup Qualification,1
+2022-03-30,Belgium,Peru,0,0,Friendly,0
+2022-03-30,Belgium,Poland,0,0,UEFA Euro,1
+2022-03-30,Sweden,Chile,0,1,World Cup Qualification,1
+2022-03-30,South Korea,Costa Rica,3,0,Friendly,1
+2022-03-30,Italy,Canada,0,0,Nations League,0
+2022-03-30,Italy,Peru,3,1,Nations League,1
+2022-04-12,France,Austria,2,0,Friendly,0
+2022-04-12,Denmark,Portugal,2,2,Copa America,1
+2022-04-12,Austria,Egypt,1,2,UEFA Euro,1
+2022-04-12,Chile,Ghana,0,0,UEFA Euro,0
+2022-04-12,England,Brazil,2,2,AFC Asian Cup,0
+2022-04-12,Portugal,Iran,0,0,AFC Asian Cup,0
+2022-04-12,Denmark,Turkey,0,1,World Cup Qualification,1
+2022-04-12,Canada,Iran,0,0,UEFA Euro,0
+2022-04-12,Denmark,Colombia,0,1,Friendly,0
+2022-04-12,Netherlands,Austria,0,3,Africa Cup of Nations,1
+2022-04-12,Egypt,Brazil,0,3,Nations League,0
+2022-04-12,Senegal,Qatar,2,1,Africa Cup of Nations,0
+2022-04-12,Ghana,Senegal,0,0,AFC Asian Cup,1
+2022-04-12,Brazil,Portugal,1,0,Nations League,0
+2022-04-12,Morocco,Senegal,1,0,Friendly,0
+2022-04-12,Croatia,Poland,3,0,UEFA Euro,0
+2022-05-01,Netherlands,Peru,2,0,AFC Asian Cup,0
+2022-05-01,Qatar,Saudi Arabia,0,4,Nations League,0
+2022-05-01,Colombia,Iraq,0,0,UEFA Euro,0
+2022-05-01,Nigeria,Switzerland,3,3,Africa Cup of Nations,0
+2022-05-01,Germany,Belgium,3,0,AFC Asian Cup,1
+2022-05-01,Canada,South Africa,2,0,Africa Cup of Nations,0
+2022-05-01,USA,Australia,0,0,AFC Asian Cup,0
+2022-05-01,Nigeria,Japan,0,2,Nations League,1
+2022-05-01,New Zealand,Austria,0,0,Friendly,1
+2022-05-01,South Africa,Panama,0,1,Friendly,1
+2022-05-01,Tunisia,Egypt,0,2,Africa Cup of Nations,1
+2022-05-01,Nigeria,South Africa,2,4,Africa Cup of Nations,1
+2022-05-01,Portugal,Italy,3,1,Copa America,1
+2022-05-01,Ghana,Jamaica,1,1,Nations League,1
+2022-05-01,Brazil,Argentina,2,0,World Cup Qualification,1
+2022-05-01,Poland,Netherlands,2,1,Africa Cup of Nations,0
+2022-05-01,Canada,Peru,1,2,AFC Asian Cup,0
+2022-05-01,Wales,Switzerland,0,0,Copa America,0
+2022-05-01,Saudi Arabia,Cameroon,2,0,AFC Asian Cup,1
+2022-05-01,Netherlands,Poland,1,0,Nations League,1
+2022-05-01,Egypt,Uzbekistan,3,4,Friendly,1
+2022-05-01,Ghana,Belgium,0,3,Nations League,0
+2022-05-01,Switzerland,France,2,0,Copa America,0
+2022-05-01,New Zealand,Turkey,4,3,World Cup Qualification,1
+2022-05-13,Wales,Austria,3,1,World Cup Qualification,0
+2022-05-13,Turkey,South Africa,1,0,Nations League,1
+2022-05-13,Denmark,Nigeria,1,1,Copa America,1
+2022-05-13,Panama,Wales,2,0,Africa Cup of Nations,0
+2022-05-13,Ukraine,Algeria,0,1,UEFA Euro,0
+2022-05-13,Uzbekistan,Tunisia,0,0,Copa America,1
+2022-05-13,Cameroon,Spain,0,0,AFC Asian Cup,0
+2022-05-13,Portugal,Uzbekistan,3,2,World Cup Qualification,1
+2022-05-13,Costa Rica,Senegal,2,1,World Cup Qualification,1
+2022-05-13,Algeria,South Africa,2,3,Copa America,1
+2022-05-13,Chile,Uruguay,0,2,Friendly,0
+2022-05-13,Costa Rica,New Zealand,3,1,World Cup Qualification,1
+2022-05-13,Panama,USA,0,0,UEFA Euro,0
+2022-05-13,Egypt,Croatia,0,1,UEFA Euro,1
+2022-05-13,Argentina,Sweden,2,0,UEFA Euro,1
+2022-05-24,Cameroon,Ecuador,0,1,World Cup Qualification,1
+2022-05-24,Saudi Arabia,Italy,0,1,UEFA Euro,1
+2022-05-24,Costa Rica,Algeria,0,5,Copa America,0
+2022-05-24,Uruguay,South Korea,3,0,Africa Cup of Nations,0
+2022-05-24,Senegal,Uruguay,0,0,Friendly,0
+2022-05-24,Denmark,Morocco,1,2,Copa America,0
+2022-05-24,Austria,Ecuador,0,0,Copa America,0
+2022-05-24,Australia,Wales,0,0,Copa America,0
+2022-05-24,Germany,Cameroon,1,0,Friendly,0
+2022-05-24,Japan,Italy,2,3,World Cup Qualification,1
+2022-05-24,New Zealand,Canada,1,0,AFC Asian Cup,1
+2022-05-24,Australia,Colombia,0,1,UEFA Euro,1
+2022-05-24,Ghana,Portugal,1,0,World Cup Qualification,0
+2022-05-24,Spain,Egypt,0,1,UEFA Euro,0
+2022-05-24,Iraq,Wales,0,4,Copa America,0
+2022-05-24,Senegal,Australia,2,0,AFC Asian Cup,1
+2022-05-24,Portugal,Jamaica,0,3,Friendly,1
+2022-05-24,Algeria,Portugal,3,4,Nations League,0
+2022-05-24,Japan,Netherlands,0,1,Africa Cup of Nations,1
+2022-05-24,Australia,Portugal,0,2,Africa Cup of Nations,0
+2022-05-24,Panama,Wales,0,0,Africa Cup of Nations,1
+2022-05-24,Croatia,Ghana,0,0,Nations League,1
+2022-05-24,Colombia,Belgium,2,1,Friendly,1
+2022-05-24,Chile,Colombia,3,0,Nations League,0
+2022-06-06,Ghana,Switzerland,0,2,UEFA Euro,1
+2022-06-06,Canada,Panama,1,0,Copa America,1
+2022-06-06,Japan,Poland,0,0,World Cup Qualification,1
+2022-06-06,Switzerland,Germany,2,0,Nations League,0
+2022-06-06,Germany,Morocco,2,3,Friendly,1
+2022-06-06,Wales,Canada,3,0,Nations League,0
+2022-06-06,Algeria,Japan,0,0,UEFA Euro,1
+2022-06-06,Belgium,South Korea,1,0,Copa America,0
+2022-06-06,Saudi Arabia,Germany,3,0,Friendly,0
+2022-06-06,France,Nigeria,1,0,Nations League,0
+2022-06-06,Wales,Belgium,0,2,Copa America,1
+2022-06-06,Argentina,Costa Rica,1,4,Friendly,1
+2022-06-06,Belgium,Canada,2,3,Copa America,0
+2022-06-06,Denmark,New Zealand,3,0,Africa Cup of Nations,0
+2022-06-06,Switzerland,Austria,0,2,AFC Asian Cup,1
+2022-06-06,Japan,South Africa,1,3,Nations League,0
+2022-06-06,Japan,Spain,0,2,UEFA Euro,1
+2022-06-20,Denmark,Italy,0,2,UEFA Euro,0
+2022-06-20,Qatar,Canada,2,1,World Cup Qualification,0
+2022-06-20,England,Netherlands,3,0,Copa America,0
+2022-06-20,Sweden,Ghana,0,0,Nations League,0
+2022-06-20,Spain,Chile,0,0,Africa Cup of Nations,1
+2022-06-20,Poland,Ghana,0,0,Africa Cup of Nations,0
+2022-06-20,Uruguay,Qatar,3,0,Friendly,1
+2022-06-20,Spain,Wales,3,2,Friendly,1
+2022-06-20,USA,Uruguay,3,4,World Cup Qualification,0
+2022-06-20,Peru,Argentina,1,1,UEFA Euro,1
+2022-06-20,Croatia,Senegal,1,3,World Cup Qualification,0
+2022-06-20,Brazil,Nigeria,3,0,Nations League,0
+2022-06-20,Nigeria,Chile,0,2,AFC Asian Cup,0
+2022-06-20,South Africa,Colombia,3,2,Nations League,0
+2022-07-07,France,South Korea,0,3,Friendly,1
+2022-07-07,Uzbekistan,Colombia,0,0,Friendly,1
+2022-07-07,Chile,Panama,1,0,Nations League,1
+2022-07-07,Switzerland,Turkey,2,0,World Cup Qualification,1
+2022-07-07,Algeria,Brazil,1,0,Africa Cup of Nations,1
+2022-07-07,Uruguay,Spain,0,0,Friendly,0
+2022-07-07,Cameroon,Canada,2,0,Friendly,1
+2022-07-07,Ukraine,USA,0,0,AFC Asian Cup,1
+2022-07-07,Turkey,Iran,0,4,Friendly,0
+2022-07-07,USA,Colombia,1,2,Africa Cup of Nations,0
+2022-07-07,South Korea,Uruguay,1,2,Africa Cup of Nations,1
+2022-07-07,Japan,Austria,2,0,AFC Asian Cup,0
+2022-07-07,Qatar,Argentina,0,0,Friendly,1
+2022-07-07,Sweden,Poland,3,0,World Cup Qualification,0
+2022-07-07,South Korea,Australia,1,0,AFC Asian Cup,1
+2022-07-07,Jamaica,Algeria,1,1,Nations League,0
+2022-07-07,Egypt,Morocco,0,0,UEFA Euro,1
+2022-07-07,Denmark,Qatar,0,0,Friendly,1
+2022-07-07,Uruguay,Spain,1,0,Friendly,0
+2022-07-07,Portugal,Germany,1,3,UEFA Euro,1
+2022-07-07,Peru,Mexico,0,2,AFC Asian Cup,1
+2022-07-07,Saudi Arabia,Spain,0,0,Africa Cup of Nations,0
+2022-07-26,Panama,Ghana,0,0,AFC Asian Cup,0
+2022-07-26,New Zealand,Peru,2,2,Nations League,1
+2022-07-26,Netherlands,Saudi Arabia,3,0,AFC Asian Cup,1
+2022-07-26,Belgium,Brazil,3,0,Africa Cup of Nations,0
+2022-07-26,Qatar,Argentina,0,0,Friendly,1
+2022-07-26,Senegal,Morocco,0,1,Africa Cup of Nations,0
+2022-07-26,Switzerland,England,0,2,World Cup Qualification,0
+2022-07-26,Germany,Ecuador,0,0,World Cup Qualification,1
+2022-07-26,Jamaica,South Korea,0,0,World Cup Qualification,0
+2022-07-26,Ghana,Saudi Arabia,0,0,Nations League,1
+2022-07-26,England,Cameroon,2,0,Copa America,1
+2022-07-26,Iraq,Uruguay,3,1,AFC Asian Cup,1
+2022-07-26,Tunisia,Saudi Arabia,2,2,UEFA Euro,1
+2022-07-26,Croatia,Poland,0,3,Africa Cup of Nations,1
+2022-07-26,Ghana,Croatia,0,2,Copa America,1
+2022-07-26,Turkey,Morocco,1,0,Africa Cup of Nations,1
+2022-07-26,Mexico,Turkey,1,0,World Cup Qualification,1
+2022-07-26,Uruguay,Portugal,0,3,Friendly,1
+2022-07-26,Panama,Uruguay,0,0,World Cup Qualification,1
+2022-07-26,Colombia,Algeria,3,2,Copa America,1
+2022-07-26,Belgium,Saudi Arabia,2,0,Copa America,0
+2022-08-05,France,Denmark,0,0,World Cup Qualification,1
+2022-08-05,Chile,Brazil,2,1,Nations League,1
+2022-08-05,France,Japan,3,0,Nations League,0
+2022-08-05,Saudi Arabia,Colombia,4,0,AFC Asian Cup,0
+2022-08-05,Senegal,Poland,0,0,World Cup Qualification,0
+2022-08-05,Uruguay,New Zealand,2,0,Africa Cup of Nations,1
+2022-08-05,Switzerland,Italy,1,3,AFC Asian Cup,0
+2022-08-05,Saudi Arabia,Turkey,0,0,Africa Cup of Nations,1
+2022-08-05,Poland,Argentina,3,0,World Cup Qualification,1
+2022-08-05,Tunisia,Mexico,2,0,World Cup Qualification,0
+2022-08-05,Croatia,Ghana,0,5,Africa Cup of Nations,1
+2022-08-05,USA,Belgium,0,3,World Cup Qualification,1
+2022-08-05,Morocco,Costa Rica,1,0,AFC Asian Cup,1
+2022-08-05,USA,Poland,1,1,Africa Cup of Nations,1
+2022-08-05,Ghana,Canada,0,1,Africa Cup of Nations,0
+2022-08-05,Cameroon,Germany,3,2,AFC Asian Cup,0
+2022-08-05,Uruguay,USA,2,0,Friendly,1
+2022-08-05,Uruguay,Uzbekistan,4,0,Copa America,1
+2022-08-05,Peru,Denmark,0,0,Nations League,0
+2022-08-28,Ukraine,Iraq,1,4,UEFA Euro,1
+2022-08-28,Nigeria,Australia,0,1,Copa America,0
+2022-08-28,Nigeria,Australia,3,0,Nations League,0
+2022-08-28,Saudi Arabia,Panama,0,0,Copa America,0
+2022-08-28,South Korea,Morocco,3,2,World Cup Qualification,0
+2022-08-28,South Africa,Netherlands,0,1,Nations League,0
+2022-08-28,Uzbekistan,USA,0,0,Friendly,0
+2022-08-28,Germany,Uzbekistan,1,1,Nations League,1
+2022-08-28,Egypt,Portugal,3,1,UEFA Euro,0
+2022-08-28,Netherlands,Switzerland,2,5,Friendly,0
+2022-08-28,Peru,Turkey,0,0,Africa Cup of Nations,0
+2022-08-28,Spain,Denmark,3,2,World Cup Qualification,0
+2022-08-28,Canada,South Korea,2,0,UEFA Euro,1
+2022-08-28,Argentina,Saudi Arabia,1,0,Nations League,0
+2022-08-28,New Zealand,Brazil,2,2,AFC Asian Cup,1
+2022-08-28,Japan,Panama,1,4,Nations League,1
+2022-09-11,Netherlands,Argentina,3,2,World Cup Qualification,1
+2022-09-11,Uruguay,Australia,1,0,Africa Cup of Nations,1
+2022-09-11,Poland,Argentina,0,3,Friendly,0
+2022-09-11,Tunisia,USA,0,3,Friendly,1
+2022-09-11,Spain,Austria,2,0,Nations League,0
+2022-09-11,Cameroon,Jamaica,1,2,AFC Asian Cup,0
+2022-09-11,Morocco,Nigeria,2,0,Nations League,0
+2022-09-11,Australia,Denmark,2,3,Copa America,0
+2022-09-11,England,New Zealand,3,0,Copa America,1
+2022-09-11,Morocco,Japan,2,0,Africa Cup of Nations,0
+2022-09-11,Mexico,Ghana,1,0,Copa America,0
+2022-09-11,Tunisia,Poland,0,1,Copa America,0
+2022-09-11,Portugal,Uzbekistan,3,0,Copa America,0
+2022-09-11,Chile,Uruguay,0,2,AFC Asian Cup,1
+2022-09-11,Panama,Senegal,4,4,Nations League,1
+2022-09-24,South Korea,Switzerland,2,0,UEFA Euro,0
+2022-09-24,Colombia,Austria,2,0,Friendly,0
+2022-09-24,Iraq,Belgium,1,0,AFC Asian Cup,0
+2022-09-24,Belgium,Uruguay,0,3,Copa America,1
+2022-09-24,Belgium,Austria,1,0,Friendly,0
+2022-09-24,Peru,USA,3,2,AFC Asian Cup,0
+2022-09-24,Switzerland,Iran,2,3,Nations League,0
+2022-09-24,Panama,Egypt,0,0,Africa Cup of Nations,0
+2022-09-24,USA,Italy,3,3,AFC Asian Cup,0
+2022-09-24,Peru,Chile,0,3,Nations League,0
+2022-09-24,Germany,Ecuador,2,0,Nations League,0
+2022-09-24,France,Sweden,0,0,Copa America,0
+2022-09-24,England,Cameroon,2,0,UEFA Euro,0
+2022-09-24,Ghana,Belgium,0,0,Nations League,0
+2022-09-24,Uruguay,Croatia,1,0,World Cup Qualification,1
+2022-10-04,Switzerland,Germany,0,0,UEFA Euro,0
+2022-10-04,Panama,Nigeria,1,3,World Cup Qualification,1
+2022-10-04,Qatar,Colombia,0,0,Africa Cup of Nations,0
+2022-10-04,Nigeria,Australia,0,2,Friendly,1
+2022-10-04,Austria,Japan,0,0,UEFA Euro,0
+2022-10-04,Jamaica,Netherlands,1,1,AFC Asian Cup,0
+2022-10-04,Panama,Cameroon,0,0,World Cup Qualification,1
+2022-10-04,Iraq,Japan,0,1,UEFA Euro,1
+2022-10-04,Germany,Algeria,2,0,AFC Asian Cup,0
+2022-10-04,Brazil,Wales,0,2,Copa America,1
+2022-10-04,Netherlands,Ecuador,3,0,Copa America,0
+2022-10-04,Poland,South Korea,0,0,World Cup Qualification,1
+2022-10-04,Saudi Arabia,Senegal,0,0,World Cup Qualification,1
+2022-10-04,Saudi Arabia,Chile,0,1,Friendly,1
+2022-10-04,Japan,Ukraine,2,2,Africa Cup of Nations,1
+2022-10-04,Senegal,Germany,1,0,Nations League,1
+2022-10-04,Australia,Iraq,2,2,Copa America,0
+2022-10-04,Uruguay,England,3,0,World Cup Qualification,1
+2022-10-04,South Africa,Sweden,0,0,Nations League,1
+2022-10-04,Austria,South Africa,0,0,AFC Asian Cup,1
+2022-10-04,Netherlands,Switzerland,2,0,Copa America,1
+2022-10-04,Switzerland,Uzbekistan,0,1,Africa Cup of Nations,0
+2022-10-04,Australia,Ecuador,3,0,Friendly,0
+2022-10-04,Canada,Sweden,2,0,Copa America,0
+2022-10-19,England,Italy,3,0,Copa America,1
+2022-10-19,Wales,USA,1,3,Africa Cup of Nations,1
+2022-10-19,Ukraine,Argentina,4,2,Friendly,1
+2022-10-19,Netherlands,Australia,0,0,AFC Asian Cup,0
+2022-10-19,Ecuador,Turkey,1,1,Copa America,1
+2022-10-19,South Korea,Switzerland,1,2,UEFA Euro,0
+2022-10-19,Italy,Uruguay,2,2,Copa America,1
+2022-10-19,Turkey,Saudi Arabia,2,0,Friendly,0
+2022-10-19,USA,Chile,0,0,AFC Asian Cup,0
+2022-10-19,Mexico,Ecuador,0,3,UEFA Euro,0
+2022-10-19,Australia,Ghana,2,5,Africa Cup of Nations,1
+2022-10-19,Panama,Qatar,0,0,AFC Asian Cup,1
+2022-10-19,Panama,Austria,2,0,Friendly,0
+2022-10-19,Peru,Uzbekistan,0,0,Friendly,1
+2022-10-19,Iraq,Algeria,0,3,UEFA Euro,1
+2022-10-19,Mexico,Costa Rica,1,0,UEFA Euro,1
+2022-11-01,Colombia,Croatia,3,0,Friendly,0
+2022-11-01,Sweden,Cameroon,0,0,UEFA Euro,0
+2022-11-01,Morocco,Argentina,0,0,AFC Asian Cup,1
+2022-11-01,Belgium,Portugal,0,0,Friendly,0
+2022-11-01,Canada,Saudi Arabia,0,1,Copa America,0
+2022-11-01,Turkey,Portugal,3,1,Friendly,0
+2022-11-01,Nigeria,Costa Rica,1,1,Friendly,1
+2022-11-01,Ukraine,Brazil,4,2,Nations League,0
+2022-11-01,Algeria,Canada,0,1,Friendly,1
+2022-11-01,Nigeria,Tunisia,0,0,UEFA Euro,0
+2022-11-01,USA,Netherlands,2,1,Copa America,1
+2022-11-01,Tunisia,Japan,1,1,Copa America,0
+2022-11-01,Panama,New Zealand,0,0,UEFA Euro,1
+2022-11-01,Denmark,England,2,0,Copa America,0
+2022-11-01,Switzerland,Canada,1,0,AFC Asian Cup,0
+2022-11-01,Saudi Arabia,New Zealand,2,0,UEFA Euro,0
+2022-11-01,Egypt,Denmark,1,1,Friendly,1
+2022-11-01,Uzbekistan,Uruguay,2,1,UEFA Euro,0
+2022-11-01,Costa Rica,Egypt,0,0,Nations League,0
+2022-11-01,Peru,Croatia,2,1,Africa Cup of Nations,0
+2022-11-01,Costa Rica,Ecuador,1,0,UEFA Euro,1
+2022-11-01,Senegal,Switzerland,3,0,Friendly,0
+2022-11-01,Brazil,France,1,1,UEFA Euro,1
+2022-11-18,Poland,Morocco,2,1,UEFA Euro,1
+2022-11-18,Turkey,Morocco,0,1,Nations League,0
+2022-11-18,Denmark,Wales,1,1,World Cup Qualification,1
+2022-11-18,Switzerland,Spain,2,1,Copa America,0
+2022-11-18,Egypt,Switzerland,0,1,Nations League,1
+2022-11-18,Egypt,Poland,2,3,Copa America,1
+2022-11-18,Italy,Algeria,0,1,Copa America,0
+2022-11-18,Iraq,Belgium,1,0,Copa America,1
+2022-11-18,Ghana,Morocco,0,0,Friendly,0
+2022-11-18,Costa Rica,New Zealand,0,0,Nations League,1
+2022-11-18,USA,Sweden,2,0,UEFA Euro,0
+2022-11-18,Saudi Arabia,Uruguay,3,3,Nations League,0
+2022-11-18,Jamaica,Peru,2,1,AFC Asian Cup,0
+2022-11-18,Cameroon,Iraq,0,2,AFC Asian Cup,1
+2022-11-18,Cameroon,Colombia,4,0,Friendly,0
+2022-11-18,Austria,Panama,0,0,UEFA Euro,1
+2022-11-18,Canada,Poland,3,0,UEFA Euro,1
+2022-11-18,Denmark,Japan,1,0,Copa America,0
+2022-11-18,England,Canada,5,0,UEFA Euro,0
+2022-12-09,Ghana,New Zealand,1,3,AFC Asian Cup,0
+2022-12-09,Morocco,Germany,0,1,Friendly,1
+2022-12-09,Qatar,Ghana,1,2,Africa Cup of Nations,1
+2022-12-09,Jamaica,England,0,1,Africa Cup of Nations,0
+2022-12-09,Ecuador,Denmark,0,0,Nations League,0
+2022-12-09,South Korea,Panama,2,0,UEFA Euro,0
+2022-12-09,Wales,Iran,0,0,Friendly,1
+2022-12-09,Sweden,Canada,2,0,Africa Cup of Nations,0
+2022-12-09,Costa Rica,Chile,0,1,Friendly,1
+2022-12-09,Qatar,Morocco,3,0,Africa Cup of Nations,0
+2022-12-09,Algeria,Argentina,2,2,Nations League,0
+2022-12-09,Argentina,Denmark,1,0,UEFA Euro,1
+2022-12-09,Netherlands,Japan,2,0,Africa Cup of Nations,0
+2022-12-09,Costa Rica,Spain,0,1,UEFA Euro,1
+2022-12-09,Ukraine,Argentina,0,1,Africa Cup of Nations,0
+2022-12-09,Portugal,USA,2,3,Copa America,1
+2022-12-09,Brazil,Turkey,2,0,Nations League,1
+2022-12-09,Peru,Croatia,5,4,Copa America,1
+2022-12-09,Egypt,Colombia,4,0,Nations League,0
+2022-12-09,Cameroon,New Zealand,0,0,UEFA Euro,0
+2022-12-09,Panama,Spain,1,0,Copa America,0
+2022-12-09,Poland,Sweden,0,1,UEFA Euro,1
+2022-12-09,Turkey,France,0,1,UEFA Euro,0
+2022-12-09,Peru,Portugal,0,2,UEFA Euro,0
+2022-12-09,Austria,Wales,3,3,Africa Cup of Nations,0
+2022-12-25,Peru,Ecuador,2,0,UEFA Euro,0
+2022-12-25,Nigeria,Cameroon,0,0,Copa America,0
+2022-12-25,South Korea,Canada,0,0,Friendly,0
+2022-12-25,Colombia,Morocco,1,5,Africa Cup of Nations,0
+2022-12-25,Netherlands,Egypt,4,0,World Cup Qualification,1
+2022-12-25,Turkey,South Africa,1,0,Friendly,1
+2022-12-25,Morocco,Colombia,1,0,AFC Asian Cup,0
+2022-12-25,Egypt,New Zealand,3,0,Africa Cup of Nations,0
+2022-12-25,USA,Iran,0,2,Nations League,1
+2022-12-25,Canada,Iraq,2,0,Friendly,0
+2022-12-25,Peru,Nigeria,0,0,Nations League,0
+2022-12-25,Iran,Chile,0,3,Copa America,1
+2022-12-25,Germany,Poland,1,2,World Cup Qualification,1
+2022-12-25,Chile,Ecuador,3,2,Africa Cup of Nations,0
+2022-12-25,Senegal,Colombia,0,2,AFC Asian Cup,1
+2022-12-25,Panama,Switzerland,0,0,UEFA Euro,0
+2022-12-25,Senegal,Ukraine,0,0,Nations League,0
+2022-12-25,Portugal,Saudi Arabia,0,0,UEFA Euro,1
+2022-12-25,Austria,Saudi Arabia,0,0,Nations League,1
+2022-12-25,Colombia,Ecuador,1,0,Africa Cup of Nations,0
+2022-12-25,Poland,Chile,0,3,Copa America,0
+2023-01-14,Mexico,Qatar,1,0,Copa America,0
+2023-01-14,Australia,USA,1,2,World Cup Qualification,1
+2023-01-14,Saudi Arabia,Ecuador,3,0,Africa Cup of Nations,0
+2023-01-14,Qatar,Italy,0,3,Copa America,0
+2023-01-14,Ecuador,Costa Rica,3,1,UEFA Euro,1
+2023-01-14,Turkey,USA,0,0,Friendly,1
+2023-01-14,Colombia,Sweden,0,1,UEFA Euro,1
+2023-01-14,Jamaica,Austria,3,2,World Cup Qualification,0
+2023-01-14,Nigeria,Ghana,2,0,Friendly,0
+2023-01-14,Germany,Tunisia,0,0,Nations League,1
+2023-01-14,Australia,Iran,0,1,UEFA Euro,1
+2023-01-14,Sweden,South Korea,3,2,Friendly,0
+2023-01-14,Portugal,England,0,3,World Cup Qualification,1
+2023-01-14,Tunisia,Australia,0,0,UEFA Euro,1
+2023-01-14,Switzerland,Italy,2,3,Africa Cup of Nations,0
+2023-01-14,USA,Saudi Arabia,1,0,AFC Asian Cup,1
+2023-01-14,Colombia,South Africa,0,0,Friendly,1
+2023-01-25,Panama,South Korea,0,3,AFC Asian Cup,1
+2023-01-25,Canada,Cameroon,0,4,Friendly,1
+2023-01-25,Italy,Morocco,2,0,Nations League,0
+2023-01-25,Denmark,Ukraine,2,0,Copa America,0
+2023-01-25,Tunisia,Ukraine,0,0,Nations League,1
+2023-01-25,Croatia,Poland,1,2,Nations League,0
+2023-01-25,Netherlands,Turkey,0,0,AFC Asian Cup,1
+2023-01-25,Turkey,Canada,0,0,Nations League,1
+2023-01-25,Switzerland,Austria,1,4,AFC Asian Cup,0
+2023-01-25,Qatar,Ghana,0,4,World Cup Qualification,0
+2023-02-08,Poland,Chile,1,2,AFC Asian Cup,0
+2023-02-08,Croatia,Ukraine,0,0,Africa Cup of Nations,1
+2023-02-08,South Africa,Iran,0,3,Friendly,0
+2023-02-08,Ecuador,Japan,1,1,Friendly,1
+2023-02-08,England,Tunisia,1,0,World Cup Qualification,0
+2023-02-08,Uruguay,Switzerland,1,0,UEFA Euro,0
+2023-02-08,Peru,Ukraine,3,2,Copa America,1
+2023-02-08,Ghana,France,0,0,AFC Asian Cup,0
+2023-02-08,Sweden,Mexico,3,0,Africa Cup of Nations,1
+2023-02-08,Saudi Arabia,Colombia,0,0,AFC Asian Cup,1
+2023-02-08,Tunisia,Spain,0,0,Copa America,0
+2023-02-08,Senegal,Denmark,1,0,UEFA Euro,1
+2023-02-08,Nigeria,Jamaica,0,0,AFC Asian Cup,0
+2023-02-08,France,Croatia,1,0,UEFA Euro,1
+2023-02-08,Japan,Poland,0,0,Friendly,0
+2023-02-08,Turkey,Poland,1,1,Africa Cup of Nations,1
+2023-02-08,South Korea,Belgium,0,3,World Cup Qualification,1
+2023-02-08,Nigeria,Germany,2,0,Friendly,0
+2023-02-08,Panama,Algeria,1,0,UEFA Euro,1
+2023-02-08,Canada,Italy,1,0,Copa America,0
+2023-03-01,Nigeria,New Zealand,2,0,Copa America,1
+2023-03-01,Argentina,Ecuador,0,0,Nations League,1
+2023-03-01,Egypt,New Zealand,1,0,UEFA Euro,0
+2023-03-01,Nigeria,Argentina,0,1,World Cup Qualification,0
+2023-03-01,Cameroon,Ghana,1,0,Nations League,1
+2023-03-01,Canada,Australia,0,0,AFC Asian Cup,0
+2023-03-01,Qatar,Peru,1,0,Africa Cup of Nations,1
+2023-03-01,England,Turkey,2,1,UEFA Euro,0
+2023-03-01,USA,Japan,1,0,World Cup Qualification,0
+2023-03-01,Algeria,New Zealand,1,0,Friendly,0
+2023-03-01,Sweden,Portugal,0,0,Africa Cup of Nations,1
+2023-03-01,Qatar,South Africa,2,2,AFC Asian Cup,1
+2023-03-01,Belgium,Algeria,2,0,Africa Cup of Nations,0
+2023-03-01,Qatar,Egypt,2,4,World Cup Qualification,0
+2023-03-01,France,Australia,0,0,Friendly,1
+2023-03-01,USA,Argentina,0,0,Nations League,1
+2023-03-01,Spain,Ukraine,1,2,Nations League,0
+2023-03-01,South Africa,Jamaica,4,1,Nations League,0
+2023-03-01,Senegal,Brazil,0,0,UEFA Euro,0
+2023-03-01,Costa Rica,Germany,3,0,AFC Asian Cup,1
+2023-03-01,Portugal,Senegal,1,0,Friendly,0
+2023-03-15,Australia,Peru,0,2,UEFA Euro,0
+2023-03-15,Peru,Italy,0,1,AFC Asian Cup,0
+2023-03-15,Uzbekistan,Italy,2,0,Copa America,1
+2023-03-15,Belgium,Netherlands,2,0,Nations League,1
+2023-03-15,Ecuador,Nigeria,2,2,Friendly,1
+2023-03-15,Morocco,Costa Rica,1,1,Copa America,0
+2023-03-15,Ghana,Wales,2,2,World Cup Qualification,0
+2023-03-15,Ecuador,Italy,0,0,Nations League,0
+2023-03-15,Nigeria,Netherlands,1,3,World Cup Qualification,0
+2023-03-15,Netherlands,Denmark,1,4,UEFA Euro,0
+2023-03-15,Argentina,Morocco,1,0,Africa Cup of Nations,0
+2023-03-15,Uzbekistan,Poland,1,0,World Cup Qualification,1
+2023-03-15,South Africa,Ukraine,3,2,UEFA Euro,0
+2023-03-15,Ecuador,Uruguay,4,3,AFC Asian Cup,1
+2023-03-15,South Africa,Colombia,5,2,Copa America,0
+2023-03-15,Nigeria,Colombia,3,1,Africa Cup of Nations,0
+2023-03-15,Portugal,Chile,0,2,Copa America,0
+2023-03-15,Netherlands,Portugal,1,0,World Cup Qualification,0
+2023-03-15,Mexico,Uzbekistan,1,0,UEFA Euro,0
+2023-03-15,Tunisia,Japan,0,1,Nations League,0
+2023-03-15,USA,Panama,3,3,UEFA Euro,0
+2023-03-15,USA,Mexico,0,0,UEFA Euro,1
+2023-03-15,England,Netherlands,0,0,AFC Asian Cup,1
+2023-03-15,Germany,USA,3,0,Friendly,0
+2023-03-15,Spain,Chile,2,0,World Cup Qualification,1
+2023-04-09,France,Egypt,4,0,AFC Asian Cup,1
+2023-04-09,England,Panama,2,0,World Cup Qualification,1
+2023-04-09,Iran,Argentina,0,0,Africa Cup of Nations,0
+2023-04-09,Portugal,Ukraine,3,0,Africa Cup of Nations,0
+2023-04-09,Japan,Nigeria,1,0,AFC Asian Cup,0
+2023-04-09,Brazil,South Korea,0,0,Africa Cup of Nations,0
+2023-04-09,Brazil,Morocco,0,2,AFC Asian Cup,1
+2023-04-09,Peru,England,0,1,Africa Cup of Nations,0
+2023-04-09,USA,Cameroon,2,0,Africa Cup of Nations,0
+2023-04-09,Mexico,Iraq,2,0,AFC Asian Cup,0
+2023-04-09,Egypt,Chile,0,3,AFC Asian Cup,1
+2023-04-09,South Korea,Iraq,0,0,AFC Asian Cup,1
+2023-04-09,Chile,Saudi Arabia,0,0,Friendly,1
+2023-04-09,Austria,Italy,1,1,Copa America,0
+2023-04-09,Switzerland,Chile,1,4,Africa Cup of Nations,0
+2023-04-09,England,Croatia,1,0,AFC Asian Cup,1
+2023-04-09,Saudi Arabia,Egypt,1,2,World Cup Qualification,0
+2023-04-09,Tunisia,Ukraine,4,0,Copa America,1
+2023-04-09,Senegal,Morocco,3,0,Friendly,1
+2023-04-09,Iraq,Australia,0,3,UEFA Euro,1
+2023-04-21,Iran,Ghana,2,1,World Cup Qualification,1
+2023-04-21,Egypt,South Korea,3,0,Friendly,0
+2023-04-21,Sweden,Costa Rica,1,2,World Cup Qualification,0
+2023-04-21,Iraq,Qatar,0,0,Friendly,0
+2023-04-21,Panama,Cameroon,4,0,Africa Cup of Nations,0
+2023-04-21,Morocco,Canada,3,1,World Cup Qualification,0
+2023-04-21,South Africa,Argentina,2,0,AFC Asian Cup,0
+2023-04-21,Ghana,Morocco,0,1,UEFA Euro,1
+2023-04-21,Qatar,Belgium,0,2,AFC Asian Cup,0
+2023-04-21,Tunisia,Ecuador,0,2,World Cup Qualification,1
+2023-04-21,USA,Qatar,0,0,Africa Cup of Nations,1
+2023-05-11,USA,Japan,0,2,AFC Asian Cup,1
+2023-05-11,Tunisia,Mexico,0,1,Copa America,1
+2023-05-11,France,Turkey,3,0,Friendly,1
+2023-05-11,Iraq,Colombia,0,0,Nations League,0
+2023-05-11,USA,Jamaica,1,0,World Cup Qualification,1
+2023-05-11,Denmark,Peru,0,1,Copa America,0
+2023-05-11,Turkey,Mexico,0,0,Friendly,0
+2023-05-11,Croatia,Egypt,0,1,Africa Cup of Nations,1
+2023-05-11,Peru,New Zealand,3,0,AFC Asian Cup,0
+2023-05-11,Saudi Arabia,Ecuador,3,2,Nations League,1
+2023-05-11,Austria,Nigeria,2,0,World Cup Qualification,1
+2023-05-11,Iran,Wales,0,0,UEFA Euro,1
+2023-05-11,Australia,Croatia,0,0,Nations League,1
+2023-05-11,England,Costa Rica,1,0,Friendly,0
+2023-05-11,Uruguay,Peru,0,0,World Cup Qualification,0
+2023-05-11,Canada,Switzerland,1,2,Copa America,1
+2023-05-11,Colombia,Egypt,0,2,Nations League,0
+2023-05-11,Saudi Arabia,Netherlands,3,2,Copa America,1
+2023-05-11,Spain,Australia,3,2,UEFA Euro,0
+2023-05-11,Argentina,Tunisia,0,2,World Cup Qualification,1
+2023-05-11,Canada,Costa Rica,0,0,Copa America,1
+2023-05-11,England,South Korea,2,0,AFC Asian Cup,0
+2023-05-11,Canada,Portugal,0,2,AFC Asian Cup,0
+2023-05-11,Saudi Arabia,New Zealand,2,1,Nations League,0
+2023-05-11,Ghana,Belgium,3,0,UEFA Euro,1
+2023-05-29,Egypt,Uruguay,2,1,Friendly,1
+2023-05-29,Senegal,Mexico,3,1,AFC Asian Cup,1
+2023-05-29,Canada,Jamaica,2,0,Africa Cup of Nations,0
+2023-05-29,South Africa,Egypt,0,2,Copa America,1
+2023-05-29,Poland,Portugal,3,1,Nations League,0
+2023-05-29,Mexico,Netherlands,0,3,AFC Asian Cup,0
+2023-05-29,Turkey,Costa Rica,0,3,UEFA Euro,0
+2023-05-29,France,Brazil,3,0,Copa America,1
+2023-05-29,Netherlands,Sweden,5,3,Friendly,1
+2023-05-29,Belgium,Brazil,0,2,Africa Cup of Nations,0
+2023-05-29,France,Saudi Arabia,3,0,Copa America,1
+2023-06-14,Switzerland,Australia,1,0,Friendly,0
+2023-06-14,Mexico,USA,0,0,AFC Asian Cup,1
+2023-06-14,Panama,Colombia,0,1,Copa America,0
+2023-06-14,Japan,Mexico,1,0,Africa Cup of Nations,1
+2023-06-14,Turkey,Chile,1,4,AFC Asian Cup,0
+2023-06-14,Poland,Uruguay,4,0,Nations League,1
+2023-06-14,Portugal,Germany,2,0,Friendly,0
+2023-06-14,France,Cameroon,3,0,Nations League,1
+2023-06-14,Saudi Arabia,Turkey,2,0,World Cup Qualification,1
+2023-06-14,Sweden,Saudi Arabia,3,0,World Cup Qualification,0
+2023-06-14,Germany,Iran,3,0,Friendly,1
+2023-07-06,Uzbekistan,Germany,0,0,Nations League,0
+2023-07-06,Ghana,South Korea,1,1,Friendly,0
+2023-07-06,Chile,Belgium,0,1,Friendly,1
+2023-07-06,Iran,Mexico,0,0,AFC Asian Cup,1
+2023-07-06,Chile,Turkey,0,3,Copa America,1
+2023-07-06,Chile,Uzbekistan,0,0,Africa Cup of Nations,0
+2023-07-06,USA,Tunisia,2,0,World Cup Qualification,1
+2023-07-06,Ghana,France,1,1,Africa Cup of Nations,0
+2023-07-06,Portugal,Japan,0,0,Friendly,1
+2023-07-06,England,Sweden,3,0,Copa America,0
+2023-07-06,Tunisia,Ukraine,1,0,Nations League,0
+2023-07-06,Switzerland,Egypt,1,0,Copa America,1
+2023-07-06,Saudi Arabia,Italy,1,0,Africa Cup of Nations,0
+2023-07-06,Chile,Saudi Arabia,3,0,Friendly,0
+2023-07-06,Tunisia,Qatar,1,2,Nations League,0
+2023-07-06,Morocco,Germany,0,1,Africa Cup of Nations,0
+2023-07-06,Argentina,Chile,3,1,Friendly,1
+2023-07-06,Poland,Morocco,0,2,Friendly,1
+2023-07-06,Tunisia,Senegal,0,0,Africa Cup of Nations,0
+2023-07-06,Ghana,Denmark,0,0,Copa America,0
+2023-07-06,Saudi Arabia,South Korea,4,2,Copa America,0
+2023-07-06,Sweden,Australia,0,1,AFC Asian Cup,0
+2023-07-06,Brazil,Peru,2,3,Friendly,1
+2023-07-06,Saudi Arabia,South Africa,5,2,UEFA Euro,1
+2023-07-06,Ecuador,Austria,0,0,UEFA Euro,0
+2023-07-18,Netherlands,Germany,1,3,World Cup Qualification,0
+2023-07-18,Chile,Algeria,1,1,Friendly,1
+2023-07-18,Iran,Denmark,3,0,AFC Asian Cup,1
+2023-07-18,Spain,Ukraine,3,1,Nations League,0
+2023-07-18,England,South Korea,1,0,Africa Cup of Nations,0
+2023-07-18,Poland,Canada,1,0,Copa America,0
+2023-07-18,Uruguay,Turkey,1,2,AFC Asian Cup,1
+2023-07-18,Cameroon,South Korea,4,0,Copa America,0
+2023-07-18,Nigeria,Tunisia,0,1,UEFA Euro,1
+2023-07-18,Tunisia,Uzbekistan,3,1,World Cup Qualification,1
+2023-07-18,Peru,Argentina,0,3,Africa Cup of Nations,1
+2023-07-18,Uzbekistan,Egypt,2,0,Nations League,0
+2023-07-18,Algeria,Poland,3,1,Copa America,0
+2023-07-18,Panama,Denmark,1,0,AFC Asian Cup,1
+2023-07-18,Algeria,Brazil,1,4,Nations League,1
+2023-07-18,Mexico,Brazil,3,3,Friendly,0
+2023-07-18,Mexico,Croatia,0,0,Nations League,0
+2023-07-18,Nigeria,Italy,0,2,World Cup Qualification,0
+2023-07-18,Switzerland,France,1,1,Africa Cup of Nations,0
+2023-07-18,Germany,Denmark,2,4,AFC Asian Cup,0
+2023-08-11,Ukraine,Iran,0,0,World Cup Qualification,1
+2023-08-11,New Zealand,Colombia,0,0,Africa Cup of Nations,0
+2023-08-11,Iran,Ukraine,0,0,Africa Cup of Nations,1
+2023-08-11,Egypt,Portugal,2,0,World Cup Qualification,0
+2023-08-11,Netherlands,Portugal,1,3,Nations League,0
+2023-08-11,Sweden,Poland,3,0,AFC Asian Cup,0
+2023-08-11,Ecuador,South Africa,0,2,AFC Asian Cup,1
+2023-08-11,Panama,Germany,3,1,Friendly,0
+2023-08-11,Wales,Denmark,1,3,AFC Asian Cup,1
+2023-08-11,Qatar,Australia,0,0,Friendly,1
+2023-08-11,Algeria,USA,2,0,AFC Asian Cup,0
+2023-08-11,Egypt,Nigeria,0,3,Nations League,1
+2023-08-11,Uzbekistan,Wales,2,3,UEFA Euro,1
+2023-08-11,Colombia,Japan,3,0,UEFA Euro,1
+2023-08-11,Switzerland,Canada,1,0,Nations League,0
+2023-08-11,USA,Tunisia,2,0,Copa America,0
+2023-08-11,Denmark,Costa Rica,0,3,AFC Asian Cup,1
+2023-08-11,Tunisia,Saudi Arabia,1,0,Friendly,1
+2023-08-22,Croatia,Egypt,1,0,Copa America,0
+2023-08-22,Portugal,New Zealand,2,0,Africa Cup of Nations,0
+2023-08-22,Peru,USA,1,1,UEFA Euro,0
+2023-08-22,Turkey,Iraq,1,0,World Cup Qualification,0
+2023-08-22,Uruguay,Italy,0,1,UEFA Euro,1
+2023-08-22,Saudi Arabia,New Zealand,3,0,Friendly,0
+2023-08-22,Japan,Uruguay,0,0,AFC Asian Cup,0
+2023-08-22,Iran,Qatar,0,0,Copa America,1
+2023-08-22,Poland,Iraq,0,2,UEFA Euro,0
+2023-08-22,Senegal,Australia,2,3,AFC Asian Cup,0
+2023-08-22,Peru,Jamaica,3,0,AFC Asian Cup,0
+2023-08-22,Italy,Turkey,0,0,UEFA Euro,0
+2023-08-22,Iran,Peru,0,0,Africa Cup of Nations,0
+2023-08-22,Denmark,Netherlands,1,0,Copa America,0
+2023-08-22,Tunisia,Saudi Arabia,1,1,UEFA Euro,1
+2023-08-22,Qatar,Ecuador,0,0,UEFA Euro,1
+2023-08-22,USA,Chile,3,2,Friendly,1
+2023-08-22,Ghana,Germany,0,0,Africa Cup of Nations,1
+2023-08-22,Algeria,Brazil,0,1,AFC Asian Cup,1
+2023-08-22,Turkey,Peru,0,0,Nations League,1
+2023-08-22,Qatar,Austria,0,0,UEFA Euro,1
+2023-09-12,South Korea,Spain,1,3,UEFA Euro,0
+2023-09-12,Egypt,England,2,1,World Cup Qualification,1
+2023-09-12,Iraq,South Africa,1,4,Nations League,1
+2023-09-12,Denmark,South Africa,2,0,Copa America,1
+2023-09-12,Algeria,Turkey,4,0,Copa America,0
+2023-09-12,Mexico,Nigeria,2,2,Copa America,1
+2023-09-12,Poland,Mexico,0,1,Friendly,1
+2023-09-12,Ghana,Canada,0,3,AFC Asian Cup,0
+2023-09-12,Uzbekistan,Qatar,2,0,Copa America,1
+2023-09-12,Mexico,Germany,0,0,World Cup Qualification,1
+2023-09-12,Ukraine,Poland,0,3,AFC Asian Cup,0
+2023-09-12,Italy,Iraq,2,0,Friendly,0
+2023-09-12,Turkey,Switzerland,1,0,World Cup Qualification,1
+2023-09-22,Colombia,Argentina,0,0,Nations League,0
+2023-09-22,England,Qatar,3,0,Copa America,1
+2023-09-22,Belgium,Egypt,1,1,UEFA Euro,0
+2023-09-22,Wales,Turkey,3,0,Africa Cup of Nations,1
+2023-09-22,Jamaica,Uruguay,2,2,Nations League,0
+2023-09-22,New Zealand,Iran,2,0,AFC Asian Cup,0
+2023-09-22,Costa Rica,Sweden,0,0,Friendly,0
+2023-09-22,Iraq,Egypt,0,3,AFC Asian Cup,0
+2023-09-22,USA,Australia,0,0,World Cup Qualification,1
+2023-09-22,Nigeria,Argentina,0,1,UEFA Euro,1
+2023-09-22,Brazil,Argentina,0,0,UEFA Euro,0
+2023-09-22,Cameroon,Japan,0,0,AFC Asian Cup,1
+2023-09-22,Nigeria,South Korea,0,0,AFC Asian Cup,0
+2023-09-22,Sweden,Netherlands,3,3,UEFA Euro,1
+2023-09-22,Sweden,Panama,0,3,Copa America,1
+2023-09-22,Canada,Germany,2,1,World Cup Qualification,0
+2023-09-22,Sweden,Ghana,2,0,Africa Cup of Nations,0
+2023-09-22,Nigeria,Iraq,0,0,World Cup Qualification,1
+2023-09-22,Peru,Saudi Arabia,4,2,AFC Asian Cup,1
+2023-10-11,Egypt,England,0,1,UEFA Euro,1
+2023-10-11,South Korea,Australia,2,0,Nations League,1
+2023-10-11,Canada,Tunisia,1,3,Africa Cup of Nations,1
+2023-10-11,Saudi Arabia,Morocco,1,0,UEFA Euro,0
+2023-10-11,Iran,Uruguay,0,0,World Cup Qualification,1
+2023-10-11,Cameroon,Ukraine,3,0,Africa Cup of Nations,0
+2023-10-11,Austria,Cameroon,0,0,AFC Asian Cup,0
+2023-10-11,Cameroon,Colombia,3,2,Friendly,1
+2023-10-11,Denmark,Argentina,3,0,World Cup Qualification,0
+2023-10-11,Denmark,Cameroon,3,4,Copa America,1
+2023-10-11,Nigeria,Austria,1,1,UEFA Euro,0
+2023-10-11,Brazil,Cameroon,2,0,Copa America,1
+2023-10-11,Sweden,Morocco,4,2,Africa Cup of Nations,1
+2023-10-11,Italy,Netherlands,2,0,World Cup Qualification,0
+2023-10-11,Chile,Wales,1,0,AFC Asian Cup,1
+2023-10-11,Australia,New Zealand,0,0,Friendly,1
+2023-10-11,Panama,Switzerland,0,0,UEFA Euro,0
+2023-11-01,Jamaica,Italy,1,3,Copa America,0
+2023-11-01,Uzbekistan,Canada,0,1,UEFA Euro,0
+2023-11-01,Tunisia,Uruguay,0,1,World Cup Qualification,0
+2023-11-01,Morocco,Mexico,0,0,UEFA Euro,0
+2023-11-01,Egypt,Saudi Arabia,0,3,Friendly,1
+2023-11-01,Portugal,Panama,1,0,Nations League,0
+2023-11-01,Nigeria,Uzbekistan,1,0,Friendly,0
+2023-11-01,Sweden,Colombia,2,3,UEFA Euro,0
+2023-11-01,Switzerland,Austria,4,0,Friendly,0
+2023-11-01,France,Cameroon,3,0,World Cup Qualification,1
+2023-11-01,Uruguay,USA,3,1,AFC Asian Cup,0
+2023-11-01,France,Germany,0,0,UEFA Euro,0
+2023-11-01,Brazil,Costa Rica,2,3,Nations League,0
+2023-11-01,Panama,France,1,1,Nations League,1
+2023-11-01,Uzbekistan,Italy,0,1,UEFA Euro,1
+2023-11-01,Iran,Tunisia,1,1,UEFA Euro,0
+2023-11-01,Ukraine,Canada,1,0,UEFA Euro,0
+2023-11-01,Turkey,Ghana,0,3,World Cup Qualification,1
+2023-11-14,Ecuador,USA,0,2,World Cup Qualification,1
+2023-11-14,Argentina,Egypt,1,0,Africa Cup of Nations,1
+2023-11-14,Wales,Poland,1,4,AFC Asian Cup,1
+2023-11-14,Ecuador,Senegal,4,0,UEFA Euro,1
+2023-11-14,Japan,England,2,1,Nations League,0
+2023-11-14,Ghana,Panama,1,0,Friendly,0
+2023-11-14,Panama,Netherlands,0,0,Nations League,0
+2023-11-14,Saudi Arabia,Uzbekistan,3,1,Nations League,1
+2023-11-14,Australia,Belgium,3,2,Friendly,0
+2023-11-14,Morocco,Argentina,0,3,Friendly,0
+2023-11-14,USA,Nigeria,3,0,AFC Asian Cup,1
+2023-11-14,Algeria,Ecuador,0,3,AFC Asian Cup,1
+2023-12-09,England,Sweden,2,0,Friendly,1
+2023-12-09,Ukraine,Senegal,1,0,World Cup Qualification,0
+2023-12-09,Sweden,Qatar,2,0,Copa America,0
+2023-12-09,Italy,Austria,1,3,Copa America,0
+2023-12-09,Turkey,Qatar,0,0,Nations League,1
+2023-12-09,South Korea,Canada,1,0,World Cup Qualification,0
+2023-12-09,Ghana,Netherlands,2,1,World Cup Qualification,1
+2023-12-09,South Korea,Japan,2,2,Friendly,1
+2023-12-09,Argentina,Cameroon,0,0,AFC Asian Cup,1
+2023-12-09,Switzerland,Colombia,0,0,Africa Cup of Nations,1
+2023-12-09,Uzbekistan,Spain,0,2,Africa Cup of Nations,0
+2023-12-09,Uruguay,Ecuador,3,1,Friendly,0
+2023-12-09,Sweden,Cameroon,1,0,AFC Asian Cup,1
+2023-12-09,Colombia,Egypt,0,0,Nations League,1
+2023-12-28,Poland,Cameroon,3,1,UEFA Euro,1
+2023-12-28,Nigeria,Costa Rica,1,0,UEFA Euro,0
+2023-12-28,England,Germany,3,3,Nations League,1
+2023-12-28,Austria,Senegal,3,0,Friendly,0
+2023-12-28,Sweden,Turkey,0,0,AFC Asian Cup,0
+2023-12-28,Ukraine,Spain,0,3,Nations League,0
+2023-12-28,South Africa,Croatia,0,0,Nations League,0
+2023-12-28,Croatia,Poland,0,0,AFC Asian Cup,1
+2023-12-28,Iraq,Iran,0,2,Friendly,0
+2023-12-28,Mexico,Spain,0,4,World Cup Qualification,0
+2023-12-28,Ukraine,Chile,1,2,Nations League,1
+2023-12-28,Morocco,Uruguay,0,1,Copa America,1
+2023-12-28,Australia,Colombia,2,0,Friendly,0
+2023-12-28,Iran,Argentina,0,2,AFC Asian Cup,1
+2023-12-28,Chile,Argentina,0,0,World Cup Qualification,0
+2023-12-28,Jamaica,Egypt,2,2,Africa Cup of Nations,1
+2024-01-07,Costa Rica,Italy,2,0,Africa Cup of Nations,1
+2024-01-07,Japan,France,3,1,World Cup Qualification,0
+2024-01-07,Canada,Egypt,0,2,UEFA Euro,0
+2024-01-07,Saudi Arabia,Denmark,1,2,Africa Cup of Nations,0
+2024-01-07,Jamaica,Iran,0,0,AFC Asian Cup,1
+2024-01-07,Argentina,Colombia,1,2,World Cup Qualification,1
+2024-01-07,Sweden,Poland,3,2,Nations League,1
+2024-01-07,Iraq,Poland,0,3,World Cup Qualification,1
+2024-01-07,Austria,Brazil,0,1,World Cup Qualification,0
+2024-01-07,Nigeria,Chile,2,0,Africa Cup of Nations,1
+2024-01-07,Wales,Peru,2,0,Friendly,0
+2024-01-07,USA,Sweden,0,0,World Cup Qualification,0
+2024-01-07,Switzerland,Senegal,1,0,AFC Asian Cup,0
+2024-01-07,Ghana,Denmark,0,0,Africa Cup of Nations,0
+2024-01-07,Belgium,Austria,1,0,AFC Asian Cup,1
+2024-01-07,France,Australia,1,0,Friendly,1
+2024-01-07,Portugal,Iran,0,0,World Cup Qualification,0
+2024-01-07,Ukraine,Peru,0,3,Friendly,0
+2024-01-07,Spain,Tunisia,0,0,Copa America,0
+2024-01-07,Qatar,Turkey,2,2,Africa Cup of Nations,0
+2024-01-30,Nigeria,Ukraine,0,4,Copa America,1
+2024-01-30,Brazil,Jamaica,3,2,AFC Asian Cup,0
+2024-01-30,Poland,Mexico,2,1,Nations League,0
+2024-01-30,Chile,South Africa,2,2,Nations League,1
+2024-01-30,England,Colombia,3,2,AFC Asian Cup,1
+2024-01-30,Senegal,Egypt,0,0,Friendly,0
+2024-01-30,France,Uzbekistan,0,0,Friendly,1
+2024-01-30,France,Netherlands,0,0,Africa Cup of Nations,1
+2024-01-30,Saudi Arabia,Italy,0,0,UEFA Euro,1
+2024-01-30,Ghana,South Africa,0,1,Copa America,1
+2024-01-30,Peru,Poland,0,0,UEFA Euro,1
+2024-01-30,Senegal,Canada,2,0,Friendly,0
+2024-01-30,Cameroon,Nigeria,2,0,Africa Cup of Nations,1
+2024-01-30,Belgium,France,1,0,UEFA Euro,0
+2024-01-30,Turkey,Morocco,0,0,Friendly,0
+2024-01-30,Belgium,New Zealand,3,1,AFC Asian Cup,0
+2024-01-30,Qatar,Australia,0,2,World Cup Qualification,1
+2024-01-30,Iraq,Denmark,0,0,Copa America,1
+2024-01-30,USA,Panama,1,0,Nations League,1
+2024-01-30,Canada,Egypt,0,0,World Cup Qualification,0
+2024-01-30,Qatar,Switzerland,3,2,Friendly,0
+2024-01-30,Panama,Jamaica,3,0,Friendly,1
+2024-01-30,Netherlands,Morocco,1,2,Africa Cup of Nations,1
+2024-02-12,Belgium,Iraq,1,2,Nations League,0
+2024-02-12,Australia,New Zealand,1,0,AFC Asian Cup,1
+2024-02-12,Costa Rica,Belgium,0,1,AFC Asian Cup,0
+2024-02-12,Denmark,Austria,0,0,Africa Cup of Nations,0
+2024-02-12,Denmark,Mexico,1,0,UEFA Euro,1
+2024-02-12,Senegal,Algeria,0,0,UEFA Euro,0
+2024-02-12,Qatar,England,2,0,Copa America,0
+2024-02-12,Ghana,Uruguay,3,2,UEFA Euro,1
+2024-02-12,Nigeria,Saudi Arabia,1,0,Africa Cup of Nations,1
+2024-02-12,Algeria,South Africa,1,0,AFC Asian Cup,0
+2024-02-12,Algeria,Australia,2,0,UEFA Euro,0
+2024-02-12,Chile,USA,0,2,AFC Asian Cup,1
+2024-02-12,Croatia,South Korea,0,1,UEFA Euro,1
+2024-02-27,Ghana,Colombia,0,1,Copa America,1
+2024-02-27,Brazil,Ecuador,2,0,Copa America,1
+2024-02-27,Poland,Austria,3,0,Friendly,1
+2024-02-27,Turkey,England,0,0,Africa Cup of Nations,0
+2024-02-27,Peru,South Korea,0,2,Friendly,1
+2024-02-27,Costa Rica,Spain,0,2,Nations League,1
+2024-02-27,Denmark,Qatar,2,0,Africa Cup of Nations,0
+2024-02-27,Tunisia,Brazil,0,1,AFC Asian Cup,1
+2024-02-27,Switzerland,Algeria,0,1,Nations League,1
+2024-02-27,Sweden,Costa Rica,0,2,Friendly,1
+2024-02-27,Peru,Panama,2,3,Copa America,1
+2024-02-27,Brazil,Ghana,0,0,Nations League,0
+2024-02-27,Italy,Portugal,1,3,Africa Cup of Nations,1
+2024-02-27,Uzbekistan,South Korea,0,0,UEFA Euro,0
+2024-02-27,Morocco,Ghana,1,0,Africa Cup of Nations,1
+2024-02-27,Ecuador,South Korea,0,0,Nations League,0
+2024-02-27,Germany,Egypt,1,2,Nations League,1
+2024-02-27,Panama,Brazil,2,0,UEFA Euro,1
+2024-02-27,England,Costa Rica,1,3,Africa Cup of Nations,1
+2024-02-27,Morocco,Australia,2,0,Friendly,0
+2024-03-12,Colombia,Italy,0,4,Copa America,0
+2024-03-12,Uzbekistan,Iran,0,0,Africa Cup of Nations,1
+2024-03-12,England,Austria,2,2,Friendly,0
+2024-03-12,Wales,Austria,2,0,Africa Cup of Nations,0
+2024-03-12,Senegal,France,2,1,Copa America,0
+2024-03-12,USA,Australia,0,1,AFC Asian Cup,1
+2024-03-12,USA,Switzerland,0,4,World Cup Qualification,1
+2024-03-12,Jamaica,Portugal,0,1,UEFA Euro,1
+2024-03-12,Panama,Brazil,2,1,Copa America,0
+2024-03-12,Colombia,Spain,0,0,Copa America,0
+2024-03-12,Argentina,Ukraine,2,0,Copa America,1
+2024-03-12,Brazil,Italy,2,0,AFC Asian Cup,0
+2024-03-12,Italy,Denmark,0,0,Friendly,1
+2024-03-12,Jamaica,Canada,1,0,AFC Asian Cup,0
+2024-03-12,Ukraine,Tunisia,1,1,AFC Asian Cup,0
+2024-03-12,Belgium,Mexico,2,0,Friendly,1
+2024-03-12,Chile,South Africa,2,0,UEFA Euro,0
+2024-03-12,England,Belgium,2,0,UEFA Euro,0
+2024-03-12,Germany,Sweden,3,0,AFC Asian Cup,0
+2024-03-31,Spain,Iran,1,0,Africa Cup of Nations,1
+2024-03-31,Argentina,Egypt,1,0,Africa Cup of Nations,1
+2024-03-31,Argentina,Tunisia,3,0,Friendly,1
+2024-03-31,Iraq,Ecuador,0,1,UEFA Euro,1
+2024-03-31,Turkey,Australia,0,0,Copa America,1
+2024-03-31,Qatar,Colombia,0,3,Copa America,1
+2024-03-31,Australia,Spain,1,0,UEFA Euro,0
+2024-03-31,Denmark,Switzerland,2,1,Nations League,1
+2024-03-31,Algeria,England,0,3,Friendly,0
+2024-03-31,Portugal,Croatia,0,0,Friendly,0
+2024-03-31,Japan,Poland,5,4,Copa America,0
+2024-03-31,New Zealand,Egypt,0,1,UEFA Euro,1
+2024-03-31,Chile,Denmark,0,1,Friendly,0
+2024-03-31,Croatia,Italy,0,0,AFC Asian Cup,0
+2024-03-31,Portugal,Poland,1,0,UEFA Euro,0
+2024-03-31,Poland,Japan,2,0,Copa America,1
+2024-03-31,Argentina,Panama,3,0,Africa Cup of Nations,0
+2024-03-31,USA,Cameroon,3,0,UEFA Euro,0
+2024-03-31,Ukraine,Saudi Arabia,0,0,AFC Asian Cup,1
+2024-03-31,Italy,Uzbekistan,1,0,Nations League,1
+2024-04-20,Switzerland,Jamaica,0,0,Friendly,0
+2024-04-20,Saudi Arabia,Ukraine,1,0,Friendly,0
+2024-04-20,Netherlands,Mexico,1,0,AFC Asian Cup,0
+2024-04-20,Turkey,Brazil,2,2,Friendly,0
+2024-04-20,South Africa,Ghana,1,0,World Cup Qualification,0
+2024-04-20,USA,Iraq,1,0,UEFA Euro,0
+2024-04-20,England,Germany,2,0,Copa America,1
+2024-04-20,Peru,Egypt,0,0,Friendly,0
+2024-04-20,Argentina,Turkey,1,3,Copa America,1
+2024-04-20,Panama,Ukraine,1,3,UEFA Euro,1
+2024-04-20,England,Germany,0,2,Nations League,0
+2024-04-20,Nigeria,Japan,3,2,UEFA Euro,0
+2024-04-20,Argentina,South Africa,0,2,Friendly,1
+2024-04-20,Turkey,Denmark,1,0,Nations League,0
+2024-04-20,Iran,Senegal,0,5,Friendly,1
+2024-04-20,France,Ukraine,3,0,AFC Asian Cup,1
+2024-04-20,Cameroon,Iraq,1,0,Africa Cup of Nations,1
+2024-05-11,Panama,Turkey,0,1,Friendly,1
+2024-05-11,Netherlands,Portugal,0,1,UEFA Euro,0
+2024-05-11,Ghana,England,0,0,AFC Asian Cup,0
+2024-05-11,Uruguay,Canada,2,0,UEFA Euro,1
+2024-05-11,Iran,Spain,3,1,Nations League,1
+2024-05-11,Egypt,Cameroon,1,2,Africa Cup of Nations,1
+2024-05-11,Algeria,Panama,2,1,Africa Cup of Nations,0
+2024-05-11,Chile,Colombia,3,1,Africa Cup of Nations,0
+2024-05-11,Qatar,Wales,2,0,Friendly,0
+2024-05-11,Italy,Japan,1,0,Copa America,0
+2024-05-11,Jamaica,Algeria,1,0,World Cup Qualification,1
+2024-05-11,Senegal,Iran,1,3,UEFA Euro,1
+2024-05-11,Senegal,Denmark,2,2,UEFA Euro,0
+2024-05-11,Jamaica,Ecuador,3,0,Africa Cup of Nations,0
+2024-05-11,Iraq,Saudi Arabia,1,1,AFC Asian Cup,1
+2024-05-11,Tunisia,Ghana,0,0,Nations League,1
+2024-05-11,South Africa,Argentina,0,0,AFC Asian Cup,1
+2024-05-11,Wales,Morocco,1,0,Nations League,0
+2024-05-11,Ukraine,Morocco,3,0,UEFA Euro,0
+2024-05-11,Sweden,Ecuador,2,1,Africa Cup of Nations,1
+2024-05-11,Costa Rica,Chile,0,1,Copa America,1
+2024-05-11,Iran,Germany,0,2,Africa Cup of Nations,1
+2024-06-03,Argentina,USA,0,4,AFC Asian Cup,1
+2024-06-03,Algeria,South Korea,2,3,Copa America,0
+2024-06-03,England,Wales,1,2,Friendly,1
+2024-06-03,Tunisia,Panama,1,0,AFC Asian Cup,0
+2024-06-03,Switzerland,Spain,0,1,Nations League,0
+2024-06-03,Denmark,Mexico,2,0,Friendly,0
+2024-06-03,Portugal,South Africa,3,1,Friendly,1
+2024-06-03,Belgium,Denmark,1,1,World Cup Qualification,1
+2024-06-03,Iran,Portugal,0,1,UEFA Euro,1
+2024-06-03,Jamaica,Japan,1,1,Africa Cup of Nations,0
+2024-06-03,South Korea,Turkey,1,3,World Cup Qualification,0
+2024-06-03,Senegal,Turkey,2,0,Africa Cup of Nations,1
+2024-06-27,Costa Rica,Jamaica,0,1,UEFA Euro,0
+2024-06-27,Tunisia,Panama,0,2,AFC Asian Cup,1
+2024-06-27,Denmark,Japan,2,0,UEFA Euro,0
+2024-06-27,Italy,Denmark,2,0,UEFA Euro,1
+2024-06-27,Algeria,Canada,3,0,World Cup Qualification,0
+2024-06-27,Canada,Nigeria,2,3,Africa Cup of Nations,1
+2024-06-27,Mexico,Chile,1,3,Friendly,1
+2024-06-27,South Africa,Italy,3,0,Africa Cup of Nations,0
+2024-06-27,Wales,Colombia,0,3,AFC Asian Cup,0
+2024-06-27,Mexico,Panama,3,0,Africa Cup of Nations,0
+2024-06-27,Uruguay,Argentina,0,0,Copa America,0
+2024-06-27,Sweden,Panama,0,3,Copa America,0
+2024-06-27,Qatar,USA,2,1,World Cup Qualification,0
+2024-06-27,Australia,Morocco,1,0,UEFA Euro,1
+2024-06-27,Ghana,USA,1,0,Friendly,0
+2024-06-27,Ukraine,Morocco,0,0,UEFA Euro,0
+2024-06-27,South Africa,USA,1,0,UEFA Euro,0
+2024-07-14,Switzerland,Brazil,1,1,Africa Cup of Nations,1
+2024-07-14,USA,Japan,2,2,Friendly,1
+2024-07-14,Iran,Japan,1,0,Africa Cup of Nations,1
+2024-07-14,Egypt,Spain,4,2,Nations League,1
+2024-07-14,Uruguay,Mexico,2,0,Nations League,1
+2024-07-14,Cameroon,USA,0,3,UEFA Euro,0
+2024-07-14,Algeria,France,1,0,Africa Cup of Nations,1
+2024-07-14,Uruguay,Tunisia,1,0,Copa America,0
+2024-07-14,Denmark,Ghana,1,1,Copa America,0
+2024-07-14,Jamaica,USA,0,3,Nations League,1
+2024-07-14,Tunisia,Panama,3,4,AFC Asian Cup,0
+2024-07-14,Mexico,Egypt,2,1,AFC Asian Cup,1
+2024-07-14,Saudi Arabia,Ukraine,0,0,World Cup Qualification,0
+2024-07-14,Croatia,Canada,0,1,Africa Cup of Nations,1
+2024-07-14,Costa Rica,Croatia,2,1,AFC Asian Cup,1
+2024-07-14,Panama,Saudi Arabia,2,2,Nations League,0
+2024-07-14,Iraq,Sweden,0,0,World Cup Qualification,0
+2024-07-14,Netherlands,Colombia,0,0,Nations League,1
+2024-07-14,Morocco,England,1,0,Copa America,0
+2024-07-14,Algeria,Brazil,1,0,UEFA Euro,0
+2024-07-14,Portugal,Qatar,0,2,World Cup Qualification,0
+2024-07-14,Panama,South Korea,3,1,Africa Cup of Nations,1
+2024-07-14,Ecuador,USA,0,0,Nations League,1
+2024-07-14,Iran,Turkey,1,2,Friendly,0
+2024-08-02,Sweden,Spain,0,2,Africa Cup of Nations,1
+2024-08-02,Iran,USA,2,3,Friendly,0
+2024-08-02,Turkey,Mexico,1,0,Nations League,1
+2024-08-02,Nigeria,Italy,1,1,World Cup Qualification,0
+2024-08-02,Brazil,Italy,0,4,Nations League,1
+2024-08-02,Senegal,Croatia,0,1,AFC Asian Cup,0
+2024-08-02,Panama,Cameroon,0,0,Copa America,1
+2024-08-02,Austria,Uruguay,1,0,UEFA Euro,1
+2024-08-02,USA,Poland,1,2,World Cup Qualification,0
+2024-08-02,Netherlands,South Africa,0,0,Friendly,0
+2024-08-02,Morocco,Portugal,2,0,Copa America,1
+2024-08-02,England,Wales,0,0,Nations League,0
+2024-08-02,Netherlands,Australia,0,0,Nations League,1
+2024-08-02,Costa Rica,Saudi Arabia,2,0,Nations League,1
+2024-08-02,Morocco,Tunisia,3,2,AFC Asian Cup,0
+2024-08-27,Spain,Senegal,0,2,Friendly,1
+2024-08-27,Algeria,Sweden,2,0,Africa Cup of Nations,1
+2024-08-27,South Africa,Mexico,0,2,AFC Asian Cup,1
+2024-08-27,Netherlands,Sweden,4,3,World Cup Qualification,1
+2024-08-27,Ukraine,Uruguay,2,0,Copa America,1
+2024-08-27,Uzbekistan,Costa Rica,0,0,AFC Asian Cup,1
+2024-08-27,Japan,France,1,0,Copa America,0
+2024-08-27,Germany,Netherlands,2,0,Nations League,0
+2024-08-27,Switzerland,Poland,2,5,Friendly,1
+2024-08-27,Peru,Iran,0,0,UEFA Euro,1
+2024-08-27,France,Wales,2,0,World Cup Qualification,0
+2024-08-27,Denmark,Turkey,0,0,UEFA Euro,1
+2024-08-27,Italy,Austria,2,2,UEFA Euro,1
+2024-09-12,Sweden,Colombia,0,0,Nations League,0
+2024-09-12,Ecuador,Brazil,0,1,Nations League,1
+2024-09-12,Italy,Germany,0,0,Africa Cup of Nations,0
+2024-09-12,Denmark,Uzbekistan,2,2,Africa Cup of Nations,1
+2024-09-12,South Korea,South Africa,0,1,Nations League,0
+2024-09-12,Panama,Senegal,0,0,AFC Asian Cup,1
+2024-09-12,Canada,Panama,0,1,Africa Cup of Nations,0
+2024-09-12,Italy,Switzerland,1,0,AFC Asian Cup,0
+2024-09-12,Ukraine,England,1,3,UEFA Euro,0
+2024-09-12,Ukraine,Costa Rica,1,0,World Cup Qualification,0
+2024-09-12,Nigeria,Portugal,0,2,Friendly,1
+2024-09-12,Senegal,Nigeria,1,4,Copa America,0
+2024-09-12,Portugal,New Zealand,0,0,Copa America,1
+2024-09-12,France,South Africa,2,0,AFC Asian Cup,1
+2024-09-12,South Korea,Saudi Arabia,0,1,AFC Asian Cup,1
+2024-09-12,Peru,Brazil,1,1,AFC Asian Cup,0
+2024-09-22,Portugal,Jamaica,0,2,Friendly,0
+2024-09-22,Spain,Ukraine,0,2,Copa America,0
+2024-09-22,Tunisia,Italy,0,1,Copa America,1
+2024-09-22,Wales,Uruguay,0,1,AFC Asian Cup,0
+2024-09-22,France,Panama,2,0,AFC Asian Cup,0
+2024-09-22,France,Senegal,2,0,UEFA Euro,1
+2024-09-22,Chile,Qatar,2,2,Copa America,1
+2024-09-22,Jamaica,South Africa,0,0,AFC Asian Cup,0
+2024-09-22,Turkey,Poland,3,0,Friendly,0
+2024-09-22,Mexico,Uruguay,1,0,Nations League,1
+2024-09-22,Austria,Uzbekistan,2,1,UEFA Euro,1
+2024-09-22,Nigeria,Uruguay,0,0,AFC Asian Cup,1
+2024-10-11,Poland,Uruguay,2,0,UEFA Euro,0
+2024-10-11,Cameroon,Italy,1,0,Africa Cup of Nations,1
+2024-10-11,Sweden,Iran,0,0,Africa Cup of Nations,0
+2024-10-11,Chile,Cameroon,4,0,Africa Cup of Nations,1
+2024-10-11,Spain,Ukraine,0,1,Africa Cup of Nations,1
+2024-10-11,Nigeria,Australia,0,0,Copa America,1
+2024-10-11,Costa Rica,Italy,3,1,Africa Cup of Nations,0
+2024-10-11,England,Qatar,0,3,World Cup Qualification,1
+2024-10-11,Belgium,Denmark,1,0,Copa America,1
+2024-10-11,Brazil,Panama,3,0,AFC Asian Cup,1
+2024-10-11,South Africa,Turkey,1,0,World Cup Qualification,1
+2024-10-11,Iran,Uzbekistan,1,2,Nations League,1
+2024-10-11,Switzerland,Morocco,3,1,AFC Asian Cup,1
+2024-10-11,Ghana,Chile,0,4,Friendly,0
+2024-10-31,Iran,Egypt,0,0,Africa Cup of Nations,0
+2024-10-31,Colombia,Austria,0,4,UEFA Euro,1
+2024-10-31,Uzbekistan,Belgium,1,0,Africa Cup of Nations,0
+2024-10-31,Ecuador,Argentina,4,0,Friendly,1
+2024-10-31,Chile,Uzbekistan,1,0,Nations League,0
+2024-10-31,Senegal,Netherlands,0,0,Copa America,1
+2024-10-31,Sweden,Nigeria,0,0,Africa Cup of Nations,0
+2024-10-31,Canada,Poland,2,1,Copa America,0
+2024-10-31,Austria,Canada,1,0,UEFA Euro,1
+2024-10-31,Iran,South Africa,0,0,Copa America,0
+2024-10-31,Tunisia,England,0,2,UEFA Euro,0
+2024-10-31,Austria,Mexico,2,3,UEFA Euro,0
+2024-11-19,Austria,Costa Rica,0,0,Nations League,0
+2024-11-19,Morocco,Panama,1,2,Africa Cup of Nations,0
+2024-11-19,Saudi Arabia,Nigeria,2,0,AFC Asian Cup,0
+2024-11-19,Germany,Iran,1,0,Africa Cup of Nations,1
+2024-11-19,Argentina,England,3,4,Friendly,1
+2024-11-19,Algeria,Netherlands,0,0,Copa America,1
+2024-11-19,Germany,Saudi Arabia,3,0,UEFA Euro,1
+2024-11-19,Croatia,South Africa,0,0,Africa Cup of Nations,1
+2024-11-19,Australia,Ukraine,0,1,World Cup Qualification,0
+2024-11-19,Nigeria,Canada,0,1,Africa Cup of Nations,0
+2024-11-19,Canada,Ukraine,0,3,Africa Cup of Nations,0
+2024-11-19,Portugal,Nigeria,1,0,Nations League,1
+2024-11-19,Cameroon,Italy,0,0,UEFA Euro,0
+2024-11-19,Ukraine,Panama,2,4,Friendly,0
+2024-11-19,Austria,Morocco,0,0,Friendly,1
+2024-11-19,Poland,Brazil,4,1,World Cup Qualification,1
+2024-11-19,Costa Rica,Austria,2,1,Friendly,0
+2024-12-06,Italy,Austria,2,0,AFC Asian Cup,0
+2024-12-06,Egypt,Brazil,0,2,World Cup Qualification,1
+2024-12-06,Germany,Canada,4,0,Nations League,1
+2024-12-06,Switzerland,Peru,0,0,UEFA Euro,0
+2024-12-06,Saudi Arabia,Iraq,1,0,Africa Cup of Nations,0
+2024-12-06,Wales,Denmark,2,0,Africa Cup of Nations,0
+2024-12-06,Cameroon,Colombia,0,0,AFC Asian Cup,0
+2024-12-06,Costa Rica,Brazil,0,2,World Cup Qualification,0
+2024-12-06,Ecuador,Uruguay,0,0,Africa Cup of Nations,1
+2024-12-06,Saudi Arabia,Ukraine,0,2,Friendly,0
+2024-12-06,Brazil,Peru,0,0,UEFA Euro,0
+2024-12-06,Sweden,Spain,0,1,Africa Cup of Nations,0
+2024-12-06,Japan,Sweden,0,3,AFC Asian Cup,0
+2024-12-06,Egypt,Canada,0,0,Copa America,1
+2024-12-26,Spain,Germany,0,0,Nations League,1
+2024-12-26,Ghana,Jamaica,0,0,AFC Asian Cup,0
+2024-12-26,Germany,Nigeria,0,0,UEFA Euro,0
+2024-12-26,Sweden,Qatar,1,0,UEFA Euro,0
+2024-12-26,Costa Rica,Switzerland,1,0,Copa America,1
+2024-12-26,Nigeria,Italy,4,1,UEFA Euro,1
+2024-12-26,Nigeria,South Korea,0,1,Nations League,1
+2024-12-26,South Africa,Croatia,3,2,Copa America,0
+2024-12-26,Spain,Belgium,3,0,Nations League,0
+2024-12-26,Japan,Costa Rica,4,0,World Cup Qualification,1
+2024-12-26,Canada,Netherlands,2,0,Africa Cup of Nations,0
+2024-12-26,USA,Ghana,2,0,Africa Cup of Nations,1
+2024-12-26,Croatia,New Zealand,0,0,Copa America,1
+2024-12-26,Colombia,Uruguay,0,0,Friendly,1
+2025-01-18,Morocco,Mexico,0,1,World Cup Qualification,0
+2025-01-18,Australia,Tunisia,0,0,Copa America,1
+2025-01-18,Denmark,USA,0,1,UEFA Euro,1
+2025-01-18,Uzbekistan,Australia,2,3,UEFA Euro,1
+2025-01-18,South Africa,Poland,1,1,UEFA Euro,0
+2025-01-18,New Zealand,Canada,2,0,Africa Cup of Nations,0
+2025-01-18,Saudi Arabia,France,2,0,World Cup Qualification,0
+2025-01-18,Ukraine,Cameroon,5,0,Friendly,0
+2025-01-18,Poland,Turkey,3,1,World Cup Qualification,0
+2025-01-18,Panama,Portugal,0,0,Copa America,1
+2025-01-18,England,Costa Rica,0,3,UEFA Euro,0
+2025-01-18,Poland,South Korea,0,0,World Cup Qualification,1
+2025-02-06,Belgium,Costa Rica,0,0,Africa Cup of Nations,1
+2025-02-06,Switzerland,Nigeria,1,0,Africa Cup of Nations,1
+2025-02-06,Sweden,France,0,4,World Cup Qualification,0
+2025-02-06,Croatia,Ukraine,0,1,World Cup Qualification,1
+2025-02-06,Japan,Panama,2,2,World Cup Qualification,1
+2025-02-06,New Zealand,Egypt,0,0,World Cup Qualification,1
+2025-02-06,Ecuador,Cameroon,0,0,UEFA Euro,1
+2025-02-06,Japan,Algeria,0,1,Copa America,1
+2025-02-06,Uruguay,Nigeria,3,5,World Cup Qualification,0
+2025-02-06,Chile,Uruguay,0,0,Africa Cup of Nations,0
+2025-02-06,Peru,Morocco,0,3,AFC Asian Cup,1
+2025-02-06,Iraq,Argentina,3,0,Africa Cup of Nations,1
+2025-02-06,Turkey,Chile,0,0,Copa America,0
+2025-02-06,Argentina,South Korea,3,0,World Cup Qualification,0
+2025-02-21,Mexico,Panama,0,1,Nations League,1
+2025-02-21,Tunisia,Croatia,2,2,Nations League,0
+2025-02-21,Senegal,Austria,2,0,Africa Cup of Nations,0
+2025-02-21,Iran,Canada,3,0,Friendly,0
+2025-02-21,Qatar,Uzbekistan,2,0,Friendly,1
+2025-02-21,Peru,Australia,4,0,Africa Cup of Nations,0
+2025-02-21,Senegal,Croatia,0,2,World Cup Qualification,1
+2025-02-21,Wales,Senegal,2,0,UEFA Euro,1
+2025-02-21,Canada,Italy,2,3,Friendly,1
+2025-02-21,Cameroon,Egypt,0,4,Copa America,1
+2025-02-21,USA,Saudi Arabia,0,2,AFC Asian Cup,1
+2025-02-21,Belgium,France,0,1,AFC Asian Cup,0
+2025-02-21,Cameroon,Argentina,4,3,Nations League,0
+2025-03-14,Senegal,Argentina,0,0,Africa Cup of Nations,0
+2025-03-14,Spain,Mexico,0,0,UEFA Euro,0
+2025-03-14,Belgium,New Zealand,1,0,Africa Cup of Nations,0
+2025-03-14,Australia,Egypt,0,3,UEFA Euro,1
+2025-03-14,Cameroon,Morocco,0,0,UEFA Euro,1
+2025-03-14,Uzbekistan,Canada,1,3,Friendly,1
+2025-03-14,Ukraine,Ecuador,3,0,UEFA Euro,0
+2025-03-14,Argentina,Nigeria,1,0,World Cup Qualification,0
+2025-03-14,Netherlands,France,4,2,Nations League,1
+2025-03-14,Sweden,Iran,0,0,AFC Asian Cup,0
+2025-03-14,Iran,Tunisia,1,1,Nations League,1
+2025-03-14,Argentina,Chile,1,0,Copa America,1
+2025-03-14,England,Cameroon,0,0,Nations League,1
+2025-03-14,Chile,Iraq,0,0,Africa Cup of Nations,1
+2025-03-14,Turkey,Iraq,0,2,Copa America,1
+2025-03-14,Ukraine,Nigeria,3,0,Nations League,0
+2025-03-14,Senegal,Australia,0,0,Nations League,0
+2025-03-14,Wales,Qatar,0,0,Nations League,1
+2025-03-14,Senegal,Belgium,0,1,Copa America,1
+2025-03-30,Chile,Ukraine,1,1,AFC Asian Cup,0
+2025-03-30,Canada,France,0,2,Copa America,0
+2025-03-30,South Africa,Iran,0,1,Nations League,1
+2025-03-30,Cameroon,Saudi Arabia,3,0,UEFA Euro,1
+2025-03-30,Costa Rica,Italy,0,0,UEFA Euro,0
+2025-03-30,Cameroon,Croatia,0,2,Africa Cup of Nations,0
+2025-03-30,Uruguay,Germany,1,2,Copa America,0
+2025-03-30,Austria,Turkey,3,3,Copa America,1
+2025-03-30,Ecuador,Jamaica,3,0,Copa America,1
+2025-03-30,Sweden,Tunisia,1,0,AFC Asian Cup,1
+2025-03-30,Mexico,Canada,1,2,Nations League,0
+2025-03-30,Qatar,South Korea,0,0,Africa Cup of Nations,1
+2025-03-30,Iran,Ghana,0,0,World Cup Qualification,0
+2025-03-30,Ghana,Tunisia,0,0,Friendly,0
+2025-03-30,Saudi Arabia,Wales,2,0,AFC Asian Cup,1
+2025-03-30,Egypt,Croatia,1,0,Copa America,0
+2025-03-30,Australia,South Africa,2,0,Nations League,1
+2025-03-30,South Africa,England,1,0,AFC Asian Cup,0
+2025-03-30,Argentina,Costa Rica,1,0,AFC Asian Cup,0
+2025-03-30,Canada,South Korea,0,3,Nations League,1
+2025-03-30,Netherlands,South Africa,2,0,Friendly,1
+2025-03-30,Morocco,Turkey,2,0,Friendly,0
+2025-04-12,Argentina,Senegal,0,0,AFC Asian Cup,1
+2025-04-12,Canada,Ghana,2,0,World Cup Qualification,0
+2025-04-12,Peru,Sweden,3,0,World Cup Qualification,1
+2025-04-12,Ecuador,Germany,0,1,Copa America,0
+2025-04-12,Jamaica,Portugal,0,1,UEFA Euro,0
+2025-04-12,Croatia,Colombia,4,0,UEFA Euro,0
+2025-04-12,Tunisia,Croatia,2,0,Nations League,1
+2025-04-12,New Zealand,Ukraine,0,1,World Cup Qualification,1
+2025-04-12,USA,England,3,0,UEFA Euro,1
+2025-04-12,New Zealand,Germany,3,3,Copa America,0
+2025-04-12,USA,New Zealand,2,0,Copa America,1
+2025-04-12,Sweden,Mexico,2,0,AFC Asian Cup,0
+2025-04-12,Chile,Argentina,0,0,Copa America,1
+2025-04-22,USA,Chile,1,0,AFC Asian Cup,1
+2025-04-22,Spain,Uruguay,1,1,UEFA Euro,1
+2025-04-22,Austria,Jamaica,4,0,AFC Asian Cup,1
+2025-04-22,Qatar,Peru,2,0,Copa America,1
+2025-04-22,Denmark,Chile,1,4,UEFA Euro,0
+2025-04-22,Tunisia,Ghana,2,3,Friendly,0
+2025-04-22,Belgium,Brazil,0,3,Africa Cup of Nations,0
+2025-04-22,Iraq,Algeria,0,0,Nations League,1
+2025-04-22,Jamaica,Colombia,0,3,Copa America,0
+2025-04-22,Ukraine,Panama,1,0,UEFA Euro,0
+2025-04-22,Peru,South Africa,1,2,Nations League,0
+2025-04-22,South Africa,Iran,2,0,Friendly,1
+2025-04-22,Uruguay,USA,1,0,AFC Asian Cup,1
+2025-04-22,Italy,Turkey,0,0,AFC Asian Cup,1
+2025-04-22,Jamaica,Colombia,3,3,UEFA Euro,1
+2025-04-22,Saudi Arabia,Ecuador,0,0,Copa America,0
+2025-05-13,Senegal,Belgium,1,1,UEFA Euro,1
+2025-05-13,Iraq,New Zealand,3,0,Friendly,0
+2025-05-13,Panama,Turkey,2,4,Africa Cup of Nations,0
+2025-05-13,Algeria,Saudi Arabia,0,1,Africa Cup of Nations,1
+2025-05-13,Chile,Brazil,1,3,Friendly,1
+2025-05-13,Ecuador,Chile,0,0,UEFA Euro,0
+2025-05-13,Australia,Poland,1,1,World Cup Qualification,1
+2025-05-13,France,Belgium,0,0,UEFA Euro,1
+2025-05-13,Brazil,Argentina,0,0,Nations League,0
+2025-05-13,Algeria,Croatia,2,0,Nations League,0
+2025-05-13,South Korea,Morocco,0,0,UEFA Euro,0
+2025-05-13,South Korea,Chile,1,0,UEFA Euro,1
+2025-05-13,Uruguay,New Zealand,2,0,Nations League,1
+2025-05-13,Mexico,Colombia,1,0,Copa America,0
+2025-05-13,Belgium,Sweden,1,2,Copa America,1
+2025-05-13,Iran,New Zealand,3,0,UEFA Euro,1
+2025-05-13,Iraq,Germany,0,2,UEFA Euro,1
+2025-05-13,Cameroon,Wales,2,0,World Cup Qualification,1
+2025-05-13,Wales,South Africa,0,0,UEFA Euro,1
+2025-05-13,Ghana,Uzbekistan,2,3,Africa Cup of Nations,0
+2025-05-13,Jamaica,Morocco,1,3,UEFA Euro,1
+2025-05-13,Ukraine,Tunisia,3,0,Friendly,0
+2025-05-13,Wales,Nigeria,1,0,Africa Cup of Nations,0
+2025-05-13,Iraq,Colombia,0,0,UEFA Euro,0
+2025-05-29,Chile,Argentina,0,1,UEFA Euro,0
+2025-05-29,England,Ghana,0,0,World Cup Qualification,1
+2025-05-29,Portugal,Austria,1,0,AFC Asian Cup,0
+2025-05-29,Qatar,Peru,0,0,Copa America,0
+2025-05-29,Denmark,Switzerland,2,2,Nations League,0
+2025-05-29,Croatia,Iran,0,0,World Cup Qualification,0
+2025-05-29,Argentina,Brazil,0,0,Africa Cup of Nations,0
+2025-05-29,Algeria,Netherlands,0,1,Africa Cup of Nations,1
+2025-05-29,Wales,Australia,2,1,Africa Cup of Nations,0
+2025-05-29,South Korea,South Africa,0,2,Africa Cup of Nations,0
+2025-05-29,Denmark,Japan,3,2,UEFA Euro,0
+2025-05-29,France,Austria,0,0,AFC Asian Cup,1
+2025-05-29,Spain,Japan,1,0,Africa Cup of Nations,0
+2025-05-29,Algeria,Switzerland,0,0,UEFA Euro,0
+2025-05-29,Saudi Arabia,France,1,1,AFC Asian Cup,0
+2025-05-29,Colombia,Peru,1,1,UEFA Euro,1
+2025-05-29,Wales,Ghana,2,0,AFC Asian Cup,1
+2025-05-29,Saudi Arabia,Argentina,0,4,AFC Asian Cup,1
+2025-05-29,Ghana,Tunisia,1,0,Friendly,1
+2025-05-29,Netherlands,USA,1,0,Africa Cup of Nations,1
+2025-05-29,Switzerland,Costa Rica,0,0,Nations League,1
+2025-05-29,Saudi Arabia,Iran,0,0,AFC Asian Cup,1
+2025-05-29,Switzerland,Ghana,0,0,UEFA Euro,0
+2025-05-29,Costa Rica,Tunisia,0,1,UEFA Euro,1
+2025-06-21,Ecuador,Australia,0,0,AFC Asian Cup,0
+2025-06-21,South Korea,Austria,1,0,UEFA Euro,1
+2025-06-21,South Africa,South Korea,3,0,Friendly,0
+2025-06-21,Egypt,Algeria,0,0,World Cup Qualification,0
+2025-06-21,Cameroon,Senegal,4,1,Copa America,0
+2025-06-21,Switzerland,Uzbekistan,1,0,Friendly,1
+2025-06-21,Croatia,Canada,2,2,UEFA Euro,1
+2025-06-21,USA,Switzerland,3,3,Copa America,0
+2025-06-21,USA,Senegal,1,0,AFC Asian Cup,0
+2025-06-21,Colombia,Peru,2,0,UEFA Euro,1
+2025-06-21,South Africa,Algeria,1,4,UEFA Euro,0
+2025-06-21,Turkey,Ukraine,1,1,World Cup Qualification,1
+2025-06-21,Switzerland,Nigeria,0,3,Copa America,1
+2025-06-21,Colombia,Switzerland,0,0,Nations League,1
+2025-06-21,Cameroon,Portugal,0,4,UEFA Euro,1
+2025-06-21,Australia,South Korea,0,0,AFC Asian Cup,0
+2025-06-21,Switzerland,Belgium,1,0,UEFA Euro,0
+2025-06-21,Chile,Netherlands,1,0,Friendly,0
+2025-06-21,Nigeria,Costa Rica,2,3,Copa America,1
+2025-06-21,Qatar,Uzbekistan,1,0,World Cup Qualification,1
+2025-06-21,Wales,Mexico,1,1,Friendly,1
+2025-07-06,Portugal,Poland,3,0,UEFA Euro,0
+2025-07-06,Switzerland,Senegal,0,2,AFC Asian Cup,0
+2025-07-06,Italy,Ecuador,3,0,AFC Asian Cup,1
+2025-07-06,Canada,Ghana,1,2,UEFA Euro,1
+2025-07-06,Qatar,Japan,0,3,Copa America,1
+2025-07-06,Ghana,Egypt,2,2,Friendly,0
+2025-07-06,USA,Tunisia,2,0,Friendly,0
+2025-07-06,Italy,Tunisia,0,0,Friendly,1
+2025-07-06,Argentina,Nigeria,5,0,Copa America,0
+2025-07-06,Egypt,Cameroon,2,0,AFC Asian Cup,0
+2025-07-06,Wales,Senegal,0,4,Friendly,0
+2025-07-06,Spain,Canada,1,1,Friendly,1
+2025-07-19,Spain,Morocco,0,0,World Cup Qualification,1
+2025-07-19,Colombia,Costa Rica,2,0,Nations League,1
+2025-07-19,Jamaica,Saudi Arabia,1,0,Nations League,1
+2025-07-19,Belgium,Qatar,3,1,Friendly,1
+2025-07-19,Denmark,Mexico,2,4,Africa Cup of Nations,1
+2025-07-19,Nigeria,Belgium,3,3,Friendly,1
+2025-07-19,Cameroon,Austria,2,1,Africa Cup of Nations,0
+2025-07-19,Uzbekistan,Qatar,0,0,Friendly,0
+2025-07-19,Portugal,Cameroon,0,0,World Cup Qualification,1
+2025-07-19,Senegal,Denmark,2,0,Copa America,1
+2025-07-19,Uruguay,Costa Rica,1,0,Africa Cup of Nations,1
+2025-07-19,Ghana,Qatar,2,0,Copa America,0
+2025-07-19,Sweden,Poland,2,0,Africa Cup of Nations,0
+2025-07-19,Peru,Saudi Arabia,0,4,Nations League,1
+2025-07-19,Jamaica,Canada,2,2,AFC Asian Cup,0
+2025-07-19,Brazil,Tunisia,0,0,UEFA Euro,0
+2025-07-19,Japan,Sweden,0,1,UEFA Euro,0
+2025-07-19,Iran,Japan,1,2,UEFA Euro,0
+2025-07-19,Belgium,Senegal,1,0,Copa America,0
+2025-07-19,Panama,Qatar,2,0,Friendly,1
+2025-07-19,Australia,Wales,0,1,Friendly,0
+2025-07-19,Iran,Netherlands,0,1,Friendly,1
+2025-07-31,Iran,England,0,2,Copa America,1
+2025-07-31,Chile,Jamaica,2,0,AFC Asian Cup,1
+2025-07-31,Uzbekistan,Mexico,0,1,World Cup Qualification,1
+2025-07-31,Algeria,Turkey,0,2,Nations League,1
+2025-07-31,Denmark,Croatia,2,1,Friendly,1
+2025-07-31,Japan,Mexico,1,1,Friendly,0
+2025-07-31,France,Germany,2,4,AFC Asian Cup,0
+2025-07-31,USA,Mexico,3,0,Nations League,0
+2025-07-31,Peru,Poland,2,0,UEFA Euro,0
+2025-07-31,Denmark,USA,2,0,Africa Cup of Nations,1
+2025-07-31,Panama,Iraq,2,0,AFC Asian Cup,0
+2025-07-31,New Zealand,South Korea,3,0,Copa America,1
+2025-07-31,England,Morocco,2,0,UEFA Euro,1
+2025-07-31,Morocco,Nigeria,2,0,AFC Asian Cup,0
+2025-07-31,Cameroon,England,0,2,AFC Asian Cup,0
+2025-07-31,Argentina,Cameroon,0,0,Friendly,1
+2025-07-31,Panama,Poland,3,0,AFC Asian Cup,1
+2025-07-31,Poland,Uruguay,1,3,Copa America,0
+2025-07-31,Spain,South Africa,2,0,AFC Asian Cup,1
+2025-08-11,France,Sweden,0,0,AFC Asian Cup,0
+2025-08-11,Qatar,Brazil,0,1,World Cup Qualification,1
+2025-08-11,Belgium,France,2,2,Africa Cup of Nations,1
+2025-08-11,Denmark,Turkey,2,0,AFC Asian Cup,1
+2025-08-11,England,Ukraine,2,3,Friendly,1
+2025-08-11,USA,Ghana,2,4,AFC Asian Cup,1
+2025-08-11,Argentina,Mexico,3,0,Nations League,1
+2025-08-11,Belgium,Nigeria,0,0,Africa Cup of Nations,1
+2025-08-11,Netherlands,Belgium,1,0,Africa Cup of Nations,0
+2025-08-11,Iraq,Switzerland,0,4,Nations League,0
+2025-08-11,Croatia,Argentina,0,0,Nations League,1
+2025-08-11,Tunisia,Italy,2,3,World Cup Qualification,1
+2025-08-11,Egypt,Colombia,0,0,World Cup Qualification,1
+2025-08-11,Portugal,USA,5,0,Nations League,1
+2025-08-11,Germany,New Zealand,2,0,Africa Cup of Nations,0
+2025-08-11,Spain,Chile,0,0,World Cup Qualification,1
+2025-08-11,Egypt,Italy,0,0,UEFA Euro,0
+2025-08-11,Wales,Netherlands,4,3,Nations League,1
+2025-08-11,Italy,Portugal,0,2,Nations League,1
+2025-08-11,Chile,Brazil,0,0,Friendly,0
+2025-08-11,Peru,South Korea,1,0,Nations League,1
+2025-08-11,South Africa,Iran,2,0,Nations League,1
+2025-08-11,Algeria,Iran,2,0,Friendly,0
+2025-08-11,Canada,Qatar,1,0,Copa America,0
+2025-08-11,New Zealand,Wales,1,0,Copa America,0
+2025-08-29,Panama,Austria,0,0,Africa Cup of Nations,1
+2025-08-29,Turkey,Jamaica,0,0,Nations League,0
+2025-08-29,USA,Italy,2,1,Copa America,1
+2025-08-29,Cameroon,Peru,1,0,Friendly,0
+2025-08-29,Switzerland,Colombia,0,1,UEFA Euro,0
+2025-08-29,Ecuador,Ukraine,0,0,Friendly,0
+2025-08-29,Saudi Arabia,Chile,1,2,Copa America,1
+2025-08-29,France,USA,3,0,Nations League,0
+2025-08-29,USA,South Korea,2,1,UEFA Euro,0
+2025-08-29,Iran,Panama,0,0,Africa Cup of Nations,0
+2025-08-29,Denmark,Austria,2,0,Africa Cup of Nations,0
+2025-08-29,Netherlands,New Zealand,2,2,Africa Cup of Nations,0
+2025-08-29,Peru,Australia,1,0,Africa Cup of Nations,1
+2025-08-29,Spain,Cameroon,0,0,Africa Cup of Nations,1
+2025-08-29,Croatia,Iraq,1,0,Friendly,1
+2025-08-29,Belgium,Croatia,1,0,Africa Cup of Nations,1
+2025-09-20,South Korea,Iraq,0,1,Copa America,1
+2025-09-20,Panama,Belgium,1,0,Copa America,0
+2025-09-20,Ukraine,Japan,2,1,UEFA Euro,1
+2025-09-20,Canada,Wales,2,1,Africa Cup of Nations,0
+2025-09-20,England,Sweden,0,0,Copa America,0
+2025-09-20,Denmark,Algeria,2,1,UEFA Euro,1
+2025-09-20,Switzerland,Italy,0,1,World Cup Qualification,1
+2025-09-20,Qatar,England,0,3,Nations League,1
+2025-09-20,Algeria,Netherlands,0,0,Africa Cup of Nations,0
+2025-09-20,France,Morocco,0,0,World Cup Qualification,0
+2025-09-20,Ghana,Japan,0,2,Nations League,1
+2025-09-20,England,Chile,3,5,Nations League,1
+2025-09-20,Denmark,Canada,0,3,World Cup Qualification,0
+2025-09-20,Italy,Ecuador,0,0,World Cup Qualification,1
+2025-09-20,New Zealand,Turkey,0,3,Nations League,0
+2025-09-20,Brazil,New Zealand,3,0,Copa America,1
+2025-09-20,Senegal,Poland,0,0,Copa America,1
+2025-09-20,Canada,Morocco,0,0,Friendly,1
+2025-09-20,Ghana,England,0,1,Africa Cup of Nations,1
+2025-09-20,Italy,Jamaica,1,4,UEFA Euro,1
+2025-09-20,Iraq,Canada,2,1,Copa America,1
+2025-09-20,Morocco,Panama,0,0,Africa Cup of Nations,0
+2025-09-20,Italy,Qatar,2,0,Nations League,0
+2025-09-20,Portugal,Panama,0,0,Nations League,1
+2025-09-20,Germany,Turkey,1,0,World Cup Qualification,0
+2025-10-02,Wales,Nigeria,1,0,Friendly,0
+2025-10-02,Denmark,South Korea,1,0,AFC Asian Cup,1
+2025-10-02,Jamaica,Egypt,3,0,Africa Cup of Nations,0
+2025-10-02,Brazil,Spain,0,3,Friendly,1
+2025-10-02,Saudi Arabia,Italy,0,0,UEFA Euro,0
+2025-10-02,Morocco,Austria,0,0,Friendly,0
+2025-10-02,Iran,Spain,2,1,AFC Asian Cup,0
+2025-10-02,Germany,Spain,1,1,Nations League,0
+2025-10-02,Ukraine,Uruguay,1,0,Africa Cup of Nations,0
+2025-10-02,Nigeria,Senegal,2,0,AFC Asian Cup,0
+2025-10-02,Iraq,Qatar,2,0,Copa America,1
+2025-10-02,France,Italy,0,3,AFC Asian Cup,1
+2025-10-02,Uzbekistan,New Zealand,2,0,Nations League,1
+2025-10-02,Argentina,Belgium,1,0,Friendly,1
+2025-10-02,Mexico,Algeria,2,0,Friendly,1
+2025-10-02,Saudi Arabia,Iraq,2,0,Nations League,1
+2025-10-02,Jamaica,Italy,0,1,World Cup Qualification,1
+2025-10-02,Chile,Turkey,1,4,Nations League,0
+2025-10-02,Uzbekistan,South Korea,0,0,AFC Asian Cup,0
+2025-10-02,Uruguay,Jamaica,1,0,World Cup Qualification,1
+2025-10-16,Iraq,Mexico,3,1,Nations League,0
+2025-10-16,Tunisia,France,0,1,UEFA Euro,1
+2025-10-16,Iraq,Uzbekistan,0,0,World Cup Qualification,1
+2025-10-16,England,Colombia,3,0,AFC Asian Cup,1
+2025-10-16,Iran,Spain,2,2,Friendly,0
+2025-10-16,Portugal,Spain,2,0,World Cup Qualification,0
+2025-10-16,Jamaica,Argentina,0,0,Copa America,0
+2025-10-16,South Korea,Belgium,0,0,AFC Asian Cup,0
+2025-10-16,Switzerland,Uruguay,1,3,Africa Cup of Nations,1
+2025-10-16,Sweden,Algeria,0,0,Nations League,0
+2025-10-16,France,Spain,1,0,Copa America,1
+2025-11-07,Poland,Australia,2,3,Africa Cup of Nations,0
+2025-11-07,Croatia,Iraq,3,0,Nations League,0
+2025-11-07,Spain,Argentina,1,0,Copa America,0
+2025-11-07,Jamaica,Spain,1,2,Nations League,0
+2025-11-07,Uruguay,Qatar,0,0,Africa Cup of Nations,1
+2025-11-07,South Korea,Portugal,0,1,UEFA Euro,0
+2025-11-07,Iraq,Germany,0,0,AFC Asian Cup,1
+2025-11-07,Iran,Switzerland,0,2,Copa America,0
+2025-11-07,USA,Ghana,0,0,Copa America,1
+2025-11-07,Denmark,South Africa,1,0,Nations League,1
+2025-11-07,Netherlands,Cameroon,1,4,UEFA Euro,1
+2025-11-07,Belgium,Colombia,0,1,Nations League,1
+2025-11-07,Uruguay,Canada,2,1,World Cup Qualification,1
+2025-11-07,Egypt,Argentina,0,0,Copa America,1
+2025-11-07,South Africa,New Zealand,3,0,Copa America,1
+2025-11-07,Panama,Uruguay,0,2,World Cup Qualification,1
+2025-11-07,Costa Rica,Morocco,0,2,AFC Asian Cup,0
+2025-11-07,Belgium,Uruguay,0,0,UEFA Euro,1
+2025-11-07,Germany,Iran,0,0,AFC Asian Cup,1
+2025-11-07,Croatia,France,0,1,AFC Asian Cup,1
+2025-11-07,Mexico,Costa Rica,1,4,World Cup Qualification,0
+2025-11-07,Brazil,Ecuador,2,1,AFC Asian Cup,0
+2025-11-21,Tunisia,England,0,0,Friendly,1
+2025-11-21,Qatar,Egypt,2,0,Africa Cup of Nations,1
+2025-11-21,Sweden,Brazil,0,0,Africa Cup of Nations,0
+2025-11-21,Ghana,Ecuador,0,2,UEFA Euro,1
+2025-11-21,Ghana,Sweden,1,1,World Cup Qualification,1
+2025-11-21,South Korea,Argentina,4,1,World Cup Qualification,0
+2025-11-21,Wales,Denmark,0,1,AFC Asian Cup,1
+2025-11-21,Germany,Chile,1,0,Copa America,0
+2025-11-21,Egypt,Canada,3,3,AFC Asian Cup,1
+2025-11-21,Tunisia,Iran,2,3,Copa America,0
+2025-11-21,Austria,Japan,1,0,Nations League,0
+2025-11-21,Cameroon,Nigeria,1,2,Africa Cup of Nations,1
+2025-11-21,Croatia,Iraq,1,2,Nations League,0
+2025-11-21,Ecuador,Jamaica,1,2,Africa Cup of Nations,0
+2025-11-21,England,Algeria,3,0,AFC Asian Cup,0
+2025-11-21,Ghana,Spain,0,1,Africa Cup of Nations,0
+2025-11-21,Jamaica,Peru,2,2,AFC Asian Cup,0
+2025-11-21,Brazil,France,0,0,World Cup Qualification,1
+2025-11-21,Turkey,Australia,0,3,Friendly,0
+2025-11-21,Tunisia,Switzerland,0,0,UEFA Euro,1
+2025-11-21,Argentina,Uzbekistan,3,0,Copa America,1
+2025-11-21,Tunisia,Uruguay,3,1,Africa Cup of Nations,0
+2025-11-21,Netherlands,Uzbekistan,1,0,Friendly,0
+2025-11-21,South Africa,Netherlands,0,1,Copa America,1
+2025-12-08,USA,Wales,0,3,Friendly,0
+2025-12-08,Austria,Tunisia,0,3,Nations League,1
+2025-12-08,Saudi Arabia,Portugal,2,1,Copa America,1
+2025-12-08,Uruguay,Ukraine,2,0,Nations League,1
+2025-12-08,Chile,Cameroon,0,1,AFC Asian Cup,1
+2025-12-08,Iran,Brazil,0,3,Friendly,1
+2025-12-08,Portugal,Ecuador,0,0,Friendly,1
+2025-12-08,Netherlands,Croatia,1,0,World Cup Qualification,0
+2025-12-08,Jamaica,Switzerland,1,2,Copa America,0
+2025-12-08,Argentina,Canada,0,0,Nations League,1
+2025-12-08,Italy,Uzbekistan,3,0,Copa America,0
+2025-12-08,Jamaica,Wales,0,1,Africa Cup of Nations,1
+2025-12-08,Ecuador,Saudi Arabia,1,0,World Cup Qualification,1
+2025-12-26,New Zealand,Costa Rica,0,4,Friendly,1
+2025-12-26,Argentina,France,0,0,Nations League,0
+2025-12-26,Wales,Portugal,1,0,UEFA Euro,0
+2025-12-26,Nigeria,Germany,0,2,Africa Cup of Nations,0
+2025-12-26,Uzbekistan,Germany,0,0,AFC Asian Cup,0
+2025-12-26,Japan,Qatar,0,1,Friendly,1
+2025-12-26,South Korea,Ecuador,3,1,UEFA Euro,1
+2025-12-26,Turkey,Costa Rica,0,0,Nations League,1
+2025-12-26,Saudi Arabia,Morocco,0,0,World Cup Qualification,0
+2025-12-26,Ghana,Iraq,0,0,Copa America,1
+2025-12-26,Croatia,Jamaica,3,0,Africa Cup of Nations,0
+2025-12-26,Portugal,England,1,0,AFC Asian Cup,1
+2026-01-10,Tunisia,Brazil,0,2,Copa America,0
+2026-01-10,Uruguay,Germany,2,2,UEFA Euro,1
+2026-01-10,Switzerland,Egypt,0,0,Africa Cup of Nations,0
+2026-01-10,Morocco,Poland,2,0,Friendly,0
+2026-01-10,Turkey,Belgium,3,0,Copa America,0
+2026-01-10,Netherlands,Qatar,0,0,World Cup Qualification,0
+2026-01-10,Japan,South Africa,1,3,UEFA Euro,1
+2026-01-10,New Zealand,Iraq,2,0,World Cup Qualification,0
+2026-01-10,Cameroon,Brazil,0,1,World Cup Qualification,1
+2026-01-10,Wales,Austria,3,0,World Cup Qualification,1
+2026-01-30,Morocco,Senegal,1,0,Friendly,0
+2026-01-30,Italy,Iran,0,0,Friendly,0
+2026-01-30,Austria,Egypt,0,1,Nations League,0
+2026-01-30,Turkey,Morocco,1,0,World Cup Qualification,0
+2026-01-30,Uzbekistan,Morocco,0,1,Friendly,1
+2026-01-30,Iran,England,2,2,Friendly,0
+2026-01-30,Egypt,Turkey,1,0,Friendly,0
+2026-01-30,Mexico,Australia,1,0,Africa Cup of Nations,0
+2026-01-30,Panama,Tunisia,2,0,Africa Cup of Nations,1
+2026-01-30,Cameroon,Netherlands,3,2,Africa Cup of Nations,0
+2026-01-30,Spain,Poland,4,1,Friendly,1
+2026-01-30,Uruguay,Wales,0,4,UEFA Euro,0
+2026-01-30,Iran,Jamaica,1,0,Friendly,0
+2026-01-30,Ukraine,Brazil,0,2,Copa America,1
+2026-01-30,Ghana,Wales,2,0,Copa America,1
+2026-01-30,Italy,Chile,2,3,Friendly,1
+2026-01-30,Qatar,Colombia,0,0,World Cup Qualification,0
+2026-01-30,Tunisia,Senegal,2,1,World Cup Qualification,0
+2026-01-30,Spain,Jamaica,2,0,Nations League,0
+2026-01-30,Switzerland,Denmark,0,2,Africa Cup of Nations,1
+2026-02-12,Denmark,Qatar,1,2,Africa Cup of Nations,1
+2026-02-12,Ghana,Iran,2,0,AFC Asian Cup,0
+2026-02-12,South Africa,France,2,1,Friendly,0
+2026-02-12,Turkey,Jamaica,0,0,Nations League,1
+2026-02-12,Ghana,Algeria,0,3,Copa America,1
+2026-02-12,Jamaica,Japan,2,0,AFC Asian Cup,0
+2026-02-12,Canada,Germany,1,0,Africa Cup of Nations,1
+2026-02-12,Egypt,Qatar,0,3,World Cup Qualification,1
+2026-02-12,Costa Rica,Croatia,1,0,Nations League,0
+2026-02-12,Algeria,Mexico,2,0,UEFA Euro,0
+2026-02-12,Iraq,Netherlands,1,3,Nations League,1
+2026-02-12,Senegal,Qatar,3,3,AFC Asian Cup,0
+2026-02-12,Ukraine,Costa Rica,2,0,Friendly,1
+2026-02-12,Switzerland,Netherlands,2,1,AFC Asian Cup,0
+2026-02-12,Brazil,Saudi Arabia,0,2,Nations League,1
+2026-02-12,Colombia,England,2,0,Nations League,1
+2026-02-12,Uruguay,Croatia,1,0,Copa America,1
+2026-02-12,Saudi Arabia,Germany,0,3,Copa America,1
+2026-02-12,Germany,Costa Rica,3,1,AFC Asian Cup,0
+2026-02-12,Morocco,Mexico,0,0,AFC Asian Cup,0
+2026-02-12,South Africa,Brazil,4,0,World Cup Qualification,1
+2026-02-12,Iraq,France,0,0,Copa America,1
+2026-02-12,Spain,England,0,0,UEFA Euro,1
+2026-02-12,Qatar,Japan,3,1,UEFA Euro,0
+2026-02-12,Brazil,Panama,0,0,Friendly,0
+2026-03-09,Uzbekistan,USA,0,0,Friendly,1
+2026-03-09,Japan,Tunisia,2,4,Nations League,1
+2026-03-09,Croatia,Spain,1,2,World Cup Qualification,1
+2026-03-09,New Zealand,Tunisia,0,0,Nations League,1
+2026-03-09,Costa Rica,Cameroon,3,0,Africa Cup of Nations,1
+2026-03-09,New Zealand,Argentina,0,3,Friendly,0
+2026-03-09,Belgium,Italy,2,2,Copa America,1
+2026-03-09,Japan,Iran,0,0,World Cup Qualification,1
+2026-03-09,Colombia,Ghana,3,0,Africa Cup of Nations,0
+2026-03-09,Egypt,USA,2,2,Africa Cup of Nations,1
+2026-03-30,Ukraine,Algeria,0,0,UEFA Euro,0
+2026-03-30,Cameroon,USA,0,0,World Cup Qualification,0
+2026-03-30,Chile,Egypt,3,1,World Cup Qualification,0
+2026-03-30,Belgium,Denmark,0,1,World Cup Qualification,1
+2026-03-30,Netherlands,Nigeria,0,1,World Cup Qualification,1
+2026-03-30,Saudi Arabia,Australia,0,0,Africa Cup of Nations,1
+2026-03-30,Switzerland,Germany,4,0,AFC Asian Cup,1
+2026-03-30,Morocco,Brazil,0,0,World Cup Qualification,0
+2026-03-30,Qatar,Ghana,0,0,UEFA Euro,1
+2026-03-30,Algeria,Japan,0,1,Africa Cup of Nations,1
+2026-03-30,Panama,Algeria,0,3,Nations League,1
+2026-03-30,Wales,Chile,2,1,Nations League,1
+2026-04-24,Netherlands,Brazil,0,0,AFC Asian Cup,1
+2026-04-24,Croatia,Cameroon,0,0,Nations League,1
+2026-04-24,Sweden,England,0,2,Africa Cup of Nations,1
+2026-04-24,Germany,Croatia,0,0,Nations League,1
+2026-04-24,Uzbekistan,Mexico,0,0,AFC Asian Cup,0
+2026-04-24,Portugal,Saudi Arabia,2,0,Copa America,0
+2026-04-24,South Africa,Egypt,0,1,AFC Asian Cup,1
+2026-04-24,Peru,Qatar,1,0,UEFA Euro,1
+2026-04-24,Iraq,Tunisia,3,0,Nations League,0
+2026-04-24,Canada,Spain,0,1,World Cup Qualification,0
+2026-04-24,France,Mexico,0,3,Friendly,1
+2026-04-24,New Zealand,Poland,3,1,Friendly,1
+2026-04-24,Belgium,Nigeria,1,1,Africa Cup of Nations,1
+2026-04-24,Colombia,Qatar,2,0,Friendly,1
+2026-04-24,Mexico,Poland,3,1,World Cup Qualification,1
+2026-04-24,Turkey,Austria,2,0,AFC Asian Cup,0
+2026-04-24,Senegal,Sweden,5,0,Friendly,0
+2026-04-24,Australia,Ukraine,1,1,Nations League,1
+2026-04-24,Ecuador,Saudi Arabia,1,0,Africa Cup of Nations,0
+2026-04-24,Iraq,Algeria,1,4,Africa Cup of Nations,0
+2026-04-24,Egypt,Chile,2,2,UEFA Euro,0
+2026-04-24,Qatar,Egypt,0,0,Copa America,0
+2026-04-24,Costa Rica,Chile,4,1,Nations League,0

@@ -1,0 +1,1105 @@
+name,country,position,overall_rating,pace,shooting,passing,defending,stamina,injury_risk,goals_last_season,assists_last_season
+Lionel Messi,Argentina,FWD,90,80,88,88,35,75,15,20,18
+Lautaro Martinez,Argentina,FWD,87,80,86,72,45,85,10,24,6
+Alexis Mac Allister,Argentina,MID,85,72,78,84,78,86,12,8,10
+Player 4,Argentina,GK,93,73,68,78,63,91,5,0,1
+Player 5,Argentina,GK,89,69,64,74,59,74,23,1,0
+Player 6,Argentina,GK,89,69,64,74,59,72,11,5,0
+Player 7,Argentina,DEF,90,70,65,75,98,77,26,1,0
+Player 8,Argentina,DEF,91,71,66,76,91,80,34,2,1
+Player 9,Argentina,DEF,95,75,70,80,94,84,28,0,2
+Player 10,Argentina,DEF,91,71,66,76,89,81,32,1,1
+Player 11,Argentina,DEF,93,73,68,78,95,78,43,0,2
+Player 12,Argentina,DEF,90,70,65,75,86,72,41,2,1
+Player 13,Argentina,DEF,95,75,70,80,99,85,37,0,2
+Player 14,Argentina,DEF,88,68,63,73,88,75,11,4,1
+Player 15,Argentina,MID,95,93,70,99,65,71,16,1,5
+Player 16,Argentina,MID,93,97,68,90,63,85,5,4,6
+Player 17,Argentina,MID,91,93,66,92,61,77,17,2,2
+Player 18,Argentina,MID,94,99,69,94,64,76,13,4,2
+Player 19,Argentina,MID,92,77,67,92,62,79,31,3,9
+Player 20,Argentina,MID,95,97,70,94,65,74,44,5,8
+Player 21,Argentina,MID,90,83,65,85,60,90,43,2,7
+Player 22,Argentina,FWD,93,99,97,78,63,86,43,15,0
+Player 23,Argentina,FWD,88,74,93,73,58,78,44,4,5
+Kylian Mbappe,France,FWD,91,97,90,80,36,88,10,32,10
+Antoine Griezmann,France,FWD,88,79,84,87,58,85,12,15,16
+William Saliba,France,DEF,86,82,40,68,87,85,10,2,1
+Player 4,France,GK,87,67,62,72,57,86,12,3,1
+Player 5,France,GK,89,69,64,74,59,80,5,2,0
+Player 6,France,GK,88,68,63,73,58,71,23,5,2
+Player 7,France,DEF,88,68,63,73,88,78,33,3,1
+Player 8,France,DEF,89,69,64,74,87,70,45,5,0
+Player 9,France,DEF,86,66,61,71,84,84,43,5,0
+Player 10,France,DEF,87,67,62,72,90,77,19,1,1
+Player 11,France,DEF,92,72,67,77,87,89,21,2,1
+Player 12,France,DEF,94,74,69,79,95,83,13,0,2
+Player 13,France,DEF,95,75,70,80,91,80,39,4,2
+Player 14,France,MID,89,95,64,86,59,71,39,0,4
+Player 15,France,MID,88,98,63,83,58,73,21,1,8
+Player 16,France,MID,90,92,65,91,60,73,30,0,0
+Player 17,France,MID,87,85,62,85,57,90,34,4,8
+Player 18,France,MID,91,97,66,93,61,77,27,4,6
+Player 19,France,MID,88,73,63,85,58,76,10,0,6
+Player 20,France,MID,95,89,70,96,65,89,26,2,9
+Player 21,France,MID,86,95,61,82,56,76,33,5,9
+Player 22,France,FWD,93,99,92,78,63,77,17,7,3
+Player 23,France,FWD,94,89,85,79,64,88,29,13,9
+Vinicius Junior,Brazil,FWD,90,95,84,80,38,86,12,22,11
+Rodrygo,Brazil,FWD,86,88,81,80,42,82,15,16,9
+Bruno Guimaraes,Brazil,MID,85,72,76,83,80,88,12,6,8
+Player 4,Brazil,GK,91,71,66,76,61,86,30,4,1
+Player 5,Brazil,GK,91,71,66,76,61,83,44,0,1
+Player 6,Brazil,GK,94,74,69,79,64,88,6,3,2
+Player 7,Brazil,DEF,88,68,63,73,83,90,18,4,1
+Player 8,Brazil,DEF,88,68,63,73,85,72,22,0,0
+Player 9,Brazil,DEF,92,72,67,77,94,88,37,2,2
+Player 10,Brazil,DEF,86,66,61,71,89,86,35,1,2
+Player 11,Brazil,DEF,94,74,69,79,90,77,28,0,0
+Player 12,Brazil,DEF,93,73,68,78,93,82,37,1,0
+Player 13,Brazil,DEF,91,71,66,76,99,71,5,2,2
+Player 14,Brazil,DEF,94,74,69,79,94,71,16,0,1
+Player 15,Brazil,MID,94,94,69,99,64,76,19,2,6
+Player 16,Brazil,MID,88,89,63,92,58,74,29,4,1
+Player 17,Brazil,MID,93,78,68,89,63,71,15,1,6
+Player 18,Brazil,MID,92,79,67,94,62,84,6,2,9
+Player 19,Brazil,MID,85,76,60,81,55,87,15,3,4
+Player 20,Brazil,MID,94,99,69,99,64,84,38,2,8
+Player 21,Brazil,MID,91,86,66,86,61,71,42,0,10
+Player 22,Brazil,FWD,94,98,86,79,64,78,5,7,1
+Player 23,Brazil,FWD,92,82,89,77,62,82,10,14,10
+Harry Kane,England,FWD,90,69,93,84,45,83,10,36,7
+Jude Bellingham,England,MID,90,80,85,83,82,90,10,20,15
+Bukayo Saka,England,FWD,87,86,81,80,45,84,15,16,12
+Player 4,England,GK,85,65,60,70,55,77,30,5,0
+Player 5,England,GK,93,73,68,78,63,76,44,2,0
+Player 6,England,GK,88,68,63,73,58,71,5,4,1
+Player 7,England,DEF,91,71,66,76,99,85,10,4,0
+Player 8,England,DEF,90,70,65,75,89,72,17,4,2
+Player 9,England,DEF,89,69,64,74,87,76,14,2,1
+Player 10,England,DEF,89,69,64,74,89,92,30,0,2
+Player 11,England,DEF,86,66,61,71,81,81,34,5,2
+Player 12,England,DEF,87,67,62,72,83,86,7,4,2
+Player 13,England,DEF,89,69,64,74,86,89,23,0,2
+Player 14,England,DEF,85,65,60,70,93,77,8,0,2
+Player 15,England,MID,87,77,62,84,57,75,37,0,9
+Player 16,England,MID,87,88,62,84,57,80,30,3,6
+Player 17,England,MID,85,85,60,92,55,79,7,4,8
+Player 18,England,MID,87,78,62,89,57,77,25,2,9
+Player 19,England,MID,88,94,63,89,58,70,23,1,5
+Player 20,England,MID,86,71,61,81,56,73,7,5,1
+Player 21,England,MID,84,82,59,80,54,72,13,3,9
+Player 22,England,FWD,84,69,84,69,54,75,39,11,2
+Player 23,England,FWD,89,89,91,74,59,74,11,6,8
+Player 1,Spain,GK,83,63,58,68,53,73,37,3,2
+Player 2,Spain,GK,83,63,58,68,53,78,34,2,2
+Player 3,Spain,GK,87,67,62,72,57,85,36,2,0
+Player 4,Spain,DEF,91,71,66,76,89,92,26,2,1
+Player 5,Spain,DEF,83,63,58,68,88,84,19,1,2
+Player 6,Spain,DEF,90,70,65,75,88,80,43,1,1
+Player 7,Spain,DEF,88,68,63,73,84,79,35,1,2
+Player 8,Spain,DEF,90,70,65,75,98,85,10,0,0
+Player 9,Spain,DEF,89,69,64,74,90,80,32,3,0
+Player 10,Spain,DEF,85,65,60,70,86,87,23,2,1
+Player 11,Spain,DEF,88,68,63,73,93,85,10,5,1
+Player 12,Spain,MID,84,74,59,80,54,70,11,5,6
+Player 13,Spain,MID,88,96,63,88,58,80,18,3,9
+Player 14,Spain,MID,90,99,65,91,60,70,38,0,7
+Player 15,Spain,MID,91,99,66,86,61,83,43,5,4
+Player 16,Spain,MID,89,93,64,96,59,83,10,4,1
+Player 17,Spain,MID,87,85,62,89,57,85,13,4,9
+Player 18,Spain,MID,85,73,60,91,55,71,22,1,4
+Player 19,Spain,MID,87,76,62,90,57,92,27,3,4
+Player 20,Spain,FWD,86,71,86,71,56,73,28,6,7
+Player 21,Spain,FWD,83,76,83,68,53,90,31,12,9
+Player 22,Spain,FWD,86,81,78,71,56,79,38,4,0
+Player 23,Spain,FWD,85,95,78,70,55,92,14,15,6
+Player 1,Portugal,GK,91,71,66,76,61,83,29,3,0
+Player 2,Portugal,GK,83,63,58,68,53,73,14,5,0
+Player 3,Portugal,GK,84,64,59,69,54,89,40,3,2
+Player 4,Portugal,DEF,84,64,59,69,86,88,9,2,2
+Player 5,Portugal,DEF,91,71,66,76,99,79,23,0,0
+Player 6,Portugal,DEF,87,67,62,72,82,85,12,1,0
+Player 7,Portugal,DEF,85,65,60,70,80,73,9,5,1
+Player 8,Portugal,DEF,88,68,63,73,90,81,33,4,2
+Player 9,Portugal,DEF,83,63,58,68,86,83,5,0,1
+Player 10,Portugal,DEF,88,68,63,73,86,84,9,5,2
+Player 11,Portugal,DEF,85,65,60,70,84,80,21,5,0
+Player 12,Portugal,MID,85,81,60,91,55,87,22,2,8
+Player 13,Portugal,MID,89,93,64,94,59,70,36,3,9
+Player 14,Portugal,MID,89,74,64,94,59,86,21,1,6
+Player 15,Portugal,MID,85,84,60,83,55,86,9,3,6
+Player 16,Portugal,MID,86,92,61,93,56,87,26,1,5
+Player 17,Portugal,MID,88,92,63,96,58,71,22,4,3
+Player 18,Portugal,MID,91,98,66,95,61,91,17,1,0
+Player 19,Portugal,MID,86,86,61,82,56,84,26,1,0
+Player 20,Portugal,FWD,84,81,75,69,54,88,12,12,9
+Player 21,Portugal,FWD,88,79,91,73,58,77,42,15,10
+Player 22,Portugal,FWD,85,87,75,70,55,91,41,9,2
+Player 23,Portugal,FWD,83,79,84,68,53,75,27,15,3
+Player 1,Netherlands,GK,86,66,61,71,56,76,24,3,2
+Player 2,Netherlands,GK,87,67,62,72,57,80,22,4,1
+Player 3,Netherlands,GK,88,68,63,73,58,89,6,3,0
+Player 4,Netherlands,DEF,83,63,58,68,88,87,22,3,0
+Player 5,Netherlands,DEF,84,64,59,69,90,88,33,3,0
+Player 6,Netherlands,DEF,89,69,64,74,88,77,27,1,2
+Player 7,Netherlands,DEF,90,70,65,75,88,79,25,3,2
+Player 8,Netherlands,DEF,82,62,57,67,78,89,41,4,0
+Player 9,Netherlands,DEF,81,61,56,66,82,77,20,1,1
+Player 10,Netherlands,DEF,88,68,63,73,83,87,32,3,0
+Player 11,Netherlands,DEF,90,70,65,75,92,91,37,5,1
+Player 12,Netherlands,MID,82,86,57,88,52,81,17,0,9
+Player 13,Netherlands,MID,86,89,61,89,56,71,13,1,7
+Player 14,Netherlands,MID,82,76,57,85,52,74,40,0,7
+Player 15,Netherlands,MID,83,89,58,83,53,75,14,1,5
+Player 16,Netherlands,MID,83,87,58,89,53,81,33,1,5
+Player 17,Netherlands,MID,81,75,56,85,51,72,16,5,3
+Player 18,Netherlands,MID,90,99,65,95,60,74,25,3,7
+Player 19,Netherlands,MID,89,93,64,97,59,92,33,0,9
+Player 20,Netherlands,FWD,89,86,92,74,59,75,40,11,6
+Player 21,Netherlands,FWD,87,87,84,72,57,71,28,10,2
+Player 22,Netherlands,FWD,85,88,76,70,55,87,45,6,0
+Player 23,Netherlands,FWD,85,84,81,70,55,74,40,13,5
+Player 1,Italy,GK,80,60,55,65,50,74,35,1,0
+Player 2,Italy,GK,84,64,59,69,54,71,16,3,1
+Player 3,Italy,GK,83,63,58,68,53,77,5,3,0
+Player 4,Italy,DEF,86,66,61,71,88,79,14,5,2
+Player 5,Italy,DEF,83,63,58,68,80,76,12,0,2
+Player 6,Italy,DEF,86,66,61,71,87,83,36,5,1
+Player 7,Italy,DEF,87,67,62,72,90,91,37,5,1
+Player 8,Italy,DEF,88,68,63,73,86,73,31,0,1
+Player 9,Italy,DEF,89,69,64,74,95,78,19,2,1
+Player 10,Italy,DEF,84,64,59,69,89,82,15,1,0
+Player 11,Italy,DEF,82,62,57,67,88,70,45,3,1
+Player 12,Italy,MID,85,88,60,87,55,73,18,5,6
+Player 13,Italy,MID,80,86,55,78,50,85,42,1,4
+Player 14,Italy,MID,84,82,59,82,54,76,25,3,3
+Player 15,Italy,MID,87,92,62,86,57,73,23,3,2
+Player 16,Italy,MID,86,79,61,90,56,71,16,2,8
+Player 17,Italy,MID,89,75,64,91,59,72,32,2,4
+Player 18,Italy,MID,85,92,60,86,55,80,34,3,5
+Player 19,Italy,MID,85,92,60,89,55,84,34,1,4
+Player 20,Italy,FWD,81,87,84,66,51,81,34,13,2
+Player 21,Italy,FWD,84,94,81,69,54,84,24,0,6
+Player 22,Italy,FWD,82,75,77,67,52,80,28,11,3
+Player 23,Italy,FWD,85,82,76,70,55,90,30,10,1
+Player 1,Germany,GK,89,69,64,74,59,85,12,4,0
+Player 2,Germany,GK,82,62,57,67,52,88,11,3,1
+Player 3,Germany,GK,86,66,61,71,56,75,39,4,1
+Player 4,Germany,DEF,87,67,62,72,88,87,12,1,0
+Player 5,Germany,DEF,81,61,56,66,78,71,11,0,1
+Player 6,Germany,DEF,85,65,60,70,88,71,14,2,1
+Player 7,Germany,DEF,87,67,62,72,95,73,31,4,0
+Player 8,Germany,DEF,87,67,62,72,89,84,26,1,0
+Player 9,Germany,DEF,82,62,57,67,90,84,42,3,0
+Player 10,Germany,DEF,85,65,60,70,90,83,13,1,0
+Player 11,Germany,DEF,83,63,58,68,91,79,34,3,1
+Player 12,Germany,MID,85,82,60,87,55,77,41,5,10
+Player 13,Germany,MID,87,81,62,86,57,78,10,1,0
+Player 14,Germany,MID,88,80,63,89,58,70,21,2,2
+Player 15,Germany,MID,89,82,64,87,59,72,10,4,10
+Player 16,Germany,MID,81,66,56,87,51,77,18,1,9
+Player 17,Germany,MID,85,87,60,86,55,92,21,4,8
+Player 18,Germany,MID,81,82,56,80,51,90,25,1,7
+Player 19,Germany,MID,81,88,56,76,51,77,21,5,5
+Player 20,Germany,FWD,81,75,79,66,51,77,36,15,2
+Player 21,Germany,FWD,85,80,88,70,55,85,38,1,0
+Player 22,Germany,FWD,84,73,82,69,54,70,37,4,7
+Player 23,Germany,FWD,88,87,86,73,58,71,45,6,7
+Player 1,Belgium,GK,84,64,59,69,54,80,34,4,0
+Player 2,Belgium,GK,81,61,56,66,51,71,26,1,2
+Player 3,Belgium,GK,89,69,64,74,59,80,28,2,2
+Player 4,Belgium,DEF,82,62,57,67,89,80,35,1,0
+Player 5,Belgium,DEF,88,68,63,73,84,75,39,4,0
+Player 6,Belgium,DEF,81,61,56,66,77,78,14,0,2
+Player 7,Belgium,DEF,85,65,60,70,85,90,25,2,1
+Player 8,Belgium,DEF,88,68,63,73,83,78,12,1,2
+Player 9,Belgium,DEF,85,65,60,70,87,77,29,1,0
+Player 10,Belgium,DEF,80,60,55,65,84,78,12,3,2
+Player 11,Belgium,DEF,83,63,58,68,82,79,7,0,0
+Player 12,Belgium,MID,82,90,57,78,52,72,18,5,5
+Player 13,Belgium,MID,80,89,55,87,50,77,27,0,4
+Player 14,Belgium,MID,83,80,58,79,53,82,27,4,5
+Player 15,Belgium,MID,86,78,61,91,56,73,35,2,7
+Player 16,Belgium,MID,84,85,59,81,54,71,20,1,4
+Player 17,Belgium,MID,84,94,59,89,54,91,25,3,6
+Player 18,Belgium,MID,81,89,56,80,51,92,37,0,7
+Player 19,Belgium,MID,80,80,55,75,50,71,24,3,3
+Player 20,Belgium,FWD,84,77,85,69,54,80,31,7,7
+Player 21,Belgium,FWD,88,80,88,73,58,78,24,15,9
+Player 22,Belgium,FWD,85,90,75,70,55,81,8,12,1
+Player 23,Belgium,FWD,88,75,87,73,58,85,37,11,5
+Player 1,Croatia,GK,82,62,57,67,52,85,6,2,0
+Player 2,Croatia,GK,81,61,56,66,51,90,34,2,2
+Player 3,Croatia,GK,81,61,56,66,51,78,37,3,0
+Player 4,Croatia,DEF,79,59,54,64,81,86,27,1,0
+Player 5,Croatia,DEF,87,67,62,72,84,90,18,5,1
+Player 6,Croatia,DEF,84,64,59,69,86,81,20,1,1
+Player 7,Croatia,DEF,80,60,55,65,86,89,15,1,1
+Player 8,Croatia,DEF,88,68,63,73,86,86,6,2,0
+Player 9,Croatia,DEF,82,62,57,67,83,92,23,2,0
+Player 10,Croatia,DEF,88,68,63,73,92,92,34,4,2
+Player 11,Croatia,DEF,80,60,55,65,87,71,26,4,0
+Player 12,Croatia,MID,84,74,59,79,54,89,8,3,10
+Player 13,Croatia,MID,86,95,61,90,56,75,28,1,8
+Player 14,Croatia,MID,84,87,59,83,54,83,13,0,5
+Player 15,Croatia,MID,87,90,62,85,57,87,41,2,8
+Player 16,Croatia,MID,80,85,55,78,50,88,27,5,5
+Player 17,Croatia,MID,85,92,60,85,55,78,31,4,7
+Player 18,Croatia,MID,80,85,55,85,50,88,38,0,7
+Player 19,Croatia,MID,88,96,63,87,58,78,11,1,4
+Player 20,Croatia,FWD,81,69,85,66,51,70,41,14,0
+Player 21,Croatia,FWD,82,82,76,67,52,76,20,4,10
+Player 22,Croatia,FWD,83,81,79,68,53,92,36,2,2
+Player 23,Croatia,FWD,80,79,84,65,50,82,12,8,2
+Player 1,Uruguay,GK,86,66,61,71,56,72,21,0,0
+Player 2,Uruguay,GK,81,61,56,66,51,71,5,2,0
+Player 3,Uruguay,GK,82,62,57,67,52,72,43,2,1
+Player 4,Uruguay,DEF,80,60,55,65,79,71,6,0,0
+Player 5,Uruguay,DEF,83,63,58,68,89,87,26,3,2
+Player 6,Uruguay,DEF,84,64,59,69,83,82,20,0,0
+Player 7,Uruguay,DEF,87,67,62,72,91,82,28,4,1
+Player 8,Uruguay,DEF,81,61,56,66,76,75,28,1,0
+Player 9,Uruguay,DEF,82,62,57,67,78,78,5,5,1
+Player 10,Uruguay,DEF,87,67,62,72,95,75,5,2,2
+Player 11,Uruguay,DEF,81,61,56,66,84,91,41,0,2
+Player 12,Uruguay,MID,80,80,55,88,50,72,32,1,6
+Player 13,Uruguay,MID,87,80,62,85,57,73,13,4,10
+Player 14,Uruguay,MID,83,85,58,83,53,88,11,5,2
+Player 15,Uruguay,MID,81,68,56,86,51,78,24,0,9
+Player 16,Uruguay,MID,86,88,61,89,56,72,22,3,10
+Player 17,Uruguay,MID,88,76,63,84,58,91,11,1,0
+Player 18,Uruguay,MID,89,85,64,92,59,87,42,0,6
+Player 19,Uruguay,MID,84,86,59,88,54,70,22,5,7
+Player 20,Uruguay,FWD,82,78,73,67,52,81,19,7,6
+Player 21,Uruguay,FWD,80,83,72,65,50,89,27,0,5
+Player 22,Uruguay,FWD,84,69,84,69,54,76,11,7,8
+Player 23,Uruguay,FWD,84,75,85,69,54,92,21,14,3
+Player 1,Colombia,GK,85,65,60,70,55,77,16,0,2
+Player 2,Colombia,GK,80,60,55,65,50,92,42,3,2
+Player 3,Colombia,GK,85,65,60,70,55,70,15,5,1
+Player 4,Colombia,DEF,85,65,60,70,84,90,34,3,1
+Player 5,Colombia,DEF,80,60,55,65,79,73,32,1,2
+Player 6,Colombia,DEF,88,68,63,73,83,85,15,0,2
+Player 7,Colombia,DEF,81,61,56,66,83,71,26,5,1
+Player 8,Colombia,DEF,81,61,56,66,85,89,34,0,0
+Player 9,Colombia,DEF,83,63,58,68,81,70,37,4,2
+Player 10,Colombia,DEF,87,67,62,72,93,89,10,3,2
+Player 11,Colombia,DEF,87,67,62,72,94,90,32,1,2
+Player 12,Colombia,MID,86,89,61,81,56,79,16,3,6
+Player 13,Colombia,MID,80,86,55,75,50,71,20,1,9
+Player 14,Colombia,MID,83,83,58,79,53,83,28,0,7
+Player 15,Colombia,MID,88,88,63,87,58,71,19,3,6
+Player 16,Colombia,MID,83,81,58,79,53,74,39,5,9
+Player 17,Colombia,MID,85,75,60,92,55,79,43,1,5
+Player 18,Colombia,MID,87,77,62,86,57,75,45,5,4
+Player 19,Colombia,MID,85,77,60,87,55,91,16,0,2
+Player 20,Colombia,FWD,83,83,81,68,53,71,15,15,10
+Player 21,Colombia,FWD,80,71,70,65,50,88,13,15,5
+Player 22,Colombia,FWD,79,84,73,64,49,84,34,1,3
+Player 23,Colombia,FWD,86,91,79,71,56,78,24,3,4
+Player 1,Morocco,GK,85,65,60,70,55,90,26,0,0
+Player 2,Morocco,GK,80,60,55,65,50,81,7,3,2
+Player 3,Morocco,GK,81,61,56,66,51,91,11,1,1
+Player 4,Morocco,DEF,79,59,54,64,85,70,45,3,0
+Player 5,Morocco,DEF,82,62,57,67,88,86,18,2,0
+Player 6,Morocco,DEF,83,63,58,68,85,77,8,3,1
+Player 7,Morocco,DEF,84,64,59,69,85,71,40,2,0
+Player 8,Morocco,DEF,81,61,56,66,78,77,25,2,0
+Player 9,Morocco,DEF,83,63,58,68,88,83,35,3,1
+Player 10,Morocco,DEF,81,61,56,66,84,83,12,3,2
+Player 11,Morocco,DEF,83,63,58,68,88,90,39,0,0
+Player 12,Morocco,MID,83,75,58,84,53,74,8,1,1
+Player 13,Morocco,MID,86,75,61,82,56,83,8,3,1
+Player 14,Morocco,MID,86,74,61,84,56,75,8,2,6
+Player 15,Morocco,MID,82,67,57,82,52,72,27,3,7
+Player 16,Morocco,MID,87,82,62,82,57,76,17,5,4
+Player 17,Morocco,MID,84,81,59,79,54,75,44,3,4
+Player 18,Morocco,MID,86,78,61,93,56,91,20,4,3
+Player 19,Morocco,MID,87,90,62,92,57,82,33,4,1
+Player 20,Morocco,FWD,86,72,87,71,56,92,8,6,9
+Player 21,Morocco,FWD,86,93,84,71,56,70,40,13,3
+Player 22,Morocco,FWD,84,87,82,69,54,82,45,10,4
+Player 23,Morocco,FWD,84,76,84,69,54,71,24,0,0
+Player 1,USA,GK,86,66,61,71,56,71,18,0,1
+Player 2,USA,GK,86,66,61,71,56,81,18,1,2
+Player 3,USA,GK,82,62,57,67,52,90,30,0,1
+Player 4,USA,DEF,86,66,61,71,83,85,38,5,1
+Player 5,USA,DEF,78,58,53,63,81,86,29,1,1
+Player 6,USA,DEF,86,66,61,71,87,92,41,2,2
+Player 7,USA,DEF,81,61,56,66,82,75,35,2,0
+Player 8,USA,DEF,77,57,52,62,77,72,8,4,1
+Player 9,USA,DEF,78,58,53,63,86,83,25,4,0
+Player 10,USA,DEF,77,57,52,62,79,87,30,5,2
+Player 11,USA,DEF,84,64,59,69,90,82,29,5,2
+Player 12,USA,MID,83,72,58,79,53,72,18,3,10
+Player 13,USA,MID,86,74,61,83,56,78,21,0,7
+Player 14,USA,MID,83,80,58,78,53,78,13,0,5
+Player 15,USA,MID,84,92,59,92,54,92,18,4,2
+Player 16,USA,MID,78,74,53,81,48,72,45,1,3
+Player 17,USA,MID,81,72,56,83,51,80,12,1,2
+Player 18,USA,MID,84,89,59,80,54,92,11,4,10
+Player 19,USA,MID,78,81,53,81,48,91,26,5,1
+Player 20,USA,FWD,81,73,81,66,51,89,8,0,7
+Player 21,USA,FWD,81,70,75,66,51,86,12,2,1
+Player 22,USA,FWD,86,93,82,71,56,81,32,1,0
+Player 23,USA,FWD,81,74,79,66,51,75,20,11,2
+Player 1,Mexico,GK,82,62,57,67,52,89,9,2,2
+Player 2,Mexico,GK,80,60,55,65,50,73,40,3,2
+Player 3,Mexico,GK,85,65,60,70,55,72,23,2,1
+Player 4,Mexico,DEF,78,58,53,63,74,74,43,3,1
+Player 5,Mexico,DEF,78,58,53,63,76,88,35,0,1
+Player 6,Mexico,DEF,80,60,55,65,88,79,28,1,1
+Player 7,Mexico,DEF,82,62,57,67,79,77,5,1,0
+Player 8,Mexico,DEF,78,58,53,63,83,78,34,1,0
+Player 9,Mexico,DEF,83,63,58,68,91,72,19,3,1
+Player 10,Mexico,DEF,80,60,55,65,84,92,29,0,2
+Player 11,Mexico,DEF,80,60,55,65,86,91,22,4,0
+Player 12,Mexico,MID,84,81,59,87,54,90,26,3,2
+Player 13,Mexico,MID,76,81,51,71,46,86,35,1,4
+Player 14,Mexico,MID,85,86,60,80,55,90,21,0,4
+Player 15,Mexico,MID,85,71,60,85,55,82,26,0,1
+Player 16,Mexico,MID,83,76,58,88,53,82,27,3,7
+Player 17,Mexico,MID,80,65,55,80,50,81,22,5,0
+Player 18,Mexico,MID,85,77,60,87,55,91,28,2,7
+Player 19,Mexico,MID,76,86,51,73,46,80,22,3,9
+Player 20,Mexico,FWD,79,86,80,64,49,79,16,1,4
+Player 21,Mexico,FWD,83,81,82,68,53,83,8,7,1
+Player 22,Mexico,FWD,81,83,81,66,51,74,20,10,5
+Player 23,Mexico,FWD,81,87,81,66,51,74,26,6,0
+Player 1,Japan,GK,81,61,56,66,51,91,9,1,1
+Player 2,Japan,GK,87,67,62,72,57,87,5,2,1
+Player 3,Japan,GK,85,65,60,70,55,75,23,4,1
+Player 4,Japan,DEF,84,64,59,69,85,84,25,2,2
+Player 5,Japan,DEF,78,58,53,63,86,92,39,5,2
+Player 6,Japan,DEF,78,58,53,63,75,79,6,3,1
+Player 7,Japan,DEF,80,60,55,65,79,77,13,4,1
+Player 8,Japan,DEF,83,63,58,68,86,87,33,3,2
+Player 9,Japan,DEF,85,65,60,70,85,75,9,1,0
+Player 10,Japan,DEF,81,61,56,66,80,74,45,5,0
+Player 11,Japan,DEF,79,59,54,64,78,81,40,3,0
+Player 12,Japan,MID,78,76,53,83,48,86,15,4,4
+Player 13,Japan,MID,87,96,62,83,57,78,28,0,6
+Player 14,Japan,MID,78,85,53,85,48,72,14,3,6
+Player 15,Japan,MID,87,93,62,95,57,86,40,2,8
+Player 16,Japan,MID,80,77,55,75,50,70,34,3,2
+Player 17,Japan,MID,84,75,59,87,54,88,8,4,4
+Player 18,Japan,MID,81,66,56,86,51,77,29,3,10
+Player 19,Japan,MID,81,89,56,89,51,81,29,4,9
+Player 20,Japan,FWD,82,92,76,67,52,77,31,14,7
+Player 21,Japan,FWD,82,80,75,67,52,89,34,1,9
+Player 22,Japan,FWD,85,88,82,70,55,92,10,0,8
+Player 23,Japan,FWD,85,92,76,70,55,76,5,8,4
+Player 1,Senegal,GK,84,64,59,69,54,75,45,0,0
+Player 2,Senegal,GK,80,60,55,65,50,82,22,0,0
+Player 3,Senegal,GK,78,58,53,63,48,71,16,1,2
+Player 4,Senegal,DEF,83,63,58,68,84,89,11,5,2
+Player 5,Senegal,DEF,82,62,57,67,77,90,35,3,2
+Player 6,Senegal,DEF,85,65,60,70,89,89,28,1,2
+Player 7,Senegal,DEF,81,61,56,66,83,87,39,5,2
+Player 8,Senegal,DEF,85,65,60,70,90,91,9,4,0
+Player 9,Senegal,DEF,86,66,61,71,89,78,16,1,1
+Player 10,Senegal,DEF,79,59,54,64,79,79,19,4,0
+Player 11,Senegal,DEF,82,62,57,67,88,78,32,5,2
+Player 12,Senegal,MID,79,70,54,82,49,70,38,4,10
+Player 13,Senegal,MID,83,88,58,78,53,85,32,0,1
+Player 14,Senegal,MID,83,77,58,84,53,92,34,3,0
+Player 15,Senegal,MID,85,70,60,84,55,72,44,4,9
+Player 16,Senegal,MID,81,79,56,76,51,91,28,0,3
+Player 17,Senegal,MID,82,69,57,84,52,71,38,5,6
+Player 18,Senegal,MID,78,71,53,77,48,81,28,4,0
+Player 19,Senegal,MID,82,82,57,90,52,84,6,2,2
+Player 20,Senegal,FWD,77,74,71,62,47,85,14,3,7
+Player 21,Senegal,FWD,81,72,85,66,51,91,19,14,4
+Player 22,Senegal,FWD,86,75,90,71,56,72,43,4,9
+Player 23,Senegal,FWD,84,73,85,69,54,77,24,13,5
+Player 1,Iran,GK,75,55,50,60,45,85,9,5,0
+Player 2,Iran,GK,83,63,58,68,53,78,27,3,2
+Player 3,Iran,GK,74,54,49,59,44,92,35,5,2
+Player 4,Iran,DEF,76,56,51,61,78,81,27,1,2
+Player 5,Iran,DEF,83,63,58,68,88,76,32,5,0
+Player 6,Iran,DEF,77,57,52,62,76,70,33,2,2
+Player 7,Iran,DEF,80,60,55,65,75,80,44,5,2
+Player 8,Iran,DEF,82,62,57,67,88,85,37,5,1
+Player 9,Iran,DEF,79,59,54,64,75,80,31,2,2
+Player 10,Iran,DEF,80,60,55,65,86,85,34,1,1
+Player 11,Iran,DEF,75,55,50,60,79,74,11,4,0
+Player 12,Iran,MID,76,61,51,83,46,83,21,0,8
+Player 13,Iran,MID,82,92,57,81,52,91,16,3,10
+Player 14,Iran,MID,76,75,51,73,46,90,13,3,8
+Player 15,Iran,MID,80,81,55,78,50,83,15,3,4
+Player 16,Iran,MID,75,83,50,82,45,71,32,4,2
+Player 17,Iran,MID,77,62,52,74,47,71,38,2,5
+Player 18,Iran,MID,75,69,50,83,45,85,6,3,6
+Player 19,Iran,MID,82,69,57,84,52,86,32,3,9
+Player 20,Iran,FWD,81,83,72,66,51,91,27,14,3
+Player 21,Iran,FWD,80,84,71,65,50,74,17,7,9
+Player 22,Iran,FWD,79,83,73,64,49,75,21,14,4
+Player 23,Iran,FWD,79,88,75,64,49,75,39,10,6
+Player 1,Denmark,GK,77,57,52,62,47,75,19,0,2
+Player 2,Denmark,GK,78,58,53,63,48,73,26,5,1
+Player 3,Denmark,GK,81,61,56,66,51,80,14,0,0
+Player 4,Denmark,DEF,80,60,55,65,77,83,38,5,0
+Player 5,Denmark,DEF,84,64,59,69,81,85,45,0,1
+Player 6,Denmark,DEF,76,56,51,61,80,87,31,1,0
+Player 7,Denmark,DEF,83,63,58,68,84,76,27,5,1
+Player 8,Denmark,DEF,83,63,58,68,89,84,29,0,2
+Player 9,Denmark,DEF,84,64,59,69,87,73,13,2,2
+Player 10,Denmark,DEF,77,57,52,62,76,89,6,3,1
+Player 11,Denmark,DEF,82,62,57,67,90,89,20,1,0
+Player 12,Denmark,MID,84,90,59,83,54,70,40,5,5
+Player 13,Denmark,MID,84,75,59,81,54,92,36,2,1
+Player 14,Denmark,MID,83,75,58,81,53,91,18,2,8
+Player 15,Denmark,MID,85,91,60,93,55,86,12,3,1
+Player 16,Denmark,MID,81,77,56,76,51,92,9,0,9
+Player 17,Denmark,MID,84,89,59,82,54,77,34,3,8
+Player 18,Denmark,MID,85,72,60,82,55,86,18,5,7
+Player 19,Denmark,MID,84,88,59,82,54,73,11,3,8
+Player 20,Denmark,FWD,77,71,82,62,47,79,23,10,9
+Player 21,Denmark,FWD,80,88,71,65,50,80,19,15,4
+Player 22,Denmark,FWD,83,85,79,68,53,92,10,3,10
+Player 23,Denmark,FWD,85,83,75,70,55,88,20,10,5
+Player 1,South Korea,GK,82,62,57,67,52,86,22,2,1
+Player 2,South Korea,GK,83,63,58,68,53,75,19,5,0
+Player 3,South Korea,GK,76,56,51,61,46,71,28,3,2
+Player 4,South Korea,DEF,76,56,51,61,75,73,5,5,1
+Player 5,South Korea,DEF,77,57,52,62,83,86,10,0,2
+Player 6,South Korea,DEF,75,55,50,60,83,70,15,5,1
+Player 7,South Korea,DEF,84,64,59,69,88,80,43,1,1
+Player 8,South Korea,DEF,75,55,50,60,71,92,29,4,2
+Player 9,South Korea,DEF,76,56,51,61,74,74,8,5,1
+Player 10,South Korea,DEF,80,60,55,65,84,87,19,1,2
+Player 11,South Korea,DEF,82,62,57,67,89,85,31,2,1
+Player 12,South Korea,MID,78,74,53,76,48,79,6,2,5
+Player 13,South Korea,MID,84,93,59,81,54,73,11,1,7
+Player 14,South Korea,MID,82,72,57,79,52,89,40,3,10
+Player 15,South Korea,MID,77,87,52,80,47,72,25,1,3
+Player 16,South Korea,MID,79,78,54,82,49,72,14,5,10
+Player 17,South Korea,MID,82,92,57,79,52,83,35,4,3
+Player 18,South Korea,MID,82,76,57,77,52,74,14,3,4
+Player 19,South Korea,MID,78,71,53,84,48,87,26,5,4
+Player 20,South Korea,FWD,78,77,80,63,48,87,26,14,3
+Player 21,South Korea,FWD,84,92,81,69,54,89,5,9,1
+Player 22,South Korea,FWD,84,69,89,69,54,72,8,5,3
+Player 23,South Korea,FWD,83,82,78,68,53,89,43,8,0
+Player 1,Australia,GK,77,57,52,62,47,85,17,1,2
+Player 2,Australia,GK,77,57,52,62,47,85,40,0,0
+Player 3,Australia,GK,79,59,54,64,49,74,35,2,1
+Player 4,Australia,DEF,82,62,57,67,84,76,15,1,1
+Player 5,Australia,DEF,80,60,55,65,87,84,24,4,1
+Player 6,Australia,DEF,73,53,48,58,74,75,38,0,2
+Player 7,Australia,DEF,76,56,51,61,73,73,12,3,0
+Player 8,Australia,DEF,76,56,51,61,77,79,43,0,0
+Player 9,Australia,DEF,74,54,49,59,78,88,39,2,0
+Player 10,Australia,DEF,73,53,48,58,73,88,24,4,1
+Player 11,Australia,DEF,82,62,57,67,87,76,38,0,1
+Player 12,Australia,MID,80,85,55,84,50,78,25,2,7
+Player 13,Australia,MID,82,71,57,87,52,84,34,0,4
+Player 14,Australia,MID,82,75,57,83,52,91,21,1,4
+Player 15,Australia,MID,78,73,53,73,48,90,33,1,8
+Player 16,Australia,MID,73,77,48,79,43,84,41,1,9
+Player 17,Australia,MID,80,87,55,76,50,79,43,4,5
+Player 18,Australia,MID,82,86,57,81,52,89,10,1,10
+Player 19,Australia,MID,77,76,52,81,47,89,29,4,7
+Player 20,Australia,FWD,76,80,80,61,46,85,5,9,1
+Player 21,Australia,FWD,74,62,72,59,44,72,5,4,0
+Player 22,Australia,FWD,82,68,83,67,52,75,27,7,9
+Player 23,Australia,FWD,78,72,74,63,48,86,33,12,10
+Player 1,Ukraine,GK,82,62,57,67,52,80,32,3,2
+Player 2,Ukraine,GK,81,61,56,66,51,71,26,4,2
+Player 3,Ukraine,GK,83,63,58,68,53,87,13,5,0
+Player 4,Ukraine,DEF,82,62,57,67,88,83,7,0,1
+Player 5,Ukraine,DEF,80,60,55,65,79,75,43,0,2
+Player 6,Ukraine,DEF,83,63,58,68,80,74,39,1,2
+Player 7,Ukraine,DEF,80,60,55,65,79,92,11,5,2
+Player 8,Ukraine,DEF,83,63,58,68,80,72,21,1,2
+Player 9,Ukraine,DEF,77,57,52,62,84,89,38,5,1
+Player 10,Ukraine,DEF,78,58,53,63,82,86,41,4,0
+Player 11,Ukraine,DEF,76,56,51,61,80,90,34,5,2
+Player 12,Ukraine,MID,84,70,59,84,54,78,43,3,10
+Player 13,Ukraine,MID,82,84,57,79,52,86,28,2,7
+Player 14,Ukraine,MID,76,84,51,82,46,90,27,5,1
+Player 15,Ukraine,MID,83,89,58,79,53,72,39,2,3
+Player 16,Ukraine,MID,77,63,52,78,47,71,18,1,1
+Player 17,Ukraine,MID,76,86,51,76,46,82,15,3,5
+Player 18,Ukraine,MID,77,64,52,81,47,86,18,4,7
+Player 19,Ukraine,MID,77,73,52,73,47,92,39,1,5
+Player 20,Ukraine,FWD,80,83,77,65,50,79,7,13,6
+Player 21,Ukraine,FWD,83,69,83,68,53,86,21,6,9
+Player 22,Ukraine,FWD,75,74,75,60,45,75,7,6,6
+Player 23,Ukraine,FWD,84,78,87,69,54,86,32,5,0
+Player 1,Austria,GK,77,57,52,62,47,86,31,3,0
+Player 2,Austria,GK,84,64,59,69,54,81,14,0,0
+Player 3,Austria,GK,76,56,51,61,46,76,20,0,0
+Player 4,Austria,DEF,76,56,51,61,79,72,13,0,2
+Player 5,Austria,DEF,78,58,53,63,79,91,38,0,1
+Player 6,Austria,DEF,77,57,52,62,82,92,29,2,2
+Player 7,Austria,DEF,80,60,55,65,78,89,6,4,2
+Player 8,Austria,DEF,77,57,52,62,74,78,22,5,0
+Player 9,Austria,DEF,82,62,57,67,81,78,30,4,1
+Player 10,Austria,DEF,78,58,53,63,75,85,17,1,1
+Player 11,Austria,DEF,82,62,57,67,88,88,31,1,0
+Player 12,Austria,MID,78,70,53,79,48,74,14,4,8
+Player 13,Austria,MID,78,81,53,80,48,74,13,1,1
+Player 14,Austria,MID,85,94,60,84,55,87,39,5,2
+Player 15,Austria,MID,80,72,55,79,50,80,6,1,3
+Player 16,Austria,MID,80,85,55,76,50,92,41,3,10
+Player 17,Austria,MID,85,77,60,93,55,90,27,1,2
+Player 18,Austria,MID,78,63,53,81,48,76,30,1,9
+Player 19,Austria,MID,79,84,54,83,49,83,19,1,9
+Player 20,Austria,FWD,77,79,80,62,47,88,7,2,3
+Player 21,Austria,FWD,85,93,87,70,55,75,24,1,8
+Player 22,Austria,FWD,84,82,81,69,54,77,40,2,9
+Player 23,Austria,FWD,85,73,78,70,55,76,43,9,0
+Player 1,Switzerland,GK,78,58,53,63,48,73,26,4,1
+Player 2,Switzerland,GK,84,64,59,69,54,74,23,3,1
+Player 3,Switzerland,GK,84,64,59,69,54,87,25,3,1
+Player 4,Switzerland,DEF,85,65,60,70,85,74,40,0,2
+Player 5,Switzerland,DEF,80,60,55,65,86,71,28,5,0
+Player 6,Switzerland,DEF,80,60,55,65,77,82,33,1,1
+Player 7,Switzerland,DEF,79,59,54,64,75,90,30,3,1
+Player 8,Switzerland,DEF,80,60,55,65,87,74,32,4,1
+Player 9,Switzerland,DEF,84,64,59,69,91,88,14,3,2
+Player 10,Switzerland,DEF,83,63,58,68,91,83,20,3,1
+Player 11,Switzerland,DEF,85,65,60,70,89,87,19,5,1
+Player 12,Switzerland,MID,79,84,54,83,49,70,8,0,9
+Player 13,Switzerland,MID,85,77,60,90,55,71,21,4,6
+Player 14,Switzerland,MID,76,66,51,75,46,76,19,4,10
+Player 15,Switzerland,MID,82,92,57,88,52,74,32,2,10
+Player 16,Switzerland,MID,81,79,56,79,51,74,39,1,0
+Player 17,Switzerland,MID,80,70,55,80,50,89,35,0,7
+Player 18,Switzerland,MID,78,84,53,80,48,92,12,5,3
+Player 19,Switzerland,MID,81,66,56,81,51,72,40,5,10
+Player 20,Switzerland,FWD,82,70,74,67,52,89,11,7,5
+Player 21,Switzerland,FWD,83,76,77,68,53,78,11,6,6
+Player 22,Switzerland,FWD,81,71,86,66,51,81,36,2,9
+Player 23,Switzerland,FWD,85,95,87,70,55,86,10,13,2
+Player 1,Turkey,GK,84,64,59,69,54,81,41,5,2
+Player 2,Turkey,GK,75,55,50,60,45,86,36,5,2
+Player 3,Turkey,GK,78,58,53,63,48,73,9,2,1
+Player 4,Turkey,DEF,78,58,53,63,79,86,15,2,2
+Player 5,Turkey,DEF,84,64,59,69,92,70,5,5,0
+Player 6,Turkey,DEF,81,61,56,66,80,82,34,2,1
+Player 7,Turkey,DEF,84,64,59,69,91,88,9,4,1
+Player 8,Turkey,DEF,75,55,50,60,79,74,28,4,0
+Player 9,Turkey,DEF,77,57,52,62,76,86,35,0,2
+Player 10,Turkey,DEF,82,62,57,67,80,70,44,2,1
+Player 11,Turkey,DEF,82,62,57,67,87,78,42,3,0
+Player 12,Turkey,MID,78,63,53,86,48,86,31,1,2
+Player 13,Turkey,MID,84,93,59,85,54,73,39,2,1
+Player 14,Turkey,MID,84,69,59,92,54,81,42,5,0
+Player 15,Turkey,MID,75,82,50,82,45,84,10,4,4
+Player 16,Turkey,MID,80,82,55,84,50,83,14,5,5
+Player 17,Turkey,MID,77,76,52,77,47,88,26,0,4
+Player 18,Turkey,MID,75,62,50,77,45,87,24,0,4
+Player 19,Turkey,MID,82,91,57,81,52,85,39,2,1
+Player 20,Turkey,FWD,75,70,74,60,45,83,30,9,2
+Player 21,Turkey,FWD,77,65,74,62,47,77,42,15,1
+Player 22,Turkey,FWD,81,69,75,66,51,71,5,7,1
+Player 23,Turkey,FWD,82,71,86,67,52,81,39,12,9
+Player 1,Ecuador,GK,77,57,52,62,47,71,37,0,1
+Player 2,Ecuador,GK,76,56,51,61,46,75,18,0,0
+Player 3,Ecuador,GK,80,60,55,65,50,73,19,1,2
+Player 4,Ecuador,DEF,84,64,59,69,79,91,18,5,0
+Player 5,Ecuador,DEF,81,61,56,66,77,91,42,1,2
+Player 6,Ecuador,DEF,77,57,52,62,83,77,6,0,0
+Player 7,Ecuador,DEF,84,64,59,69,87,88,34,2,1
+Player 8,Ecuador,DEF,84,64,59,69,92,83,19,4,0
+Player 9,Ecuador,DEF,84,64,59,69,79,74,45,3,0
+Player 10,Ecuador,DEF,81,61,56,66,89,85,5,5,2
+Player 11,Ecuador,DEF,75,55,50,60,83,75,6,2,1
+Player 12,Ecuador,MID,77,65,52,80,47,73,14,4,0
+Player 13,Ecuador,MID,84,73,59,85,54,71,17,3,9
+Player 14,Ecuador,MID,76,68,51,82,46,75,22,5,5
+Player 15,Ecuador,MID,81,90,56,86,51,77,13,4,7
+Player 16,Ecuador,MID,77,78,52,75,47,70,23,3,2
+Player 17,Ecuador,MID,84,81,59,85,54,78,39,1,3
+Player 18,Ecuador,MID,82,74,57,89,52,74,40,4,0
+Player 19,Ecuador,MID,83,85,58,85,53,81,21,2,10
+Player 20,Ecuador,FWD,75,75,66,60,45,88,7,7,7
+Player 21,Ecuador,FWD,81,89,78,66,51,81,10,7,8
+Player 22,Ecuador,FWD,80,82,83,65,50,80,21,10,1
+Player 23,Ecuador,FWD,79,85,76,64,49,88,20,6,10
+Player 1,Poland,GK,83,63,58,68,53,76,40,5,0
+Player 2,Poland,GK,81,61,56,66,51,74,31,1,2
+Player 3,Poland,GK,83,63,58,68,53,78,14,1,2
+Player 4,Poland,DEF,82,62,57,67,87,91,39,4,2
+Player 5,Poland,DEF,81,61,56,66,86,80,12,5,0
+Player 6,Poland,DEF,78,58,53,63,75,79,18,4,1
+Player 7,Poland,DEF,78,58,53,63,77,92,32,2,0
+Player 8,Poland,DEF,81,61,56,66,81,73,20,2,0
+Player 9,Poland,DEF,78,58,53,63,79,85,30,5,0
+Player 10,Poland,DEF,77,57,52,62,74,88,5,3,1
+Player 11,Poland,DEF,82,62,57,67,77,76,5,1,1
+Player 12,Poland,MID,76,80,51,82,46,88,34,5,2
+Player 13,Poland,MID,83,90,58,78,53,83,33,5,2
+Player 14,Poland,MID,83,92,58,88,53,77,31,4,9
+Player 15,Poland,MID,78,79,53,84,48,82,8,5,2
+Player 16,Poland,MID,82,72,57,84,52,88,27,3,7
+Player 17,Poland,MID,79,72,54,77,49,92,20,3,3
+Player 18,Poland,MID,75,61,50,76,45,89,9,1,0
+Player 19,Poland,MID,79,69,54,74,49,74,38,3,6
+Player 20,Poland,FWD,81,79,82,66,51,92,16,13,2
+Player 21,Poland,FWD,82,67,77,67,52,87,15,15,1
+Player 22,Poland,FWD,82,91,72,67,52,90,25,0,6
+Player 23,Poland,FWD,83,82,79,68,53,84,13,11,8
+Player 1,Sweden,GK,81,61,56,66,51,82,15,0,2
+Player 2,Sweden,GK,83,63,58,68,53,86,41,2,0
+Player 3,Sweden,GK,76,56,51,61,46,88,19,2,0
+Player 4,Sweden,DEF,81,61,56,66,88,84,34,4,2
+Player 5,Sweden,DEF,75,55,50,60,81,72,24,1,0
+Player 6,Sweden,DEF,78,58,53,63,73,73,21,1,1
+Player 7,Sweden,DEF,82,62,57,67,79,92,8,2,0
+Player 8,Sweden,DEF,78,58,53,63,86,70,22,5,2
+Player 9,Sweden,DEF,78,58,53,63,74,91,40,1,1
+Player 10,Sweden,DEF,78,58,53,63,84,71,11,4,2
+Player 11,Sweden,DEF,74,54,49,59,80,79,31,4,0
+Player 12,Sweden,MID,78,82,53,82,48,77,38,5,1
+Player 13,Sweden,MID,76,76,51,74,46,73,7,2,1
+Player 14,Sweden,MID,79,75,54,79,49,71,14,0,1
+Player 15,Sweden,MID,83,84,58,87,53,82,45,4,10
+Player 16,Sweden,MID,76,83,51,83,46,73,45,2,1
+Player 17,Sweden,MID,78,88,53,84,48,86,32,0,9
+Player 18,Sweden,MID,76,63,51,76,46,88,24,2,1
+Player 19,Sweden,MID,75,82,50,75,45,77,24,4,3
+Player 20,Sweden,FWD,74,65,65,59,44,78,5,15,2
+Player 21,Sweden,FWD,82,79,81,67,52,86,28,5,9
+Player 22,Sweden,FWD,83,84,74,68,53,86,19,1,6
+Player 23,Sweden,FWD,74,76,69,59,44,72,6,5,7
+Player 1,Wales,GK,74,54,49,59,44,83,32,4,0
+Player 2,Wales,GK,73,53,48,58,43,76,45,2,0
+Player 3,Wales,GK,77,57,52,62,47,71,16,3,1
+Player 4,Wales,DEF,76,56,51,61,73,79,11,2,2
+Player 5,Wales,DEF,81,61,56,66,84,86,35,1,2
+Player 6,Wales,DEF,80,60,55,65,76,90,30,3,1
+Player 7,Wales,DEF,76,56,51,61,78,86,6,5,1
+Player 8,Wales,DEF,73,53,48,58,70,80,23,0,1
+Player 9,Wales,DEF,82,62,57,67,88,86,33,1,2
+Player 10,Wales,DEF,80,60,55,65,81,92,42,3,0
+Player 11,Wales,DEF,78,58,53,63,80,82,22,5,2
+Player 12,Wales,MID,74,72,49,74,44,88,35,5,0
+Player 13,Wales,MID,76,66,51,79,46,89,25,5,10
+Player 14,Wales,MID,78,69,53,82,48,76,41,1,5
+Player 15,Wales,MID,77,82,52,75,47,75,24,4,10
+Player 16,Wales,MID,80,77,55,87,50,88,31,3,6
+Player 17,Wales,MID,73,71,48,79,43,86,38,2,7
+Player 18,Wales,MID,76,65,51,78,46,81,43,3,7
+Player 19,Wales,MID,76,84,51,80,46,71,13,4,8
+Player 20,Wales,FWD,81,91,86,66,51,89,5,3,7
+Player 21,Wales,FWD,79,79,78,64,49,80,25,12,8
+Player 22,Wales,FWD,73,67,68,58,43,86,13,4,1
+Player 23,Wales,FWD,76,70,67,61,46,72,24,0,5
+Player 1,Egypt,GK,77,57,52,62,47,89,19,2,2
+Player 2,Egypt,GK,77,57,52,62,47,84,24,2,1
+Player 3,Egypt,GK,83,63,58,68,53,74,38,3,0
+Player 4,Egypt,DEF,79,59,54,64,84,82,40,2,2
+Player 5,Egypt,DEF,80,60,55,65,80,82,13,0,2
+Player 6,Egypt,DEF,78,58,53,63,76,76,40,2,0
+Player 7,Egypt,DEF,80,60,55,65,78,84,8,4,2
+Player 8,Egypt,DEF,74,54,49,59,81,77,25,0,1
+Player 9,Egypt,DEF,82,62,57,67,90,78,9,2,0
+Player 10,Egypt,DEF,77,57,52,62,73,84,27,2,1
+Player 11,Egypt,DEF,74,54,49,59,69,82,22,2,0
+Player 12,Egypt,MID,82,82,57,84,52,86,41,1,3
+Player 13,Egypt,MID,78,74,53,79,48,76,13,4,3
+Player 14,Egypt,MID,81,85,56,83,51,91,41,5,5
+Player 15,Egypt,MID,83,76,58,83,53,71,12,2,7
+Player 16,Egypt,MID,76,81,51,74,46,70,14,2,4
+Player 17,Egypt,MID,75,60,50,74,45,71,31,3,3
+Player 18,Egypt,MID,83,74,58,83,53,85,11,0,10
+Player 19,Egypt,MID,76,67,51,84,46,76,19,0,7
+Player 20,Egypt,FWD,75,75,80,60,45,81,7,14,3
+Player 21,Egypt,FWD,76,63,71,61,46,83,42,8,0
+Player 22,Egypt,FWD,81,78,79,66,51,81,39,3,7
+Player 23,Egypt,FWD,81,83,75,66,51,77,20,6,10
+Player 1,Nigeria,GK,79,59,54,64,49,88,14,2,1
+Player 2,Nigeria,GK,84,64,59,69,54,77,5,5,0
+Player 3,Nigeria,GK,82,62,57,67,52,74,36,2,2
+Player 4,Nigeria,DEF,83,63,58,68,89,78,37,3,1
+Player 5,Nigeria,DEF,75,55,50,60,81,87,25,4,1
+Player 6,Nigeria,DEF,75,55,50,60,83,90,26,0,0
+Player 7,Nigeria,DEF,82,62,57,67,78,83,8,0,0
+Player 8,Nigeria,DEF,75,55,50,60,72,84,40,4,1
+Player 9,Nigeria,DEF,81,61,56,66,80,73,14,1,1
+Player 10,Nigeria,DEF,80,60,55,65,82,72,12,3,0
+Player 11,Nigeria,DEF,76,56,51,61,76,77,28,2,0
+Player 12,Nigeria,MID,84,91,59,92,54,91,30,4,4
+Player 13,Nigeria,MID,83,68,58,82,53,73,9,5,5
+Player 14,Nigeria,MID,84,86,59,88,54,92,37,0,6
+Player 15,Nigeria,MID,80,85,55,84,50,89,27,0,9
+Player 16,Nigeria,MID,77,75,52,85,47,78,15,1,6
+Player 17,Nigeria,MID,75,78,50,80,45,73,19,5,1
+Player 18,Nigeria,MID,76,70,51,76,46,77,17,1,4
+Player 19,Nigeria,MID,81,68,56,89,51,77,35,4,0
+Player 20,Nigeria,FWD,83,69,86,68,53,85,7,13,3
+Player 21,Nigeria,FWD,75,78,77,60,45,80,25,2,9
+Player 22,Nigeria,FWD,82,71,74,67,52,82,41,14,6
+Player 23,Nigeria,FWD,84,83,81,69,54,71,18,6,2
+Player 1,Canada,GK,73,53,48,58,43,86,22,3,1
+Player 2,Canada,GK,78,58,53,63,48,76,12,0,2
+Player 3,Canada,GK,75,55,50,60,45,92,34,5,0
+Player 4,Canada,DEF,81,61,56,66,80,91,28,1,0
+Player 5,Canada,DEF,75,55,50,60,80,72,11,1,2
+Player 6,Canada,DEF,78,58,53,63,76,86,18,1,2
+Player 7,Canada,DEF,77,57,52,62,74,90,5,2,2
+Player 8,Canada,DEF,80,60,55,65,79,72,18,0,1
+Player 9,Canada,DEF,74,54,49,59,75,80,5,0,0
+Player 10,Canada,DEF,81,61,56,66,77,76,34,3,1
+Player 11,Canada,DEF,75,55,50,60,73,70,28,5,2
+Player 12,Canada,MID,75,64,50,74,45,78,36,4,4
+Player 13,Canada,MID,75,69,50,80,45,83,20,3,1
+Player 14,Canada,MID,82,67,57,78,52,72,26,4,1
+Player 15,Canada,MID,78,83,53,74,48,75,22,3,10
+Player 16,Canada,MID,75,69,50,74,45,91,24,0,6
+Player 17,Canada,MID,74,65,49,70,44,71,31,3,8
+Player 18,Canada,MID,75,60,50,82,45,85,23,5,5
+Player 19,Canada,MID,79,82,54,81,49,70,24,2,9
+Player 20,Canada,FWD,82,74,81,67,52,76,12,8,0
+Player 21,Canada,FWD,82,72,74,67,52,72,12,8,0
+Player 22,Canada,FWD,74,82,67,59,44,74,7,13,2
+Player 23,Canada,FWD,73,75,69,58,43,78,45,9,10
+Player 1,Saudi Arabia,GK,76,56,51,61,46,81,40,0,1
+Player 2,Saudi Arabia,GK,76,56,51,61,46,84,39,2,1
+Player 3,Saudi Arabia,GK,73,53,48,58,43,85,28,1,1
+Player 4,Saudi Arabia,DEF,80,60,55,65,85,76,25,5,2
+Player 5,Saudi Arabia,DEF,77,57,52,62,78,88,39,0,1
+Player 6,Saudi Arabia,DEF,73,53,48,58,80,86,25,3,0
+Player 7,Saudi Arabia,DEF,78,58,53,63,86,82,34,5,2
+Player 8,Saudi Arabia,DEF,76,56,51,61,78,82,10,1,0
+Player 9,Saudi Arabia,DEF,79,59,54,64,82,84,35,2,2
+Player 10,Saudi Arabia,DEF,77,57,52,62,81,76,7,5,1
+Player 11,Saudi Arabia,DEF,74,54,49,59,76,81,33,1,2
+Player 12,Saudi Arabia,MID,75,74,50,75,45,82,17,4,6
+Player 13,Saudi Arabia,MID,72,66,47,70,42,80,44,1,10
+Player 14,Saudi Arabia,MID,72,75,47,69,42,76,40,0,6
+Player 15,Saudi Arabia,MID,72,69,47,71,42,84,31,5,8
+Player 16,Saudi Arabia,MID,74,84,49,81,44,72,12,1,5
+Player 17,Saudi Arabia,MID,76,86,51,76,46,90,10,5,3
+Player 18,Saudi Arabia,MID,79,67,54,76,49,72,34,0,4
+Player 19,Saudi Arabia,MID,77,68,52,80,47,83,20,4,5
+Player 20,Saudi Arabia,FWD,80,69,71,65,50,71,42,4,6
+Player 21,Saudi Arabia,FWD,71,70,69,56,41,91,16,9,4
+Player 22,Saudi Arabia,FWD,76,61,67,61,46,83,24,10,1
+Player 23,Saudi Arabia,FWD,79,79,70,64,49,77,14,0,0
+Player 1,Cameroon,GK,78,58,53,63,48,77,36,3,2
+Player 2,Cameroon,GK,76,56,51,61,46,79,19,1,1
+Player 3,Cameroon,GK,81,61,56,66,51,76,20,0,2
+Player 4,Cameroon,DEF,80,60,55,65,84,76,15,1,1
+Player 5,Cameroon,DEF,80,60,55,65,78,85,12,0,1
+Player 6,Cameroon,DEF,78,58,53,63,79,79,16,0,0
+Player 7,Cameroon,DEF,76,56,51,61,77,90,43,0,2
+Player 8,Cameroon,DEF,78,58,53,63,85,75,17,1,2
+Player 9,Cameroon,DEF,76,56,51,61,82,91,43,4,1
+Player 10,Cameroon,DEF,73,53,48,58,71,76,22,1,2
+Player 11,Cameroon,DEF,72,52,47,57,69,77,26,5,2
+Player 12,Cameroon,MID,73,59,48,74,43,87,37,4,3
+Player 13,Cameroon,MID,77,84,52,82,47,79,40,3,10
+Player 14,Cameroon,MID,78,85,53,78,48,85,7,2,5
+Player 15,Cameroon,MID,79,87,54,83,49,80,20,3,7
+Player 16,Cameroon,MID,76,67,51,76,46,89,40,0,10
+Player 17,Cameroon,MID,77,84,52,79,47,92,34,4,1
+Player 18,Cameroon,MID,75,61,50,79,45,78,45,0,2
+Player 19,Cameroon,MID,78,88,53,86,48,87,44,1,5
+Player 20,Cameroon,FWD,75,84,71,60,45,82,5,12,2
+Player 21,Cameroon,FWD,77,62,72,62,47,74,33,12,2
+Player 22,Cameroon,FWD,77,84,70,62,47,78,7,8,1
+Player 23,Cameroon,FWD,72,82,62,57,42,87,20,7,7
+Player 1,Ghana,GK,80,60,55,65,50,90,22,5,2
+Player 2,Ghana,GK,79,59,54,64,49,90,13,1,2
+Player 3,Ghana,GK,71,51,46,56,41,90,42,0,1
+Player 4,Ghana,DEF,79,59,54,64,75,85,16,5,0
+Player 5,Ghana,DEF,71,51,46,56,69,81,44,2,2
+Player 6,Ghana,DEF,74,54,49,59,74,91,16,5,0
+Player 7,Ghana,DEF,77,57,52,62,74,87,25,3,2
+Player 8,Ghana,DEF,71,51,46,56,70,70,16,4,2
+Player 9,Ghana,DEF,72,52,47,57,67,83,20,5,1
+Player 10,Ghana,DEF,74,54,49,59,73,85,11,5,1
+Player 11,Ghana,DEF,76,56,51,61,77,76,33,4,2
+Player 12,Ghana,MID,71,76,46,78,41,83,30,4,0
+Player 13,Ghana,MID,79,71,54,79,49,81,34,2,10
+Player 14,Ghana,MID,76,74,51,75,46,89,15,0,0
+Player 15,Ghana,MID,77,71,52,76,47,79,18,2,0
+Player 16,Ghana,MID,74,65,49,79,44,90,16,1,8
+Player 17,Ghana,MID,79,65,54,83,49,79,41,3,10
+Player 18,Ghana,MID,72,65,47,68,42,80,28,1,0
+Player 19,Ghana,MID,78,74,53,83,48,90,23,0,7
+Player 20,Ghana,FWD,79,72,81,64,49,83,13,3,7
+Player 21,Ghana,FWD,76,76,69,61,46,84,42,12,6
+Player 22,Ghana,FWD,74,70,64,59,44,91,31,3,1
+Player 23,Ghana,FWD,77,64,73,62,47,84,18,10,8
+Player 1,Tunisia,GK,80,60,55,65,50,90,37,3,2
+Player 2,Tunisia,GK,74,54,49,59,44,70,37,1,0
+Player 3,Tunisia,GK,77,57,52,62,47,81,14,5,1
+Player 4,Tunisia,DEF,72,52,47,57,67,73,15,4,1
+Player 5,Tunisia,DEF,75,55,50,60,74,76,28,1,2
+Player 6,Tunisia,DEF,74,54,49,59,74,91,13,2,2
+Player 7,Tunisia,DEF,74,54,49,59,74,81,38,4,2
+Player 8,Tunisia,DEF,74,54,49,59,81,75,9,3,2
+Player 9,Tunisia,DEF,78,58,53,63,81,89,11,3,1
+Player 10,Tunisia,DEF,74,54,49,59,72,91,39,4,2
+Player 11,Tunisia,DEF,75,55,50,60,75,81,5,0,0
+Player 12,Tunisia,MID,76,86,51,83,46,75,17,4,3
+Player 13,Tunisia,MID,79,88,54,86,49,86,32,2,7
+Player 14,Tunisia,MID,80,68,55,76,50,85,33,2,5
+Player 15,Tunisia,MID,80,74,55,85,50,84,29,3,8
+Player 16,Tunisia,MID,74,59,49,81,44,73,22,2,1
+Player 17,Tunisia,MID,73,59,48,80,43,74,39,2,4
+Player 18,Tunisia,MID,72,76,47,71,42,81,39,0,2
+Player 19,Tunisia,MID,77,83,52,80,47,92,35,0,2
+Player 20,Tunisia,FWD,79,66,70,64,49,88,31,11,1
+Player 21,Tunisia,FWD,78,88,70,63,48,87,44,9,10
+Player 22,Tunisia,FWD,77,79,76,62,47,76,31,6,4
+Player 23,Tunisia,FWD,79,64,77,64,49,78,7,3,7
+Player 1,Chile,GK,82,62,57,67,52,81,18,4,2
+Player 2,Chile,GK,79,59,54,64,49,92,30,1,1
+Player 3,Chile,GK,77,57,52,62,47,83,39,0,1
+Player 4,Chile,DEF,82,62,57,67,82,82,10,4,2
+Player 5,Chile,DEF,74,54,49,59,82,90,41,4,1
+Player 6,Chile,DEF,79,59,54,64,74,88,43,1,2
+Player 7,Chile,DEF,80,60,55,65,86,79,14,4,2
+Player 8,Chile,DEF,74,54,49,59,74,82,9,1,1
+Player 9,Chile,DEF,77,57,52,62,85,76,30,2,2
+Player 10,Chile,DEF,78,58,53,63,76,81,26,1,1
+Player 11,Chile,DEF,75,55,50,60,76,79,36,3,2
+Player 12,Chile,MID,74,75,49,82,44,83,42,5,6
+Player 13,Chile,MID,80,73,55,88,50,77,35,5,0
+Player 14,Chile,MID,80,77,55,75,50,73,38,2,6
+Player 15,Chile,MID,78,69,53,74,48,78,6,0,0
+Player 16,Chile,MID,82,70,57,79,52,92,34,2,1
+Player 17,Chile,MID,76,78,51,80,46,80,22,0,10
+Player 18,Chile,MID,76,69,51,74,46,84,12,3,3
+Player 19,Chile,MID,74,80,49,80,44,81,13,1,5
+Player 20,Chile,FWD,74,59,71,59,44,91,23,5,1
+Player 21,Chile,FWD,73,75,66,58,43,70,17,3,3
+Player 22,Chile,FWD,76,70,76,61,46,71,32,11,5
+Player 23,Chile,FWD,78,85,75,63,48,84,43,13,0
+Player 1,Peru,GK,76,56,51,61,46,76,7,1,2
+Player 2,Peru,GK,77,57,52,62,47,78,14,3,1
+Player 3,Peru,GK,74,54,49,59,44,91,12,1,2
+Player 4,Peru,DEF,72,52,47,57,68,71,43,3,1
+Player 5,Peru,DEF,77,57,52,62,76,76,40,1,2
+Player 6,Peru,DEF,76,56,51,61,84,81,30,4,0
+Player 7,Peru,DEF,80,60,55,65,87,78,13,1,0
+Player 8,Peru,DEF,74,54,49,59,75,78,32,0,2
+Player 9,Peru,DEF,78,58,53,63,82,87,25,4,1
+Player 10,Peru,DEF,73,53,48,58,73,90,43,5,0
+Player 11,Peru,DEF,76,56,51,61,78,73,5,4,1
+Player 12,Peru,MID,73,68,48,69,43,92,21,3,5
+Player 13,Peru,MID,76,78,51,71,46,72,24,4,3
+Player 14,Peru,MID,73,67,48,69,43,87,32,1,4
+Player 15,Peru,MID,75,85,50,73,45,73,26,0,3
+Player 16,Peru,MID,80,87,55,83,50,75,27,3,2
+Player 17,Peru,MID,77,73,52,77,47,80,42,2,2
+Player 18,Peru,MID,74,82,49,73,44,82,38,1,3
+Player 19,Peru,MID,79,79,54,78,49,83,22,0,10
+Player 20,Peru,FWD,73,77,64,58,43,75,11,2,2
+Player 21,Peru,FWD,77,77,77,62,47,75,35,14,1
+Player 22,Peru,FWD,81,90,85,66,51,71,42,9,3
+Player 23,Peru,FWD,74,61,67,59,44,79,22,15,7
+Player 1,Algeria,GK,80,60,55,65,50,87,17,4,2
+Player 2,Algeria,GK,78,58,53,63,48,73,26,4,2
+Player 3,Algeria,GK,82,62,57,67,52,89,7,1,1
+Player 4,Algeria,DEF,79,59,54,64,77,74,23,4,2
+Player 5,Algeria,DEF,73,53,48,58,79,74,8,4,1
+Player 6,Algeria,DEF,79,59,54,64,81,88,33,3,1
+Player 7,Algeria,DEF,77,57,52,62,85,76,15,4,0
+Player 8,Algeria,DEF,82,62,57,67,89,85,6,3,2
+Player 9,Algeria,DEF,76,56,51,61,79,72,16,4,0
+Player 10,Algeria,DEF,76,56,51,61,75,87,44,0,1
+Player 11,Algeria,DEF,77,57,52,62,81,71,41,3,1
+Player 12,Algeria,MID,77,73,52,84,47,75,42,5,8
+Player 13,Algeria,MID,73,76,48,69,43,77,5,0,0
+Player 14,Algeria,MID,76,75,51,76,46,87,40,3,2
+Player 15,Algeria,MID,78,85,53,73,48,74,25,5,8
+Player 16,Algeria,MID,82,74,57,78,52,82,20,0,10
+Player 17,Algeria,MID,78,77,53,73,48,75,16,5,10
+Player 18,Algeria,MID,79,74,54,77,49,90,11,0,10
+Player 19,Algeria,MID,81,72,56,83,51,75,28,4,0
+Player 20,Algeria,FWD,77,68,74,62,47,76,41,9,2
+Player 21,Algeria,FWD,74,66,70,59,44,81,16,10,3
+Player 22,Algeria,FWD,78,66,74,63,48,92,5,6,4
+Player 23,Algeria,FWD,80,67,77,65,50,82,17,4,1
+Player 1,Costa Rica,GK,76,56,51,61,46,71,29,5,0
+Player 2,Costa Rica,GK,75,55,50,60,45,84,42,5,1
+Player 3,Costa Rica,GK,75,55,50,60,45,84,37,0,2
+Player 4,Costa Rica,DEF,77,57,52,62,84,78,24,1,2
+Player 5,Costa Rica,DEF,70,50,45,55,77,85,25,4,0
+Player 6,Costa Rica,DEF,77,57,52,62,80,76,7,0,0
+Player 7,Costa Rica,DEF,77,57,52,62,73,82,34,5,0
+Player 8,Costa Rica,DEF,75,55,50,60,81,72,36,4,2
+Player 9,Costa Rica,DEF,70,50,45,55,73,85,17,0,2
+Player 10,Costa Rica,DEF,77,57,52,62,85,83,36,1,1
+Player 11,Costa Rica,DEF,74,54,49,59,70,84,5,1,0
+Player 12,Costa Rica,MID,78,79,53,79,48,85,34,3,4
+Player 13,Costa Rica,MID,75,70,50,75,45,72,26,2,5
+Player 14,Costa Rica,MID,73,67,48,72,43,79,16,4,8
+Player 15,Costa Rica,MID,78,85,53,86,48,85,12,1,3
+Player 16,Costa Rica,MID,72,59,47,80,42,78,25,1,6
+Player 17,Costa Rica,MID,76,80,51,71,46,73,34,1,3
+Player 18,Costa Rica,MID,71,66,46,76,41,88,24,1,2
+Player 19,Costa Rica,MID,79,81,54,76,49,77,24,2,4
+Player 20,Costa Rica,FWD,73,58,66,58,43,81,35,14,4
+Player 21,Costa Rica,FWD,78,68,82,63,48,88,15,10,0
+Player 22,Costa Rica,FWD,72,71,69,57,42,86,37,12,3
+Player 23,Costa Rica,FWD,71,67,76,56,41,75,45,8,7
+Player 1,Panama,GK,80,60,55,65,50,84,17,4,1
+Player 2,Panama,GK,73,53,48,58,43,71,19,2,2
+Player 3,Panama,GK,76,56,51,61,46,83,25,0,0
+Player 4,Panama,DEF,78,58,53,63,75,84,10,2,2
+Player 5,Panama,DEF,71,51,46,56,69,89,6,4,0
+Player 6,Panama,DEF,80,60,55,65,84,72,18,0,2
+Player 7,Panama,DEF,72,52,47,57,76,87,7,5,0
+Player 8,Panama,DEF,72,52,47,57,67,84,33,3,0
+Player 9,Panama,DEF,71,51,46,56,72,81,23,3,2
+Player 10,Panama,DEF,74,54,49,59,73,70,12,3,0
+Player 11,Panama,DEF,72,52,47,57,70,83,39,0,2
+Player 12,Panama,MID,75,62,50,75,45,80,23,1,9
+Player 13,Panama,MID,78,82,53,79,48,81,12,4,1
+Player 14,Panama,MID,71,73,46,72,41,78,8,0,3
+Player 15,Panama,MID,78,72,53,73,48,75,42,0,10
+Player 16,Panama,MID,80,87,55,85,50,74,6,4,6
+Player 17,Panama,MID,71,65,46,72,41,87,24,1,1
+Player 18,Panama,MID,74,67,49,73,44,84,29,4,1
+Player 19,Panama,MID,79,89,54,83,49,77,35,2,0
+Player 20,Panama,FWD,79,77,81,64,49,88,27,6,0
+Player 21,Panama,FWD,79,74,81,64,49,90,20,3,8
+Player 22,Panama,FWD,80,71,82,65,50,73,24,2,3
+Player 23,Panama,FWD,77,64,75,62,47,87,35,2,10
+Player 1,Qatar,GK,76,56,51,61,46,83,42,0,2
+Player 2,Qatar,GK,78,58,53,63,48,75,22,3,0
+Player 3,Qatar,GK,77,57,52,62,47,84,9,1,1
+Player 4,Qatar,DEF,72,52,47,57,67,72,7,0,1
+Player 5,Qatar,DEF,74,54,49,59,80,82,24,1,0
+Player 6,Qatar,DEF,77,57,52,62,80,86,10,2,0
+Player 7,Qatar,DEF,70,50,45,55,71,82,24,3,1
+Player 8,Qatar,DEF,71,51,46,56,75,72,18,0,2
+Player 9,Qatar,DEF,77,57,52,62,82,74,13,2,2
+Player 10,Qatar,DEF,79,59,54,64,80,87,22,2,1
+Player 11,Qatar,DEF,74,54,49,59,69,81,34,1,2
+Player 12,Qatar,MID,70,63,45,77,40,70,43,1,8
+Player 13,Qatar,MID,76,63,51,78,46,86,43,5,2
+Player 14,Qatar,MID,76,79,51,73,46,87,12,0,5
+Player 15,Qatar,MID,79,71,54,87,49,91,35,4,0
+Player 16,Qatar,MID,77,68,52,82,47,79,14,3,5
+Player 17,Qatar,MID,78,76,53,76,48,83,45,4,0
+Player 18,Qatar,MID,70,75,45,78,40,72,18,3,6
+Player 19,Qatar,MID,71,61,46,67,41,86,33,2,8
+Player 20,Qatar,FWD,73,78,75,58,43,71,13,11,3
+Player 21,Qatar,FWD,79,71,82,64,49,79,32,12,3
+Player 22,Qatar,FWD,76,78,69,61,46,91,14,13,2
+Player 23,Qatar,FWD,71,66,71,56,41,90,42,10,3
+Player 1,Jamaica,GK,72,52,47,57,42,84,15,5,2
+Player 2,Jamaica,GK,77,57,52,62,47,87,15,3,1
+Player 3,Jamaica,GK,76,56,51,61,46,87,13,2,1
+Player 4,Jamaica,DEF,78,58,53,63,77,92,34,0,1
+Player 5,Jamaica,DEF,77,57,52,62,76,70,30,1,0
+Player 6,Jamaica,DEF,70,50,45,55,78,85,27,1,1
+Player 7,Jamaica,DEF,79,59,54,64,78,82,44,3,0
+Player 8,Jamaica,DEF,76,56,51,61,71,79,30,5,2
+Player 9,Jamaica,DEF,70,50,45,55,74,75,31,3,0
+Player 10,Jamaica,DEF,78,58,53,63,86,88,6,0,1
+Player 11,Jamaica,DEF,79,59,54,64,74,72,23,2,2
+Player 12,Jamaica,MID,73,80,48,72,43,74,16,5,4
+Player 13,Jamaica,MID,71,58,46,68,41,79,15,5,10
+Player 14,Jamaica,MID,79,77,54,85,49,77,11,5,0
+Player 15,Jamaica,MID,76,78,51,83,46,76,37,4,6
+Player 16,Jamaica,MID,75,72,50,76,45,92,17,2,7
+Player 17,Jamaica,MID,79,67,54,79,49,75,34,4,3
+Player 18,Jamaica,MID,77,62,52,75,47,72,31,3,4
+Player 19,Jamaica,MID,74,62,49,82,44,89,17,5,10
+Player 20,Jamaica,FWD,73,68,76,58,43,78,22,2,7
+Player 21,Jamaica,FWD,77,77,68,62,47,80,18,10,9
+Player 22,Jamaica,FWD,71,59,70,56,41,89,39,2,4
+Player 23,Jamaica,FWD,74,77,71,59,44,92,45,15,7
+Player 1,New Zealand,GK,69,49,44,54,39,78,22,0,1
+Player 2,New Zealand,GK,69,49,44,54,39,77,33,4,2
+Player 3,New Zealand,GK,70,50,45,55,40,87,21,5,1
+Player 4,New Zealand,DEF,66,46,41,51,73,77,10,1,0
+Player 5,New Zealand,DEF,68,48,43,53,75,73,27,2,2
+Player 6,New Zealand,DEF,68,48,43,53,69,84,37,1,1
+Player 7,New Zealand,DEF,67,47,42,52,62,70,6,3,2
+Player 8,New Zealand,DEF,71,51,46,56,79,92,29,5,1
+Player 9,New Zealand,DEF,70,50,45,55,78,82,19,2,2
+Player 10,New Zealand,DEF,67,47,42,52,65,76,35,5,1
+Player 11,New Zealand,DEF,72,52,47,57,78,73,34,1,2
+Player 12,New Zealand,MID,69,54,44,69,39,70,33,4,4
+Player 13,New Zealand,MID,74,79,49,80,44,91,44,4,3
+Player 14,New Zealand,MID,74,70,49,75,44,83,15,1,2
+Player 15,New Zealand,MID,68,72,43,76,38,78,45,0,6
+Player 16,New Zealand,MID,70,59,45,74,40,75,6,5,3
+Player 17,New Zealand,MID,72,64,47,72,42,86,24,1,2
+Player 18,New Zealand,MID,74,71,49,77,44,72,31,0,2
+Player 19,New Zealand,MID,66,57,41,61,36,92,45,3,6
+Player 20,New Zealand,FWD,74,81,79,59,44,80,20,2,9
+Player 21,New Zealand,FWD,72,65,76,57,42,87,21,7,6
+Player 22,New Zealand,FWD,70,55,65,55,40,70,18,6,6
+Player 23,New Zealand,FWD,69,75,72,54,39,81,31,14,0
+Player 1,South Africa,GK,78,58,53,63,48,91,17,4,1
+Player 2,South Africa,GK,70,50,45,55,40,80,10,5,1
+Player 3,South Africa,GK,76,56,51,61,46,89,27,5,2
+Player 4,South Africa,DEF,76,56,51,61,77,82,38,1,1
+Player 5,South Africa,DEF,78,58,53,63,73,80,16,3,0
+Player 6,South Africa,DEF,73,53,48,58,81,78,14,4,0
+Player 7,South Africa,DEF,75,55,50,60,72,78,45,3,1
+Player 8,South Africa,DEF,70,50,45,55,70,76,28,3,0
+Player 9,South Africa,DEF,78,58,53,63,85,72,12,4,2
+Player 10,South Africa,DEF,75,55,50,60,75,90,8,2,0
+Player 11,South Africa,DEF,69,49,44,54,73,84,7,0,2
+Player 12,South Africa,MID,69,57,44,68,39,89,25,2,0
+Player 13,South Africa,MID,78,79,53,86,48,83,8,5,10
+Player 14,South Africa,MID,74,60,49,75,44,80,11,1,7
+Player 15,South Africa,MID,71,80,46,68,41,87,44,1,0
+Player 16,South Africa,MID,77,71,52,82,47,70,32,3,7
+Player 17,South Africa,MID,71,61,46,72,41,89,40,2,5
+Player 18,South Africa,MID,77,64,52,78,47,87,12,2,1
+Player 19,South Africa,MID,73,58,48,75,43,70,41,4,5
+Player 20,South Africa,FWD,71,68,75,56,41,72,19,6,2
+Player 21,South Africa,FWD,72,78,77,57,42,83,22,14,3
+Player 22,South Africa,FWD,78,64,69,63,48,90,11,13,7
+Player 23,South Africa,FWD,78,85,73,63,48,84,12,15,5
+Player 1,Iraq,GK,69,49,44,54,39,74,44,3,0
+Player 2,Iraq,GK,74,54,49,59,44,85,44,3,2
+Player 3,Iraq,GK,78,58,53,63,48,77,29,1,0
+Player 4,Iraq,DEF,75,55,50,60,75,87,33,0,0
+Player 5,Iraq,DEF,71,51,46,56,68,90,18,1,2
+Player 6,Iraq,DEF,72,52,47,57,70,76,31,4,2
+Player 7,Iraq,DEF,69,49,44,54,71,87,31,3,1
+Player 8,Iraq,DEF,72,52,47,57,75,80,39,5,1
+Player 9,Iraq,DEF,69,49,44,54,67,83,24,0,1
+Player 10,Iraq,DEF,78,58,53,63,80,85,40,1,0
+Player 11,Iraq,DEF,76,56,51,61,83,92,5,3,0
+Player 12,Iraq,MID,76,71,51,79,46,92,44,0,6
+Player 13,Iraq,MID,72,70,47,69,42,91,16,4,10
+Player 14,Iraq,MID,73,60,48,80,43,71,25,4,8
+Player 15,Iraq,MID,75,63,50,81,45,78,32,4,2
+Player 16,Iraq,MID,72,73,47,68,42,72,43,4,1
+Player 17,Iraq,MID,72,67,47,71,42,86,27,4,8
+Player 18,Iraq,MID,72,61,47,79,42,70,42,2,0
+Player 19,Iraq,MID,77,83,52,75,47,73,25,2,2
+Player 20,Iraq,FWD,71,73,66,56,41,91,31,10,5
+Player 21,Iraq,FWD,75,75,77,60,45,86,29,7,5
+Player 22,Iraq,FWD,77,72,69,62,47,85,21,11,1
+Player 23,Iraq,FWD,77,68,67,62,47,80,20,9,1
+Player 1,Uzbekistan,GK,71,51,46,56,41,84,8,1,1
+Player 2,Uzbekistan,GK,70,50,45,55,40,90,40,1,1
+Player 3,Uzbekistan,GK,79,59,54,64,49,77,42,2,2
+Player 4,Uzbekistan,DEF,72,52,47,57,79,88,18,1,1
+Player 5,Uzbekistan,DEF,77,57,52,62,83,83,30,5,2
+Player 6,Uzbekistan,DEF,76,56,51,61,74,82,42,5,1
+Player 7,Uzbekistan,DEF,78,58,53,63,78,90,5,5,0
+Player 8,Uzbekistan,DEF,72,52,47,57,71,88,6,5,0
+Player 9,Uzbekistan,DEF,70,50,45,55,76,84,33,5,1
+Player 10,Uzbekistan,DEF,79,59,54,64,74,90,44,4,1
+Player 11,Uzbekistan,DEF,77,57,52,62,77,88,8,3,2
+Player 12,Uzbekistan,MID,76,72,51,78,46,75,9,0,6
+Player 13,Uzbekistan,MID,72,69,47,73,42,80,36,3,1
+Player 14,Uzbekistan,MID,78,69,53,86,48,76,34,5,6
+Player 15,Uzbekistan,MID,79,68,54,80,49,91,31,1,7
+Player 16,Uzbekistan,MID,76,82,51,80,46,92,25,5,9
+Player 17,Uzbekistan,MID,72,57,47,68,42,80,18,2,8
+Player 18,Uzbekistan,MID,72,78,47,67,42,86,38,0,7
+Player 19,Uzbekistan,MID,70,57,45,78,40,71,29,0,0
+Player 20,Uzbekistan,FWD,79,66,79,64,49,74,29,5,9
+Player 21,Uzbekistan,FWD,71,66,76,56,41,76,18,8,3
+Player 22,Uzbekistan,FWD,74,80,79,59,44,78,23,12,7
+Player 23,Uzbekistan,FWD,76,68,77,61,46,78,45,0,5
